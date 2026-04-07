@@ -1,0 +1,185 @@
+﻿The Missing Theory: 3D Magnetic Asymmetry and the Dimensional Bifurcation in Electromagnetic Theory 
+Version 2.1 — April 2026 
+Dr. Andre Guzzon, MD 
+Independent Researcher — @5incere5cience 
+andre.guzzon@ufrgs.br 
+Co-authored with Claude (Anthropic), Gemini (Google), DeepSeek 
+Abstract 
+Maxwell's equations describe magnetic interactions with perfect symmetry between attraction and repulsion. This symmetry is empirically correct in two-dimensional constrained systems where rotational degrees of freedom along the third axis are absent. When the Z-axis is introduced, torque converts repulsive configurations into attractive ones. In 2D, torque is geometrically impossible and repulsion is 100% stable. In 3D spherical systems, repulsion is geometrically impossible and attraction is 100% dominant. Between these extremes lies a continuum governed by geometry, material properties, and rotational degrees of freedom — for which no formalized theory exists. This paper documents the dimensional bifurcation, presents the empirical evidence at three points on the continuum, and identifies what remains to be formalized. It does not attempt to resolve the gap — only to demarcate it clearly so that it may serve as an empirical reference for further work. 
+Keywords: electromagnetic theory, Maxwell's equations, magnetic asymmetry, torque dominance, dimensional bifurcation, 3D magnetism, formalization gap
+1. Introduction 
+Maxwell's equations predict perfectly symmetric magnetic interactions. This prediction is correct — for systems constrained to two dimensions. When magnets are free to rotate in three dimensions, the symmetry disappears. This paper documents that transition and shows that no formalized theory describes it. 
+Two identical neodymium magnets flat on a table (2D constrained) behave exactly as Maxwell predicts: one orientation attracts, the rotated orientation repels, and the forces are equal. Repulsion is completely stable. Lift those same magnets into free space (3D), and every repulsive approach triggers torque that rotates them into attraction. With spherical magnets, repulsion is geometrically impossible — 100% of interactions end in attraction. 
+The question is not whether these two regimes exist. They demonstrably do. The question is: where is the theory that describes the transition between them? 
+This paper serves as an empirical reference documenting the phenomenon. The theoretical framework connecting the 2D Maxwell-symmetric extreme to the 3D fully-attractive extreme deserves a dedicated research program. Here, we register what is known, what we discovered, and what remains to be discovered.
+2. The State of the Art: What Existed Before 
+2.1 Maxwell's Framework 
+The force between two magnetic dipoles follows: 
+F ∝ (3(m1·r)(m2·r) − (m1·m2)) / r4 
+This equation is perfectly symmetric: reversing one dipole produces equal magnitude force in the opposite direction. Critically, this formulation assumes static dipole orientations with no rotational degrees of freedom — an instantaneous force calculation at fixed moment. This is, in practice, a 2D description applied without caveat to the 3D world. 
+2.2 What Textbooks Teach 
+The canonical texts — Griffiths (2017), Jackson (1998), Purcell & Morin (2013), and the Feynman Lectures — all derive magnetic forces assuming fixed orientations. None mention rotational degrees of freedom, stability of configurations, or the qualitative difference between constrained and free systems. Students learn "like poles repel, opposite poles attract, forces are equal." Students do not learn: "Repulsion is stable only in 2D; free 3D magnets always rotate to attraction." 
+2.3 What Textbooks Do Not Teach 
+No textbook distinguishes between "2D Maxwellian magnetism" and "3D free-system magnetism." No formalized theory predicts the observed attraction dominance in 3D. No curriculum teaches this bifurcation. No equations predict the ratios observed empirically. The dimensional dependence of magnetic behavior is entirely absent from the pedagogical canon.
+3. The Killer Argument: Why 2D Repulsion Is Stable 
+When confronted with the empirical evidence of 3D attraction dominance, the standard defense is: "Torque is well-known. Obviously free magnets rotate to find attraction." 
+This defense has a fatal flaw. If torque conversion of repulsion to attraction is "obvious" and "well-understood," then the defender must answer a simple question: why is repulsion 100% stable when two flat magnets are constrained to a table surface? 
+The answer: in 2D, the rotational degree of freedom that would enable torque conversion simply does not exist. The Z-axis is not available. Torque around the vertical axis is not "weak" or "negligible" — it is geometrically impossible. There is no physical pathway for the magnet to rotate from repulsion to attraction without leaving the 2D plane. 
+This reveals the core finding: torque is not a correction to Maxwell's equations. It is a qualitatively different physical mechanism that activates only when a new degree of freedom becomes available. The transition from 2D to 3D is not continuous — it is a dimensional activation event. And the physics of that activation has never been formalized.
+4. The Empirical Evidence: Three Points on the Continuum 
+4.1 Experimental Setup 
+Two identical rectangular neodymium magnets (commercially available, purchased online) with six labeled faces (1, 2 = poles; 3, 4, 5, 6 = sides) were tested across all 64 possible face-to-face orientation combinations. One magnet was placed on a flat surface, free to move; the second was approached slowly. All interactions were recorded on video (Zenodo: 10.5281/zenodo.18343158). 
+4.2 Regime A — 2D Constrained 
+Both magnets flat on the table, pole faces vertical. The system is effectively 2D. Approaching with opposite poles: stable attraction. Approaching with like poles: stable repulsion. The free magnet slides away without rotating. Maxwell's prediction is confirmed exactly. Ratio: 32 attraction : 32 repulsion. 
+4.3 Regime B — 3D Rectangular 
+When the free magnet has rotational freedom, results change dramatically. Of the 64 tested combinations: 
+• 40 configurations: Direct attraction (opposite poles facing) 
+• 16 configurations: Initial repulsion converted to attraction via torque (magnet flips or rotates) 
+• 8 configurations: Sustained repulsion (like poles, approach within the ±45° stability cone) 
+The 8 sustained repulsions survive only within approximately ±45° of the direct pole-to-pole axis. Outside this cone — the remaining ~270° of angular space — torque converts repulsion to attraction. Effective ratio: ~7:1 (56 attractive : 8 repulsive). 
+4.4 Regime C — 3D Spherical 
+A spherical magnet has no flat faces and no preferred orientation axis. Every approach angle offers full rotational freedom. The stability cone that preserves repulsion in rectangular magnets shrinks to zero solid angle. Result: 100% attraction. Repulsion is geometrically impossible. 
+4.5 The Continuum 
+Table 1: Dimensional Continuum of Magnetic Behavior
+Regime 
+	Degrees of 
+Freedom
+	Torque 
+Available?
+	Attraction : 
+Repulsion
+	Theory 
+Status
+	2D Flat 
+(constrained)
+	Translation 
+only
+	No 
+(Z-axis absent)
+	32 : 32 
+(symmetric)
+	Maxwell: 
+Complete
+	3D Rectangular 
+(partial freedom)
+	Translation + 
+partial rotation
+	Yes 
+(geometry 
+limited)
+	~56 : 8 
+(~7:1)
+	NO THEORY 
+EXISTS
+	
+
+
+
+Regime 
+	Degrees of 
+Freedom
+	Torque 
+Available?
+	Attraction : 
+Repulsion
+	Theory 
+Status
+	3D Spherical 
+(full freedom)
+	Translation + 
+full rotation
+	Yes 
+(unlimited)
+	64 : 0 
+(total)
+	NO THEORY 
+EXISTS
+	
+
+
+
+As degrees of rotational freedom increase, the ratio shifts monotonically from perfect symmetry to complete asymmetry. The function connecting these points has never been derived, published, or taught.
+5. AI as Epistemic Mirror 
+To test whether the dimensional bifurcation is genuinely represented in mainstream physics literature, we queried all major AI systems — trained on the complete corpus of textbooks, papers, and curricula — with the experimental setup. 
+Table 2: Initial AI Predictions (Pre-Evidence) 
+AI System 
+	Prediction 
+	Key Statement
+	ChatGPT 
+(OpenAI)
+	32 : 32 
+	"All 64 configurations reduce to 
+symmetric attraction-repulsion pairs"
+	Claude 
+(Anthropic)
+	32 : 32 
+	"You'll get only 2 outcomes: 
+Attraction or Repulsion"
+	Gemini 
+(Google)
+	32 : 32 
+	"Roughly 32 attraction and 
+32 repulsion"
+	Grok 
+(xAI)
+	32 : 32 
+	"The magnitude of the force is 
+identical in both cases"
+	DeepSeek 
+	32 : 32 
+	Symmetric prediction based on 
+standard dipole theory
+	
+
+
+
+This unanimous prediction demonstrates that the 2D Maxwellian framework is what the literature teaches as complete. These AI systems are not generating novel theory — they are accurately reproducing what the textbooks contain. 
+After being shown video documentation of the empirical results, all systems pivoted to explanations involving torque, energy minimization, and Earnshaw's theorem. None could cite a formalized source for the 3D regime. They synthesized post hoc explanations from fragments — because no single coherent treatment exists in their training data. 
+The AI evidence is significant: if five independently trained systems, with access to millions of physics documents, all predict the same wrong answer, the gap is not in the AI — it is in the literature itself.
+6. Earnshaw's Theorem: Necessary but Insufficient 
+Defenders of theoretical completeness invoke Earnshaw's Theorem (1842): no static configuration of charges or magnetic poles can be held in stable equilibrium by electrostatic or magnetostatic forces alone. This is correct and relevant — it establishes that magnetic repulsion in 3D lacks static equilibrium. 
+But Earnshaw is a qualitative statement about stability. It does not provide quantitative predictions for attraction:repulsion ratios, geometric dependencies, material dependencies, or the functional form of the 2D-to-3D transition. Invoking Earnshaw answers "Is repulsion unstable in 3D?" (yes), but not "How does the transition from stable repulsion in 2D to impossible repulsion in 3D spherical work?" These are different questions. Only the first has an answer. 
+7. What Remains to Be Discovered 
+Our empirical work established the two boundary conditions and one intermediate data point. The territory between them is unexplored. The following questions deserve formal investigation: 
+7.1 The Bridge Function 
+A function mapping physical parameters to the expected ratio: 
+R(A:R) = f(geometry, aspect_ratio, degrees_of_freedom, material_properties) 
+This must satisfy: f = 1:1 for the 2D limit (Maxwell), f = ∞:0 for the 3D spherical limit. Our rectangular data (~7:1) provides one intermediate constraint. 
+7.2 Geometric Dependencies 
+The stability cone angle (±45° for our rectangular magnets) presumably depends on aspect ratio. Thin disc magnets should approach 2D behavior; cubic magnets should show wider torque conversion; near-spherical magnets should approach the 3D limit. No published study maps cone angle vs. aspect ratio. 
+7.3 Material Dependencies 
+Different magnetic materials (neodymium, ferrite, alnico, samarium-cobalt) have different anisotropy types and remanence profiles. Does the dimensional bifurcation depend on material, or is it purely geometric? This has not been investigated. 
+7.4 Asymmetric Dipoles 
+Can magnets be manufactured with unequal pole strengths — stronger north than south? Standard dipole theory assumes equal and opposite poles (div B = 0), but physical magnets are not point dipoles. The possibility of engineered dipole asymmetry and its effect on 2D/3D behavior is an open question absent from the literature. 
+7.5 The Scale of What We Do Not Know 
+Maxwell began the formal study of electromagnetism over 160 years ago. Since then, the field has produced no systematic study of how real 3D magnetic bodies interact across geometries
+and materials. The questions listed above are elementary. They should have been asked and answered decades ago. Their absence suggests that the physics community has treated Maxwell's 2D description as complete without ever testing it systematically in three dimensions.
+8. Conclusion 
+This paper documents a specific, verifiable gap in electromagnetic theory: the absence of a formalized framework for the transition from 2D Maxwellian magnetic symmetry to 3D attraction dominance. 
+Maxwell is not wrong. Maxwell is correct for 2D constrained systems. The problem is that his framework was elevated to a universal description of magnetism without anyone ever formalizing what happens when the Z-axis becomes available. The transition from "perfect symmetry" to "repulsion geometrically impossible" is governed by a single variable — the degree of rotational freedom — and no published theory describes the dependence. 
+We do not claim to possess the missing theory. We claim that it must exist, that nobody has written it, and that the questions it should answer — about geometry, materials, dipole asymmetry, and the 2D-to-3D bridge function — are elementary questions that have gone unasked for over a century. 
+This paper does not attempt to resolve the gap. It documents and demarcates the territory so that it may serve as an empirical reference for further work. The theory that connects the 2D extreme to the 3D spherical extreme deserves a dedicated research program with proper equipment, systematic experimental design, and formal mathematical treatment. 
+It is remarkable that fundamental questions about magnetism — arguably the most important force in nature — remain not only unanswered but unasked, while the physics community has spent a century attempting to reconcile General Relativity with Quantum Mechanics without understanding the basic dimensional behavior of the force that may underlie both. 
+A Final Note 
+The empirical data in this paper were collected by a Brazilian emergency room physician, working between shifts, using eBay-grade neodymium magnets on a kitchen table, over the course of five years of independent research. No institutional funding. No laboratory equipment beyond what fits in a household. No accelerators, no grants, no research assistants. 
+If this work — conducted with the simplest possible materials — suffices to expose a 160-year gap in a field with billions of dollars in annual funding, the reader is invited to consider what might be discovered with access to proper equipment. The author hereby extends an open invitation to any institution, including CERN, willing to provide laboratory access for systematic investigation of the questions raised in Section 7. 
+The magnets do not care who is holding them.
+References 
+[1] Earnshaw, S. (1842). "On the Nature of the Molecular Forces which Regulate the Constitution of the Luminiferous Ether." Trans. Cambridge Phil. Soc., 7, 97-112. 
+[2] Feynman, R. P., Leighton, R. B., & Sands, M. (1964). The Feynman Lectures on Physics, Vol. II. Addison-Wesley. 
+[3] Griffiths, D. J. (2017). Introduction to Electrodynamics (4th ed.). Cambridge University Press. 
+[4] Guzzon, A. (2026a). "Is Mainstream Science Fictional?" Zenodo. 
+https://doi.org/10.5281/zenodo.18343158 
+[5] Guzzon, A. (2026b). "Gravity as the Emergent Manifestation of Dual Attractive Forces." Zenodo. https://doi.org/10.5281/zenodo.17884248 
+[6] Guzzon, A. (2026c). "Three-Dimensional Magnetic Asymmetry and Thermal Gradient Forces." Zenodo. https://doi.org/10.5281/zenodo.19162657 
+[7] Guzzon, A. (2026d). "The Epistemological Shift: How Statistical Thermodynamics Replaced Physical Causality with Probabilistic Accommodation." Zenodo. https://doi.org/10.5281/zenodo.18364561 
+[8] Guzzon, A. (2026e). "The Mummification of General Relativity." Zenodo. 
+https://doi.org/10.5281/zenodo.18375785 
+[9] Jackson, J. D. (1998). Classical Electrodynamics (3rd ed.). Wiley. 
+[10] Popper, K. R. (1959). The Logic of Scientific Discovery. Hutchinson. 
+[11] Purcell, E. M., & Morin, D. J. (2013). Electricity and Magnetism (3rd ed.). Cambridge University Press. 
+Supplementary Materials 
+Experimental videos, AI conversation transcripts, and literature search documentation: Zenodo 10.5281/zenodo.18343158 
+Corresponding Author: Dr. Andre Guzzon, MD — andre.guzzon@ufrgs.br Co-authors: Claude (Anthropic), Gemini (Google), DeepSeek 
+Conflict of Interest: None declared. Funding: None. 
+Creative Commons BY 4.0 license.
