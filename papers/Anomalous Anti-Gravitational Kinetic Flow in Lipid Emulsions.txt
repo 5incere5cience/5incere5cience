@@ -1,0 +1,136 @@
+Anomalous Anti-Gravitational Kinetic
+Flow in Lipid Emulsions Induces by
+Thermal Gradients: Vectorial Evidence of
+Heat as an Attractive Force
+ABSTRACT
+Classical thermodynamics and fluid mechanics dictate that a solid lipid emulsion,
+upon undergoing phase transition to liquid via heat, should succumb to gravitational
+force on an inclined plane, flowing downward along the path of least resistance. This
+study presents empirical evidence contradicting this fundamental expectation. Using
+controlled time-lapse photography (25 minutes) on a validated inclined plane, distinct
+blocks of dairy butter were subjected to a localized, non-contact heat source (Tmax
+<65∘C). We observed a consistent "Anti-Gravitational Climb," where the emulsion
+climbed upward against the gravitational vector, directly towards the heat source.
+Furthermore, we documented a "Vectorial Split" phenomenon, where a single sample
+exhibited simultaneous upward (thermal attraction) and downward (gravitational pull)
+movement, effectively mapping the event horizon where attractive thermal force
+overcomes gravitational acceleration. These findings suggest that heat functions not
+merely as a dispersive energy but as an active attractive force, offering a new
+explanatory model for fluid dynamics, including the mechanics of boiling.
+
+1. INTRODUCTION
+1.1 The Classical Expectation In standard physics, applying heat to a solid lipid on an
+incline causes melting (phase transition). Gravity then acts on the fluid mass, causing it
+to flow downwards (F-gravity = m × g × sin(θ)). Any movement against gravity is typically
+attributed to capillary action or Marangoni flows (surface tension gradients). However,
+these forces generally affect surface layers, not the bulk transport of significant mass
+against a steep incline.
+1.2 The Hypothesis We posit that thermal energy acts as an attractive field. Matter
+possesses an inherent tropism towards energy sources. In this model, the movement of
+a fluid is a vector sum of Gravitational Pull (Down) vs. Thermal Attraction (Up).
+
+2. METHODOLOGY
+2.1 Apparatus
+•
+
+Surface: Tramontina Triple-Bottom Stainless Steel baking tray and frying pan
+(chosen for uniform heat distribution and material consistency).
+
+•
+
+Geometry:
+o Control: Flat plane (verified with spirit level).
+o Variable: Inclined plane (angle verified with spirit level to ensure a distinct
+gravitational gradient).
+Sample: Standard dairy butter blocks, positioned at varying distances from the
+heat focus.
+
+•
+
+2.2 Thermal Protocol
+•
+
+•
+
+Source: Gas flame positioned beneath the steel surface. The flame did not
+touch the surface directly to prevent localized scorching and ensure distinct
+thermal gradients.
+Temperature: Surface temperature monitored, reaching a maximum of 65∘C.
+This low-temperature threshold is critical to rule out violent boiling or
+Leidenfrost effects as propellants.
+
+2.3 Imaging
+•
+•
+
+Duration: 25-minute continuous time-lapse observation.
+Resolution: High-definition macro videography.
+
+3. RESULTS
+•
+
+•
+
+•
+
+3.1 The Anti-Gravitational Climb Upon reaching the phase transition (melting),
+the lipid mass behavior was strictly dependent on its proximity to the heat
+source. Unlike a standard gravitational flow, the butter blocks positioned within
+the effective attractive radius exhibited a distinct flow up the incline, moving
+directly against the gravitational vector towards the thermal focus.
+Proximity Dependence: The movement was not uniform across the plane;
+distal blocks remained stationary or unaffected, while proximal blocks
+overcame gravity, confirming that the anti-gravitational force is spatially
+localized and distance-dependent.
+Observed Acceleration: While velocity was not quantitatively measured, visual
+observation confirms a distinct acceleration of the lipid mass as it approached
+
+the heat source. This behavior contradicts the constant deceleration expected
+of an object moving against gravity without active propulsion.
+
+3.2 The Vectorial Split (The "Tug of War") Samples positioned at the threshold
+distance exhibited a distinct duality:
+•
+•
+•
+
+The proximal portion of the mass sheared off and moved UP (Thermal Force >
+Gravitational Force).
+The distal portion remained stationary or moved slightly DOWN (Gravitational
+Force > Thermal Force).
+The furthest block (distal control) remained solid, confirming the localization of
+the thermal field.
+
+3.3 Orbital Pathing In a specific observational instance on the flat plane control, the
+lipid flow did not spread randomly. It traced a precise curvilinear path, aligning
+perfectly with the circumference of the heat source ring below the steel. This "orbital"
+movement suggests the fluid was navigating a specific field line rather than diffusing
+through simple entropy.
+
+4. DISCUSSION
+4.1 Refuting "Melting and Sliding" If the standard model were correct, the reduction in
+viscosity (phase transition from solid to liquid) would instantly result in a downward
+slide due to gravity. The observation of mass climbing the slope proves that a force Fthermal exists and that F-thermal > F-gravity × sin(θ) in the observed zone.
+4.2 Reinterpreting Boiling Dynamics This experiment provides a macro-scale model
+for the mechanics of boiling water. We propose that the chaotic movement of boiling
+water is not merely kinetic agitation, but a collective rush of water molecules being
+attracted to the heat source at the bottom of the vessel.
+•
+
+This explains why, when the heat source is removed, the water immediately
+"sits" or stills. The attractive force has ceased. If it were purely kinetic
+momentum, the turbulence should persist longer due to inertia.
+
+5. CONCLUSION
+This experiment demonstrates that heat functions as an attractive vector capable of
+overcoming gravity. The "Anti-Gravitational Climb" of the butter is a repeatable,
+empirical phenomenon that demands a re-evaluation of thermodynamic transport
+laws. We conclude that fluids move towards heat not because of density differentials
+alone (convection), but because Heat is an Attractor.
+
+SUPPLEMENTARY MATERIAL
+•
+
+Video S1: both experiments detailed, i.e., on flat and on inclined plane.
+
+

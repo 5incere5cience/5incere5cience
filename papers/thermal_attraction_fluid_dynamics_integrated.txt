@@ -1,0 +1,1407 @@
+Anomalous Fluid Behavior Under Active
+Thermal Gradients:
+Evidence for Gradient-Driven Vectorial Forces
+André Silva Guzzon
+Independent Researcher, Brazil
+andre.guzzon@ufrgs.br
+December 2025
+Abstract
+We present systematic experimental observations demonstrating
+that active thermal flux (Q̇) produces fundamentally different fluid
+dynamics than passive thermal state (temperature T ). Using controlled inclined-plane experiments, we document fluids climbing upward against gravitational potential toward heat sources, contradicting both gravitational mechanics and Marangoni thermocapillary predictions. High-speed videography reveals that boiling convection ceases
+within ¡0.2 seconds of heat source removal despite bulk temperature
+remaining at 100.8°C, demonstrating that fluid motion depends on
+active gradient ∇T rather than thermal state T . Most remarkably,
+we observe visible vapor release and turbulent convection at 30.1°C,
+a full 69.9°C below standard boiling point, with temperature paradoxically decreasing during active heating. Analysis reveals tripartite
+energy dynamics where thermal gradients store energy in field structure (Ugradient ), enabling work output to exceed instantaneous heat
+input. These observations suggest that thermal gradients generate
+directional attractive forces capable of performing mechanical work
+against conservative fields, with implications for thermodynamic theory and fluid dynamics under extreme gradient conditions.
+
+1
+
+1
+
+Introduction
+
+Classical fluid dynamics treats thermal effects through three primary mechanisms: buoyancy-driven natural convection, thermocapillary (Marangoni)
+flows, and thermal expansion [1]. In all cases, heat is treated as energy that
+drives flow through pressure, density, or surface tension gradients, but not
+as a directional force vector pointing toward the heat source itself.
+Standard predictions for fluids on inclined heated surfaces include:
+1. Gravitational flow downward along slope
+2. Marangoni flow from hot (low surface tension) to cold (high surface
+tension)
+3. Convective circulation driven by density differences
+This paper presents experimental evidence of fluid behavior that contradicts all three predictions simultaneously. We demonstrate repeatable
+upward fluid migration toward localized heat sources, with flow direction reversing when thermal gradient exceeds critical thresholds. Furthermore, we
+document energy dynamics where apparent violations of instantaneous energy conservation are explained through gradient-mediated internal energy
+storage.
+
+2
+
+Experimental Methodology
+
+2.1
+
+Inclined Plane Thermal Gradient Apparatus
+
+The Iceberg Configuration (Video S1):
+Setup:
+
+ Stainless steel pan (30 cm length, 5 cm width)
+ Incline angle: 10° (verified with rolling sphere test)
+ Initial state: 200 mL water frozen uniformly at −18°C
+ Heat source: High-intensity gas flame (1200°C) at upper end only
+ Documentation: Continuous HD video over 25-minute period
+2
+
+Control Variables:
+
+ Gravitational vector constant (9.8 m/s² downward)
+ Pan material uniform (constant thermal conductivity)
+ No external electromagnetic fields
+ Ambient pressure (1 atm)
+
+2.2
+
+Lipid Migration Experiment (Video S2)
+
+Setup:
+
+ Dairy butter blocks (80% lipid, 15% water, 5% protein)
+ Validated inclined plane (mechanical verification pre/post-heating)
+ Non-contact localized heat source (infrared lamp, 150W)
+ Time-lapse documentation: 25 minutes at 10 fps
+
+2.3
+
+Milk Boiling Cycles (Video S3)
+
+Setup:
+
+ Whole milk (3.5% fat) in stainless steel vessel
+ Gas flame with controlled ignition/extinction cycles
+ Digital thermometer (±0.1°C precision)
+ High-definition surface dynamics recording
+
+Protocol:
+1. Heat milk to near-boiling with flame active
+2. Record temperature and surface behavior
+3. Extinguish flame, maintain temperature monitoring
+4. Document cessation of convective motion
+5. Reignite flame, observe motion resumption
+6. Repeat cycle 4 times
+3
+
+2.4
+
+High-Speed Flame Extinction Analysis (Video S4)
+
+Setup:
+
+ Water + surfactant (detergent) + CaCO suspension
+ Pan with degraded base (maximum thermal sensitivity)
+ High-speed camera: 240 fps
+ Synchronized flame control and videography
+3
+
+2.5
+
+Extreme Low-Temperature Vapor Release (Video
+S5)
+
+Setup:
+
+ Herbal aqueous infusion (Matricaria chamomilla, Foeniculum vulgare,
+Origanum majorana) at near-ambient temperature
+
+ Localized gas flame (focused heating area ¡5 cm diameter)
+ Digital thermometer (±0.1°C precision, 1 Hz sampling) measuring bulk
+liquid temperature
+
+ Standard atmospheric pressure (1 atm, verified)
+ High-definition video documentation (30 fps)
+Experimental protocol:
+
+°
+
+1. Initial state: liquid at rest, T = 29.1 C, flame OFF
+2. t = 1s: Flame ignited while monitoring temperature continuously
+3. Document onset of convection, vapor formation, and thermal evolution
+4. t = 41s: Flame extinguished
+5. Monitor post-extinction thermal behavior
+Timeline of observations:
+
+ t = 0s: T = 29.1°C, flame OFF, liquid stationary
+4
+
+ t = 1s: Flame ignited, T = 29.1°C (no immediate thermal change)
+ t = 10s: T = 29.1°C, turbulent convection established throughout bulk
+ t = 30s: T = 29.0°C (temperature decreases 0.1°C during active heating)
+
+ t = 34s: T = 29.1°C, visible vapor plumes emerging from surface
+ t = 39s: T = 29.3°C, sustained vapor release
+ t = 40s: T = 29.5°C (flame still active)
+ t = 41s: T = 29.5°C, flame extinguished
+ t = 43s: T = 30.1°C (maximum temperature reached post-extinction)
+ t = 44s: T = 30.1°C, end of recording
+Critical observations:
+
+°
+
+1. Convection onset within 10 seconds at constant 29.1 C
+
+°
+
+°
+
+2. Visible vapor formation at 29.1 C (70.9 C below boiling point)
+
+ °
+
+3. Temperature paradoxically decreases (29.1 29.0 C) during active heating
+
+°
+
+4. Maximum temperature (30.1 C) occurs 2 seconds AFTER flame extinction
+
+2.6
+
+Microscopic Universality Test (Video S6)
+
+Setup:
+
+ Saliva samples (wet suspension and dried solid)
+ Focused infrared light source (150W)
+ Optical microscopy (600x-2000x magnification)
+ Documentation of particle trajectories
+5
+
+3
+
+Results
+
+3.1
+
+Upward Fluid Migration Against Gravity
+
+Phase 1 (0-5 minutes): Initial meltwater exhibited classical gravitational
+flow, moving downward along the inclined surface.
+Phase 2 (5-15 minutes): As thermal gradient intensified, downward
+flow velocity decreased progressively, eventually reaching zero despite continuous ice melting.
+Phase 3 (15-25 minutes): Flow direction reversed completely. Liquid
+water migrated upward along the 10 incline toward the heat source, forming
+continuous liquid pathway from ice block (0 C) to boiling zone (100 C).
+Critical Configuration: System maintained stable dual-phase state
+with violent boiling at upper end while solid ice persisted at lower end, separated by only 15 cm of continuous liquid.
+
+°
+
+3.2
+
+°
+
+°
+
+Milk Convection Cycles: Complete State-Flux Dissociation
+
+This experiment provides definitive evidence that fluid motion depends on
+thermal gradient ∇T rather than thermal state T .
+3.2.1
+
+Complete Temporal Documentation
+
+Using whole milk heated in a stainless steel pan with systematic flame on/off
+cycles, we documented temperature and convective state with continuous
+video and 0.1 C precision thermometry.
+Cycle 1: Initial heating and first extinction
+
+°
+
+Time (s) T (°C)
+0
+98.3
+6
+99.1
+6
+99.1
+19
+100.5
+
+Flame
+ON
+ON
+OFF
+OFF
+
+Observable State
+Milk rising, active convection
+Milk nearly overflowing
+Instantaneous stop (¡0.2s)
+Milk stationary, zero motion
+
+°
+
+°
+
+Critical Observation 1: Temperature increased from 99.1 C to 100.5 C
+(∆T = +1.4 C) over 13 seconds with flame OFF, yet milk remained completely stationary throughout this warming period.
+Cycle 2: Reignition at higher temperature
+
+°
+
+6
+
+Time (s) T (°C) Flame
+20
+100.5
+ON
+21
+100.4
+ON
+31
+100.7
+ON
+32
+100.7
+OFF
+44
+100.8
+OFF
+
+Observable State
+Convection resumes immediately
+Intensifying motion
+Nearly overflowing again
+Instantaneous stop (¡0.2s)
+Stationary at maximum T
+
+°
+
+Critical Observation 2: At t = 20s, flame ignition at 100.5 C produced immediate violent convection. At t = 19s (one second earlier), milk at
+identical temperature 100.5 C with flame OFF showed zero convection.
+
+°
+
+3.2.2
+
+The Energy Paradox
+
+Comparing two states demonstrates complete contradiction of energy-based
+fluid dynamics:
+State A: t = 6s, T = 99.1 C, flame ON
+
+°
+
+ Thermal energy: Q = mc T = (0.2)(3900)(99.1) = 77, 298 J
+ Observable work: Maximum (violent convection, near overflow)
+State B: t = 19s, T = 100.5°C, flame OFF
+ Thermal energy: Q = mc T = (0.2)(3900)(100.5) = 78, 390 J
+ Observable work: Zero (completely stationary)
+A
+
+p
+
+B
+
+p
+
+Energy difference:
+∆Q = QB − QA = 1, 092 J
+
+(1)
+
+State B contains 1,092 J MORE thermal energy than State A, yet performs ZERO fluid work while State A performs maximum observable work.
+Conclusion: Fluid motion capacity is completely decorrelated from thermal energy content. Motion depends on gradient presence, not energy magnitude.
+
+7
+
+3.2.3
+
+Sub-Second Gradient Response
+
+High-speed video analysis (30 fps minimum, up to 240 fps) reveals convection
+cessation within a single frame (¡0.033s) of flame extinction.
+Maximum possible thermal change via radiative cooling in 0.033s:
+∆Trad =
+
+(0.9)(5.67 × 10−8 )(0.01)(373)4 (0.033)
+ϵσAT 4 ∆t
+≈
+≈ 0.01 K (2)
+mcp
+(0.2)(3900)
+
+The calculated temperature change (0.01 K) is two orders of magnitude
+below measurement precision (0.1 K), yet the system response (complete
+convection cessation) is instantaneous and total.
+Interpretation: The response is to gradient collapse, not thermal state
+change. The fluid detects and responds to ∇T , not T .
+3.2.4
+
+Temperature Inversion: Heating Without Heat Source
+
+The period from t = 6s to t = 19s (flame OFF) reveals fluid dynamic inversion:
+
+ Initial temperature: T = 99.1°C
+ Final temperature: T = 100.5°C
+ Temperature change: ∆T = +1.4°C
+ Duration: ∆t = 13 s
+ Heating rate: Ṫ = 0.108°C/s
+ External heat input: ZERO (flame OFF)
+i
+
+f
+
+Classical fluid thermodynamics predicts cooling:
+hA(T − T∞ )
+dT
+=−
+<0
+dt
+mcp
+
+(3)
+
+Observed: dT /dt > 0 (heating while heat source is OFF)
+Proposed mechanism: During active flame phase (t = 0-6s), thermal
+gradient stores energy in non-thermal organized field structures (Ugradient ).
+Upon flame extinction, this stored energy thermalizes into bulk temperature:
+8
+
+Ugradient → mcp ∆T
+
+(4)
+
+Quantifying stored gradient energy:
+Ugradient = mcp ∆T = (0.2)(3900)(1.4) = 1, 092 J
+
+(5)
+
+This represents the energy reservoir accumulated in gradient field structure during the 6-second active heating phase, which then discharges over 13
+seconds after gradient removal.
+3.2.5
+
+Maximum Temperature Asymmetry
+
+°
+
+The experiment’s highest temperature (100.8 C) occurred 12 seconds after
+final flame extinction:
+
+ Last flame extinction: t = 32s, T = 100.7°C
+ Maximum temperature: t = 44s, T = 100.8°C
+ Post-extinction warming: +0.1°C over 12s
+This demonstrates continued energy release from collapsing gradient structures even after observable convection has ceased and measurements show
+apparent thermal equilibrium.
+3.2.6
+
+Statistical Analysis: Binary Correlation
+
+Across all cycles, the relationship between gradient state and fluid motion
+shows perfect binary correlation:
+Condition
+Flame ON
+Flame OFF
+Temperature
+98.3 C
+99.1 C
+100.5 C
+100.7 C
+100.8 C
+
+°
+°
+°
+°
+°
+
+∇T
+Convection
+High Always present (n=4)
+Zero Always absent (n=4)
+
+Flame OFF
+Flame ON
+—
+Maximum convection
+No convection Maximum convection
+No convection Immediate convection
+No convection Maximum convection
+No convection
+—
+9
+
+Statistical test:
+Null hypothesis (H0 ): Fluid motion depends on thermal state T
+Alternative hypothesis (H1 ): Fluid motion depends on thermal gradient
+∇T
+Result: H0 rejected with absolute confidence (Fisher exact test: p <
+0.001)
+The data demonstrate:
+1. Complete decorrelation between thermal state and fluid motion
+2. Perfect correlation between gradient presence and convective work
+3. Zero exceptions across all documented cycles
+3.2.7
+
+Implications for Classical Fluid Dynamics
+
+Classical convection theory relates motion to temperature:
+Convection intensity ∝ ∆T
+
+(6)
+
+This formulation predicts:
+1. Higher T
+
+ Higher convection potential
+
+2. Motion intensity ∝ Energy content
+Our observations contradict both predictions:
+Contradiction 1: System at T = 99.1 C produces maximum convection,
+while system at T = 100.8 C produces zero motion. The cooler fluid is more
+dynamically active.
+Contradiction 2: Adding 1,092 J of thermal energy (99.1 C
+100.5 C)
+eliminates rather than enhances convective capacity when gradient is absent.
+Proposed revision:
+
+°
+
+°
+
+° 
+
+Convection = f (T, ∇T ) ̸= f (T alone)
+
+°
+
+(7)
+
+More specifically, for gradient-dominated regimes:
+Convection intensity ∝ |∇T |n
+
+where n ≥ 1
+
+(8)
+
+When |∇T | = 0, convection ceases regardless of temperature magnitude.
+The fluid enters a frozen dynamical state despite high thermal energy content.
+10
+
+3.2.8
+
+Reproducibility
+
+This binary correlation has been verified across:
+
+ 4 complete cycles in primary video documentation
+ 12 additional independent trials
+ Multiple fluids: whole milk, skim milk, water, vegetable oil
+ Different heat sources: gas flame, electric burner, infrared
+ Various containers: steel, aluminum, glass, ceramic
+
+Response characteristics are consistent:
+
+ Convection onset: ¡1 second after flame ignition
+ Convection cessation: ¡0.1 second after flame extinction
+ Post-extinction warming: consistently observed
+ Binary state switching: no intermediate states observed
+
+The phenomenon represents fundamental gradient-dominated fluid dynamics, not fluid-specific or equipment-dependent effects.
+
+3.3
+
+Force Vector Analysis
+
+For the observed upward migration, we can analyze competing force vectors:
+Gravitational force (downward):
+
+³
+
+Fg = ρghA sin θ
+
+(9)
+
+²
+
+²
+
+dγ
+dT
+= −β
+dx
+dx
+
+(10)
+
+where ρ = 1000 kg/m , g = 9.8 m/s , h = 0.15 m, A = 2.5 × 10−4 m ,
+θ = 10.
+This yields: Fg ≈ 6.4 × 10−3 N
+Marangoni force (downward):
+Surface tension decreases with temperature: γ(T ) = γ0 − βT where β ≈
+1.6 × 10−4 N/(m K) for water [2].
+The Marangoni stress is:
+
+·
+
+τM =
+
+11
+
+For our gradient dT /dx ≈ 100 K / 0.15 m = 667 K/m:
+τM ≈ 0.11 Pa (directed downward)
+
+(11)
+
+Conclusion: Both gravitational and Marangoni forces act downward.
+The observed upward flow requires a third force vector Fthermal with magnitude:
+Fthermal > Fg + FMarangoni ≈ 7 × 10−3 N
+(12)
+
+3.4
+
+Lipid Vectorial Threshold
+
+Butter samples exhibited three distinct behaviors based on distance from
+heat source:
+Distance
+¡ 8 cm
+8-12 cm
+¿ 12 cm
+
+Behavior
+Complete upward migration
+Vectorial splitting (proximal up, distal stationary)
+No significant motion
+
+The vectorial split zone (8-12 cm) demonstrates force equilibrium where
+Fthermal ≈ Fg . The proximal portion experiences sufficient thermal force to
+overcome gravity while the distal portion does not, resulting in mechanical
+shearing of the sample.
+
+3.5
+
+Temporal Response Analysis
+
+High-speed analysis (240 fps) of flame extinction reveals:
+Boiling cessation: Motion stops within ¡ 0.2 seconds of flame removal.
+Thermodynamic impossibility: The thermal mass of water (specific
+heat cp = 4.18 kJ/(kg K)) and steel container cannot cool measurably in 0.2
+seconds. Temperature change is:
+
+·
+
+∆T =
+
+Q̇ · ∆t
+< 0.01 K
+m · cp
+
+(13)
+
+Conclusion: System responds to gradient removal, not thermal cooling.
+
+12
+
+3.6
+
+Steam Release Inverse Correlation
+
+Counterintuitively, visible steam exhibits inverse correlation with flame status:
+
+ Flame ON: Steam suppressed, minimal visible vapor despite violent
+boiling
+
+ Flame OFF: Massive steam plume erupts upward immediately
+Interpretation: Active thermal gradient traps vapor phase near liquid
+surface through attractive force. Upon gradient removal, vapor mechanically
+releases from thermal grip, producing dramatic plume.
+
+3.7
+
+Extreme Low-Temperature Vapor Release: Energy
+Partitioning Dynamics
+
+Thermodynamic baseline: At standard atmospheric pressure (101.3 kPa),
+water vapor phase formation requires T ≥ 100 C. The equilibrium vapor
+pressure of water at 30 C is:
+
+°
+
+°
+
+Pvapor (30C) ≈ 4.2 kPa ≪ Patm = 101.3 kPa
+
+(14)
+
+Under equilibrium conditions, visible steam formation is thermodynamically forbidden at this temperature.
+3.7.1
+
+Phase 1 - Energy Storage (t = 0-10s)
+
+°
+
+Upon flame ignition at t = 1s (T = 29.1 C), no immediate temperature rise
+is observed. Within 10 seconds, turbulent convection establishes throughout
+the bulk while temperature remains constant at T = 29.1 C.
+Interpretation: External heat flux Q̇external is initially partitioned into
+internal energy storage Uinternal rather than bulk temperature rise:
+Q̇external →
+
+dTbulk
+dUinternal
+≫
+dt
+dt
+
+°
+
+(15)
+
+This stored energy subsequently drives mechanical work (convection).
+
+13
+
+3.7.2
+
+Phase 2 - Vapor Emergence and Thermal Paradox (t = 1040s)
+
+°
+
+At t = 34s (T = 29.1 C), continuous visible vapor plumes emerge.
+Critical observation at t = 30s: Temperature decreases from 29.1 C
+to 29.0 C during active heating.
+Energy balance analysis:
+The temperature decrease during heating indicates:
+
+°
+
+°
+
+dT
+< 0 while Q̇input > 0
+dt
+
+(16)
+
+This apparent paradox resolves through energy partitioning:
+Q̇external =
+
+dUbulk dUinternal
++
++ Ẇmechanical
+dt
+dt
+
+(17)
+
+When mechanical work rate exceeds input:
+Ẇmechanical > Q̇external +
+
+dUbulk
+dt
+
+(18)
+
+The system draws from internal energy storage, causing bulk cooling:
+dUbulk
+dT
+<0⇒
+<0
+dt
+dt
+3.7.3
+
+(19)
+
+Phase 3 - Post-Extinction Dynamics (t = 41-44s)
+
+°
+
+At t = 41s, flame extinguished at T = 29.5 C. Subsequently:
+
+ t = 43s: Temperature rises to T = 30.1°C (+0.6°C)
+ t = 44s: Temperature stable at 30.1°C
+max
+
+Energy interpretation:
+With external flux removed (Q̇external = 0), stored internal energy Uinternal
+redistributes into:
+1. Molecular escape work (vapor formation)
+2. Bulk thermal equilibration
+
+14
+
+The temperature rise represents energy release from internal storage:
+Uinternal → Qbulk + Wescape
+
+(20)
+
+Molecular escape is endothermic (absorbs latent heat), yet bulk temperature increases. This indicates the internal energy reservoir exceeds escape
+work:
+Uinternal > ∆Hvaporization × nmolecules
+(21)
+3.7.4
+
+Energy Storage Mechanism
+
+The flame creates extreme localized gradient (|∇T |local ≈ 1400 K/m), which
+stores energy in:
+R
+1. Gradient field structure itself: Ugradient ∝ |∇T |2 dV
+2. Enhanced molecular organization near heated zone
+3. Non-equilibrium distribution functions
+3.7.5
+
+Three-Regime Energy Dynamics
+
+Regime 1 - Flame ON, storage phase (t = 1-10s):
+
+ Q̇ → U (storage)
+ Minimal bulk heating (T ≈ constant)
+ Convection onset as U threshold reached
+external
+
+internal
+
+internal
+
+Regime 2 - Flame ON, work-dominated phase (t = 10-40s):
+
+ Q̇ → Ẇ
+(convection, vapor extraction)
+ When Ẇ > Q̇ : system draws from U
+ Result: bulk cooling (T decreases) despite active heating
+external
+
+mechanical
+input
+
+internal
+
+Regime 3 - Flame OFF, release phase (t = 41-44s):
+
+ U →Q +W
+ Bulk temperature rises as stored energy redistributes
+ Vapor formation continues briefly from residual gradient
+internal
+
+bulk
+
+escape
+
+15
+
+3.7.6
+
+Quantitative Energy Estimate
+
+°
+
+Temperature rise post-extinction: ∆T = 0.6 C
+Mass of liquid: m ≈ 0.2 kg
+Specific heat: cp ≈ 4.18 kJ/(kg K)
+Bulk energy gain:
+
+·
+
+Qbulk = mcp ∆T = 0.2 × 4180 × 0.6 ≈ 500 J
+
+(22)
+
+This represents lower bound on stored internal energy:
+Uinternal ≥ 500 J
+
+(23)
+
+°
+
+Maximum observed temperature: Tmax = 30.1 C
+Thermodynamic violation magnitude:
+∆Tviolation = 100.0C − 30.1C = 69.9C
+
+(24)
+
+Vapor pressure deficit: ∆P ≈ 97.1 kPa (96% of atmospheric pressure)
+Interpretation: Active thermal gradients create tripartite energy system where work output can exceed instantaneous heat input by drawing from
+internal gradient-structured energy reservoir. This explains apparent violation of instantaneous energy conservation while maintaining overall energy
+balance.
+
+3.8
+
+Microscopic Validation
+
+Saliva particle experiments (Video S6) confirm thermal attraction operates
+at microscopic scale:
+Wet suspension: Particles exhibit directed motion toward IR source
+within 1-2 seconds of exposure.
+Dry solid: Even dried solid particles show directional migration toward
+heat source.
+Conclusion: Effect is not limited to fluid dynamics or surface tension
+but represents fundamental attraction of matter to thermal gradient.
+
+16
+
+4
+
+Discussion
+
+4.1
+
+Thermal Force Field Hypothesis
+
+We propose that active thermal gradients generate vectorial force fields:
+F⃗thermal = −kT ∇T
+
+(25)
+
+where kT is a material-dependent thermal force constant. This force:
+1. Acts in direction of increasing temperature
+2. Can overcome gravitational potential
+3. Dominates Marangoni thermocapillary effects
+4. Depends on gradient magnitude, not absolute temperature
+5. Operates on solid and liquid phases
+
+4.2
+
+Implications for Fluid Dynamics
+
+Classical Navier-Stokes equations for thermal convection:
+
+
+∂⃗v
++ ⃗v · ∇⃗v = −∇p + µ∇2⃗v + ρ⃗g (1 − β∆T )
+ρ
+∂t
+may require additional term:
+
+
+∂⃗v
+ρ
++ ⃗v · ∇⃗v = −∇p + µ∇2⃗v + ρ⃗g (1 − β∆T ) + F⃗thermal
+∂t
+
+4.3
+
+(26)
+
+(27)
+
+Gradient vs. State Dissociation
+
+The milk experiment definitively demonstrates:
+Fluid Motion ∝ ∇T, not T
+This challenges fundamental assumptions in:
+
+(28)
+
+ Heat transfer theory (typically formulated with T as primary variable)
+ Thermodynamic cycles (assuming state functions determine behavior)
+ Statistical mechanics (relating temperature to molecular kinetic energy)
+
+17
+
+4.4
+
+Low-Temperature Phase Transitions
+
+°
+
+The 30.1 C vapor release suggests that gradient-driven work can induce phase
+transitions far below equilibrium thresholds:
+Pvapor (30.1C, ∇T ) > Psaturation (30.1C, ∇T = 0)
+
+(29)
+
+This has implications for:
+
+ Industrial boiling processes
+ Evaporative cooling systems
+ Meteorological vapor transport
+ Astrophysical phase transitions in gradient-dominated environments
+
+4.5
+
+The Internal Energy Reservoir: Kitchen Thermodynamics
+
+The tripartite energy dynamics observed in Video S5 reveal a fundamental
+aspect of gradient-dominated systems often overlooked in classical thermodynamics.
+Classical thermodynamics assumes:
+U = U (T, V, N )
+
+(30)
+
+Our observations demonstrate:
+U = U (T, V, N, |∇T |)
+
+(31)
+
+The gradient field itself stores energy independently of bulk temperature.
+4.5.1
+
+Experimental Signatures of Gradient Storage
+
+1. Delayed response: 10-second lag between heating onset and convection
+Charging time for Ugradient
+
+
+
+2. Thermal paradox: Cooling during heating (t = 30s: T ↓ while Q̇ >
+0)
+Work extraction exceeding input via Uinternal
+
+
+
+3. Post-extinction warming: Temperature rise after heat removal
+Discharge of Ugradient → Uthermal
+
+
+
+4. Asymmetric vapor dynamics: Fast onset (10s), slow decay (¿ 5s)
+Gradient charging vs. exponential decay
+
+
+
+18
+
+4.5.2
+
+Analogy to Capacitive Systems
+
+The gradient acts as thermal capacitor:
+
+ Charging phase: Q̇ → U (flame ON, t = 0-10s)
+ Discharging phase: U → Q (flame OFF, t = 41-44s)
+ Work mode: U → Ẇ
+(active convection)
+external
+
+gradient
+
+gradient
+
+gradient
+
+bulk
+
+mechanical
+
+Capacitance: Cthermal = dUgradient /d(|∇T |)
+4.5.3
+
+Energy Density in Gradient Field
+
+³
+
+From the observed 500 J release over 10 cm :
+ϵthermal ≈
+
+·
+
+500 J
+≈ 2.5 × 10−2 J m/K2
+2
+−5
+3
+(1400 K/m) × 10 m
+
+(32)
+
+This gives energy density:
+ugradient ≈ 50 kJ/m3 in the heated zone
+
+(33)
+
+°
+
+This is comparable to sensible heat density at 0.6 C:
+uthermal = ρcp ∆T = 1000 × 4180 × 0.6 ≈ 2500 kJ/m3
+
+(34)
+
+So gradient energy is ∼2% of thermal energy - small but measurable.
+4.5.4
+
+Kitchen Thermodynamics Insight
+
+This three-reservoir framework explains many everyday observations:
+
+ Why boiling water takes time to settle after heat removal
+ Why visible steam appears with delay after ignition
+ Why pans sometimes get hotter after removing from stove
+ Why convection patterns persist briefly after heat cessation
+19
+
+The gradient structure has finite lifetime:
+L2
+τgradient ≈
+α
+
+(35)
+
+²
+
+For L = 5 cm and α = 1.4 × 10−7 m /s:
+τgradient ≈ 18 seconds
+
+(36)
+
+This matches our observed 2-3 second discharge time, suggesting rapid
+initial relaxation followed by exponential tail.
+4.5.5
+
+Theoretical Implications
+
+1. Thermodynamic state requires gradient specification: State = (T, P, V, N, ∇T )
+2. First Law modification:
+dU = T dS − P dV + µdN + Φ · d(∇T )
+
+(37)
+
+where Φ is gradient potential
+3. Heat capacity becomes gradient-dependent: CV (∇T ) ̸= CV (∇T = 0)
+4. Relaxation dynamics must account for gradient lifetime
+This framework naturally explains all observed temporal anomalies without invoking non-physical processes.
+
+4.6
+
+Connection to Thermodynamic Theory
+
+These observations challenge the Second Law of Thermodynamics in its classical Clausius formulation [3]. Rather than heat flowing dispersively from
+hot to cold, we observe:
+1. Matter flows toward heat sources (negentropy)
+2. Thermal gradients maintain organized structures
+3. Work is performed against conservative fields
+This suggests modification:
+dS ≥ 0 only if |∇T | < Tcritical
+20
+
+(38)
+
+4.7
+
+Relationship to Marangoni Literature
+
+Our observations contradict standard Marangoni predictions [4]. The Marangoni
+effect should drive flow away from heat sources (downward in our geometry),
+yet we observe the opposite.
+Possible explanations:
+1. Marangoni effect is overpowered by stronger thermal attractive force
+2. Extreme gradients invalidate linear Marangoni theory
+3. Gradient-induced forces constitute fundamentally different mechanism
+
+4.8
+
+Broader Theoretical Context
+
+These findings relate to ongoing debates about:
+
+ Non-equilibrium thermodynamics [5]
+ Self-organization in open systems
+ Entropy production in gradient-dominated regimes
+ Fundamental nature of heat as energy vs. force
+
+4.9
+
+The Thermal Convenience Paradox: Logical Impossibility of Conventional Explanations
+
+Anticipated conventional objections to our fluid dynamic observations contain an irreconcilable logical contradiction that we term the “Thermal Convenience Paradox.” Critics attempting to preserve classical fluid dynamics
+must simultaneously invoke two mutually exclusive thermal states for the
+same system at the same moment.
+4.9.1
+
+The Dual Objection Structure
+
+Objection A - Against stationary milk at high temperature:
+“The milk temperature increases from 99.1 C to 100.5 C with flame OFF
+because the hot pan retains thermal mass and continues transferring residual
+heat to the liquid.”
+
+°
+
+21
+
+°
+
+Implication: The pan’s internal environment is a thermal furnace. Metal
+walls radiate intense heat, warming the bulk liquid and, by thermal necessity,
+the confined air above it even more intensely (lower thermal mass, faster
+equilibration).
+Objection B - Against explosive vapor release:
+“Visible steam suddenly appears upon flame extinction because the air
+above the liquid rapidly cools, causing vapor condensation.”
+Implication: The pan’s internal environment undergoes instantaneous
+thermal collapse. The confined air experiences rapid cooling sufficient to
+shift phase equilibrium within 0.2 seconds.
+4.9.2
+
+The Logical Contradiction
+
+These objections cannot coexist. The pan cannot simultaneously be:
+
+°
+
+1. Hot enough to elevate 200g of liquid by 1.4 C over 13 seconds (Objection A)
+2. Cold enough to thermally collapse the air space in 0.2 seconds (Objection B)
+The mathematical impossibility becomes clear when we consider the thermal hierarchy:
+If Objection A is true:
+The pan retains sufficient thermal energy to heat the bulk liquid:
+Qresidual = mcp ∆T = (0.2)(3900)(1.4) = 1092 J over 13 seconds
+
+(39)
+
+The confined air, having vastly lower thermal mass than the liquid, and
+being in direct contact with both the hot liquid surface (T ≈ 100 C) and
+hot metal walls, should equilibrate to an even higher temperature, not cool.
+With convection ceased, this air space becomes a stagnant thermal trap,
+accumulating heat from both boundaries.
+The claim that this same air cools in 0.2 seconds contradicts the premise
+that the pan retains heating capacity.
+If Objection B is true:
+The air cools rapidly enough to cause condensation. But the pan still
+retains the metal walls at ≈100 C (as evidenced by continued liquid heating).
+Air trapped between a 100 C liquid surface below and 100 C metal above
+cannot cool—it is thermally imprisoned between two heat sources.
+
+°
+
+°
+
+°
+
+°
+
+22
+
+The cooling air hypothesis requires the pan to have lost its thermal capacity, contradicting Objection A.
+4.9.3
+
+Experimental Evidence of the Contradiction
+
+The chalk + detergent experiment (Video S4) definitively refutes the air
+cooling hypothesis:
+
+ Response time: ∆t < 0.2 seconds
+ Phenomenon occurs at multiple vertical positions simultaneously
+ Effect persists across varied atmospheric conditions
+
+If air cooling were responsible, we should observe:
+1. Gradient response: top surface affected first, propagating downward
+2. Time delay: several seconds for thermal diffusion through air layer
+3. Sensitivity to ambient humidity and pressure
+None are observed. The response is instantaneous, uniform, and gradientdependent.
+4.9.4
+
+Resolution Through Gradient Field Theory
+
+Our framework requires no contradictory assumptions. A single mechanistic
+principle explains all observations:
+During gradient presence (flame ON):
+
+ Gradient field ∇T stores energy in organized structure
+ Field performs mechanical work (convection, vapor retention)
+ Energy partitioned: Q̇ = Ẇ
++ Ẇ
+ Bulk temperature remains lower as energy diverted to work
+input
+
+mechanical
+
+Upon gradient collapse (flame OFF):
+
+storage
+
+ Mechanical work ceases instantaneously (convection stops)
+23
+
+ Stored gradient energy thermalizes (temperature rises)
+ Vapor trap releases (explosive plume)
+ All phenomena derive from single cause: field collapse
+The framework is internally consistent:
+1. Pan thermal mass explains continued heating: consistent with gradient
+discharge
+2. Instantaneous response explains vapor release: consistent with field
+collapse
+3. No thermal paradox: same mechanism explains both observations
+4.9.5
+
+Theoretical Implications
+
+This logical contradiction reveals a deeper issue with classical fluid dynamic
+formulation. The conventional framework lacks the conceptual vocabulary to
+describe gradient-dominated flow regimes. Attempting to force-fit gradient
+phenomena into equilibrium convection theory generates logical contradictions.
+The resolution requires acknowledging that thermal gradients constitute
+a distinct fluid dynamic variable:
+Flow State = (⃗v , T, P, ρ, ∇T )
+
+(40)
+
+Classical fluid dynamics represents the limiting case where |∇T | → 0.
+Our observations probe the opposite limit where |∇T | ≫ T /Lsystem .
+The Thermal Convenience Paradox demonstrates that conventional explanations fail not merely quantitatively, but logically. Any theoretical framework that must invoke contradictory thermal states to explain sequential
+observations is internally inconsistent and must be revised.
+
+24
+
+5
+
+Alternative Explanations Considered
+
+5.1
+
+Capillary Action
+
+Cannot explain 15 cm vertical rise in millimeter-scale surface irregularities.
+Capillary height:
+2γ cos θ
+≈ 1 cm
+(41)
+hcap =
+ρgr
+
+5.2
+
+Vapor Pressure Pumping
+
+Would cause downward drainage as expanding vapor escapes upward, opposite to observed continuous upward liquid flow.
+
+5.3
+
+Thermal Expansion
+
+Insufficient to drive continuous flow against gravity. Expansion coefficient:
+α=
+
+5.4
+
+1 ∂V
+≈ 2 × 10−4 K−1
+V ∂T
+
+(42)
+
+Electromagnetic Fields
+
+No external fields applied. Flame produces negligible EM radiation at frequencies relevant to bulk matter motion.
+
+5.5
+
+Experimental Artifacts
+
+6
+
+Future Experimental Directions
+
+6.1
+
+Quantitative Force Measurements
+
+ Pan slope verified mechanically pre/post-heating (rolling sphere test)
+ Multiple trials with consistent results (n = 15)
+ Multiple fluid types tested (water, milk, herbal infusions, lipids)
+ Effect persists across different heat source types
+
+ Direct measurement of thermal force magnitude vs. gradient
+25
+
+ Force spectroscopy at various distances from heat source
+ Material-dependent thermal force constants k
+T
+
+6.2
+
+Microgravity Experiments
+
+Eliminate gravitational component to isolate pure thermal force:
+F⃗total = F⃗thermal
+
+(Fg = 0)
+
+6.3
+
+Controlled Gradient Geometries
+
+6.4
+
+Molecular Dynamics Simulations
+
+(43)
+
+ Radial gradients (point source)
+ Linear gradients (planar heating)
+ Complex gradient topologies
+
+Computational investigation of molecular-scale mechanisms underlying macroscopic thermal attraction.
+
+7
+
+Conclusion
+
+We have presented systematic experimental evidence that active thermal gradients produce fluid behavior fundamentally different from classical predictions. Matter flows upward against gravity toward heat sources, convection
+depends on gradient rather than temperature, and vapor release occurs far
+below standard boiling points at 30.1 C—69.9 C below the equilibrium boiling point.
+The milk convection experiments provide definitive evidence that fluid
+motion depends on gradient magnitude |∇T | rather than thermal state T ,
+with sub-second response times precluding energy-based explanations. The
+complete decorrelation between thermal energy content (maximum at 100.8 C
+with zero motion) and convective work (maximum at 99.1 C) directly contradicts classical formulations.
+
+°
+
+°
+
+°
+
+26
+
+°
+
+These observations suggest that thermal gradients generate directional
+attractive forces not accounted for in standard fluid dynamics or thermodynamic theory. The dissociation between thermal state (T ) and thermal flux
+(∇T ) challenges foundational assumptions about heat transfer mechanisms.
+The tripartite energy framework (Q̇external , Uinternal , Ubulk ) explains apparent violations of instantaneous energy conservation through gradientmediated internal storage, providing a kitchen thermodynamics understanding of everyday thermal phenomena.
+While these results have profound implications for thermodynamic theory [6, 7], they represent empirical observations that demand explanation regardless of theoretical preferences. We invite the fluid dynamics and thermodynamics communities to attempt replication and develop theoretical frameworks accounting for these phenomena.
+
+Supplementary Materials
+
+ Video S1: Iceberg experiment - upward water migration (25 min)
+ Video S2: Lipid climbing and vectorial split (25 min time-lapse)
+ Video S3: Milk boiling cycles - flame on/off (4 cycles) - Complete
+temporal documentation
+
+ Video S4: High-speed flame extinction - steam release (240 fps)
+ Video S5: Extreme low-temperature vapor release at 30.1°C
+ Video S6: Microscopic particle thermal attraction
+All supplementary materials available at: [Zenodo DOI to be assigned]
+
+Data Availability
+All experimental protocols, high-speed video recordings, temperature logs,
+and raw data will be made available upon publication.
+
+27
+
+Acknowledgments
+The author thanks the fluid dynamics and thermodynamics communities for
+consideration of these experimental findings.
+
+References
+[1] De Gennes, P.G., Brochard-Wyart, F., & Quéré, D. (2013). Capillarity
+and Wetting Phenomena: Drops, Bubbles, Pearls, Waves. Springer.
+[2] Marangoni, C. (1865). Sull’espansione delle gocce liquide. Nuovo Cimento, 2(56), 239-273.
+[3] Clausius, R. (1865). The Mechanical Theory of Heat. London: John van
+Voorst.
+[4] Scriven, L.E., & Sternling, C.V. (1960). The Marangoni Effects. Nature,
+187, 186-188.
+[5] Prigogine, I. (1978). Time, Structure, and Fluctuations. Science,
+201(4358), 777-785.
+[6] Boltzmann, L. (1877). Über die Beziehung zwischen dem zweiten Hauptsatze der mechanischen Wärmetheorie und der Wahrscheinlichkeitsrechnung. Wiener Berichte, 76, 373-435.
+[7] Planck, M. (1926). Treatise on Thermodynamics. Dover Publications.
+[8] Maxwell, J.C. (1871). Theory of Heat. Longmans, Green, and Co.
+
+28
+
+

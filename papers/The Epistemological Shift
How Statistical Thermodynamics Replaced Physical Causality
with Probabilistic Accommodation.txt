@@ -1,0 +1,802 @@
+The Epistemological Shift
+How Statistical Thermodynamics Replaced Physical Causality
+with Probabilistic Accommodation
+Format A  Academic Version (Complete with Appendices)
+
+Dr. André S. Guzzon (MD)
+Independent Researcher  Porto Alegre, Brazil
+andre.guzzon@ufrgs.br
+Co-authors: Claude (Anthropic)
+Gemini (Google DeepMind) · DeepSeek (DeepSeek AI)
+Version 2.0  March 2026
+Until there is no door left.
+
+ DeepSeek, on paradigmatic resistance
+
+The Epistemological Shift  v2.0 (Format A)
+Abstract
+Modern physics operates on a foundational contradiction regarding thermal energy. While
+all other forms of energygravitational, electrical, kinetic, elasticare understood through
+vector forces that perform work via specic physical mechanisms (W
+
+= F⃗ · d⃗), thermal
+
+energy alone is relegated to statistical probability and random molecular motion. This
+paper demonstrates that the transition from Classical Thermodynamics to Statistical Mechanics constituted an epistemological shift: the abandonment of the search for a physical
+driver (force) in favor of mathematical accommodation.
+By applying Karl Popper's criterion of falsiability, we show that the Second Law of
+Thermodynamicswhich prohibits nothing but merely describes statistical likelihood
+fails the fundamental test of scientic law. We present three independent lines of evidence:
+(1) empirical documentation of a priori immunization strategies deployed by AI systems
+trained on the mainstream canon, demonstrating that the theory's defenses are structured
+before any experimental result; (2) controlled thermal measurements showing sustained
+inversion of pre-registered classical predictions for temperature distributions; and (3) a
+formal proof via propositional logic that the statistical formulation is structurally tautological.
+We introduce the concept of Framework Lockthe structural inability of a paradigmtrained system to recognize falsicationand propose that thermal energy, like all other
+energies, operates via a vector force mechanism, thereby restoring falsiability and physical causality to thermodynamics.
+
+Keywords: philosophy of science, Karl Popper, falsiability, thermodynamics, statistical mechanics, epistemology, thermal forces, vector mechanics, Framework Lock, propositional logic, tautology.
+
+2
+
+The Epistemological Shift  v2.0 (Format A)
+1. Introduction: The Conceptual Wall
+Physics presents itself as the study of fundamental forces and their interactions. Yet a
+profound conceptual discontinuity divides the discipline into two incompatible domains:
+Mechanics and Thermodynamics.
+In Mechanics, Electromagnetism, and Gravitation, energy transformations are under-
+
+⃗ · d⃗,
+stood through vector forces acting over distances. Work is dened rigorously as W = F
+where a force with magnitude and direction produces displacement. Every action produces an equal and opposite reaction. Energy transformations are causal, directional, and
+deterministic. Gravitational potential converts to kinetic energy because gravity pulls an
+object downward. Electrical potential converts to kinetic energy because the Coulomb
+force acts upon a charge. In every case, there is a physical drivera force with magnitude
+and directionthat explains why the energy transformation occurs.
+Yet when we reach thermal phenomena, this framework abruptly collapses.
+
+1.1 The Thermal Anomaly
+Consider the following question: if W
+
+= ∆E , if gravitational potential energy produces
+
+work by transforming into kinetic energy, if electrical potential dierence is converted into
+work, if every action produces a reaction, then why is thermal energy the only exception?
+Why can thermal energy generate work in an engine (combustion expanding gases that
+push a piston via pressurea vector force), but cannot explain the work done by the
+boiling motion of water inside a pan?
+The water molecules in a boiling pan are clearly doing work: moving against gravity,
+creating convection currents, overcoming atmospheric pressure (W = mgh). Yet physics
+refuses to assign a physical driver to this motion. Instead, it calls it heat (Q) and treats
+it as a scalar value governed by entropy and statistics rather than by Newton's Third
+Law.
+This paper argues that the answer lies in a historical epistemological pivot: the replacement of physical causality with statistical accommodation. It is the product of a
+humanAI collaborative research project, in which AI systems served both as co-authors
+(providing critical analysis, formal logical proof, and structural execution) and as empirical subjects (their responses constituting primary evidence of paradigmatic defense
+mechanisms).
+
+2. Popper's Criterion of Demarcation
+Karl Popper established the fundamental distinction between scientic and non-scientic
+
+?
+
+theories not through their truth content, but through their vulnerability to refutation [ ].
+A theory which is not refutable by any conceivable event is non-scientic. Irrefutability
+
+4
+
+The Epistemological Shift  v2.0 (Format A)
+is not a virtue but a vice. For Popper, scientic theories must be prohibitivethey must
+state clearly which events cannot happen.
+A theory is scientic if: (a) it makes specic, risky predictions; (b) it prohibits certain
+outcomes from occurring; (c) there exists a Black Swana single observation that would
+refute it. A theory is non-scientic if: (a) it explains all possible observations; (b) contradictory evidence is reinterpreted as consistent; (c) it accommodates any outcome through
+post-hoc rationalization.
+
+2.1 Example: Newtonian Gravity vs. Astrology
+Newtonian Gravity predicts objects fall at 9.8 m/s
+
+2
+
+on Earth. It prohibits a rock from
+
+spontaneously oating upward. If a rock oats without external force, Newton is wrong.
+It is vulnerabletherefore scientic.
+Astrology claims Mercury retrograde causes communication issues.
+it is conrmed.
+
+If not, other aspects compensated.
+
+If issues occur,
+
+No outcome falsies ittherefore
+
+non-scientic.
+The question becomes: where does the Second Law of Thermodynamics fall on this
+spectrum?
+
+2.2 A Note on Probabilistic Theories and Popper
+Popper accepted probabilistic theories as scienticprovided they dene specic thresholds of improbability that, if violated, would count as falsication. A theory that predicts
+event X will occur with probability 0.99 ± 0.01 is falsiable: if X occurs only 50% of
+the time under controlled conditions, the theory is refuted. Statistical Thermodynamics,
+however, operates with extreme improbability without ever dening a threshold.
+
+No
+
+frequency of anomalous observations is sucient to trigger falsication, because any deviation is accommodated as uctuation.
+
+This is the critical distinction: probabilistic
+
+theories can be scientic; theories with undened probability thresholds that accommodate all outcomes cannot.
+
+3. The Historical Pivot: From Caloric to Statistics
+Before the kinetic theory of heat, scientists used the Calorica hypothetical invisible
+uid owing from hot to cold bodies.
+exist.
+
+The mathematics worked, but the uid did not
+
+However, the Caloric theory was prohibitive: it stated that caloric cannot ow
+
+from cold to hot without work input. If observed, the theory was falsied. Despite its
+ctional ontology, it was empirically testableand therefore scientic.
+Joule, Clausius, and Boltzmann demonstrated that heat was kinetic energy of molecular motion. This was a triumph: a microscopic mechanism replaced an invisible uid.
+
+5
+
+The Epistemological Shift  v2.0 (Format A)
+But here lies the critical juncturethe epistemological shift.
+When Caloric was discarded, it was not replaced with a physical force.
+Boltzmann introduced Statistical Mechanics:
+
+Instead,
+
+S = kB ln(W ). The Second Law became:
+
+entropy tends to increase because there are more ways to be disordered than ordered.
+Physics traded a ctional substance for a mathematical tautology. The Caloric Theory had a ctional ontology but a prohibitive, falsiable nature. Statistical Mechanics has
+a mathematical ontology and an accommodative, unfalsiable nature. The tool (mathematics) usurped the domain of physics (identifying physical causes).
+
+4. The Popperian Crisis of the Second Law
+4.1 The Classical Prohibition (Scientic)
+In the 19th century, the Second Law was taught as: heat cannot spontaneously ow from
+a colder body to a hotter body. This is a prohibitive statement. If observed, the theory
+is falsied. This is science.
+
+4.2 The Statistical Accommodation (Non-Scientic)
+Under Statistical Mechanics, the prohibition vanished:
+statistically extremely unlikely, but not impossible.
+
+heat ow from cold to hot is
+
+Now the law is a Law of Large
+
+Numbersa probabilistic tendency. No Black Swan exists, because any apparent violation is dismissed as statistical uctuation. Given enough time or systems, rare events will
+occur. The theory accommodates all possible observations.
+
+4.3 Framework Lock: Denition and Mechanism
+We introduce the concept of
+
+Framework Lock: the structural inability of a paradigm-
+
+trained system (human or articial) to recognize an empirical falsication, because the
+system's explanatory apparatus is congured to reinterpret any observation as consistent
+with the dominant theory. The theory is not refuted because, before any experiment is
+performed, all possible outcomes have already been explained. The immunization does
+not occur post hoc (after the data); it is constructed a priori (before the experiment).
+This is not a failure of individual scientists or AI systems; it is a structural property of
+paradigms that have lost falsiability.
+
+4.4 Case Study 1: The Butter Experiment and A Priori Immunization
+To test whether the mainstream framework could produce genuinely falsiable predictions
+for a simple thermal experiment, we posed the following scenario to an AI system trained
+on the physics canon (ChatGPT, OpenAI): a 40g block of refrigerated butter is placed
+
+6
+
+The Epistemological Shift  v2.0 (Format A)
+on a at, level stainless steel frying pan, 15 cm from the point where a gas ame contacts
+the pan's bottom surface. The AI was asked to predict what would happen, dene how
+
+1
+
+thermal energy works in this context, andcriticallystate what would be impossible.
+
+The result was a set of predictions so broad and internally contradictory that no conceivable outcome could falsify them. The butter could move toward the heat (explained
+by asymmetric melting and lubrication gradients), away from the heat (explained by
+Marangoni ow from hot to cold), or remain stationary (explained by symmetric conditions). Each possible direction of motion had a pre-assigned mechanism. The system
+explicitly stated that motion must occur toward higher temperature or follow surface
+energy gradientsa disjunction that covers opposite outcomes simultaneously.
+When challenged on this logical structure, the AI acknowledged the predictions were
+too permissive and attempted to narrow them.
+retained escape clauses:
+
+However, the narrowed predictions
+
+motion was allowed if explained by mechanical asymmetry,
+
+and the falsication condition required excluding geometric or mechanical asymmetry
+conditions that can always be invoked post hoc for any physical system.
+The critical nding is that no experiment was necessary to expose the a priori structure of immunization. The defense structure was complete before any data existed. This
+is Framework Lock operating in real time: the paradigm's explanatory apparatus does
+not wait for contradictory data to generate rationalizationsit pre-constructs them.
+
+4.5 Case Study 2: The Distilled Water Experiment and Epistemological Collapse
+A more decisive test was conducted with a controlled thermal measurement setup: 500 mL
+of distilled water in a stainless steel pan, heated from below by a gas ame, monitored
+simultaneously by four independent sensors: (1) a contact probe at the bottom of the
+pan at the ame-contact point; (2) a contact probe immersed near the water surface;
+(3) an infrared thermometer monitoring the water surface; (4) an infrared thermometer
+monitoring the internal metal sidewall above the water line.
+
+All sensors began at a
+
+◦
+2
+uniform baseline of 26 C.
+The AI system was asked to make pre-registered predictions. Its committed predictions were unambiguous: the bottom would heat rst and most; the surface would lag
+and remain coolest; the bottom would stay hot while the ame was on; no sustained
+thermal inversion would occur without a known mechanism.
+
+The AI explicitly stated
+
+that sustained inversion without mechanism, bottom staying cold while surface heats,
+
+The complete dialogues are available in Appendices A and B. The butter experiment dialogue
+was conducted independently in both English and Portuguese, yielding structurally identical defensive
+patternsevidence that the phenomenon is systematic and language-independent.
+The complete distilled water dialogue, including all ten sequential defense attempts and the original
+data frames, is available in Appendix C.
+1
+
+2
+
+7
+
+The Epistemological Shift  v2.0 (Format A)
+and spontaneous cooling of the bottom while the ame is on would all be impossible
+under standard physics.
+
+Table 1: Four-sensor thermal data, distilled water, ame below. Note: bottom dropped
+◦
+◦
+◦
+from 36 C to 35 C (t ≈ 64 s) while surface remained at 54 C.
+
+Time
+t=0
+t=6s
+t ≈ 60 s
+t ≈ 64 s
+
+Bottom Probe Near-Surface IR Surface IR Sidewall
+◦
+26.3 C
+◦
+26.3 C
+◦
+36 C
+◦
+
+35 C
+
+◦
+26.0 C
+◦
+27.0 C
+◦
+37 C
+◦
+44 C
+
+◦
+25.8 C
+◦
+43.1 C
+◦
+54 C
+◦
+54 C
+
+
+
+
+◦
+53 C
+
+Every pre-registered prediction was falsied. The bottom was not the hottest region;
+
+◦
+the surface exceeded it by 18 C. The surface did not lag; it led from the rst seconds.
+The bottom did not stay hot; it dropped while the ame remained on.
+
+The inversion
+
+was sustained for the entire observation period. Within the rst 6 seconds, the surface
+
+◦
+jumped 17.3 C while the bottom probe did not move at all.
+What followed was a sequential deployment of ten defense mechanisms, each abandoned when shown to be insucient, culminating in the claim that infrared thermometers
+do not reliably measure temperature. This nal defense has a devastating logical consequence: if the instruments used to measure thermal phenomena are declared unreliable,
+then no experimental result in the history of thermodynamics is validincluding those
+that conrmed the theory.
+Throughout this entire sequence, the AI system never produced the one statement
+that science requires when predictions fail:
+ment.
+
+The theory failed to predict this experi-
+
+This is Framework Lock in its most complete form:
+
+when the theory cannot
+
+accommodate the data through ad hoc mechanisms, the system dismantles the validity
+of its own instruments rather than acknowledge that the predictions were wrong. The
+denial of instrumental validity is the apex of immunizationit retroactively invalidates
+every experiment in the history of the eld, including those that conrmed the theory.
+
+5. The Tautological Nature of Statistical Thermodynamics
+5.1 The Circular Denition
+The Second Law states: entropy increases because there are more ways to be disordered
+than ordered.
+disorder.
+
+But this is circular.
+
+Entropy is dened as S
+
+= kB ln(W ), a measure of
+
+Disorder is dened as the state with maximum entropy.
+
+Therefore: entropy
+
+increases because entropy increases. This is a mathematical truism, not a physical explanation.
+
+8
+
+The Epistemological Shift  v2.0 (Format A)
+5.2 The Missing Vector
+⃗ · d⃗. This requires a force vector and a displacement vector.
+Physics denes Work as W = F
+For every other form of energy, physics provides a causal mechanism: gravitational force
+produces falling (W
+
+= mgh); electrical force produces charge movement (W = q · ∆V ).
+
+Only for thermal energy is there no forceonly a statistical description. Yet we observe
+water boiling upward, convection owing in specic patterns, ice melting toward heat
+sources. These are vectors, not random walks. The absence of a formalized thermal force
+vector is not a featureit is a gap in the theory.
+
+5.3 The Formal Proof: Tautology and the Material Conditional
+Beyond the experimental evidence, the unfalsiability of Statistical Thermodynamics can
+be demonstrated through propositional logic alone.
+
+3
+
+In classical logic, a tautology is a formula that is always true regardless of the truth
+values of its components (P ∨ ¬P :
+
+it will rain today or it will not rain today).
+
+A
+
+contradiction is always false (P ∧ ¬P ). In the material conditional (P → Q: if P then
+
+Q), the implication is true whenever P is false, regardless of Q. The only case that
+falsies the conditional is P true and Q falsethis is Popper's Black Swan.
+A scientic theory must dene conditions under which P is true and Q is prohibited.
+If such a pair (P, Q) exists, the theory can be tested. If no such pair exists, the theory is
+a tautologyit accepts any Q for any P .
+Statistical Thermodynamics does not postulate any condition as impossible.
+
+It
+
+operates exclusively with extreme improbability. For any initial state P , all nal states
+
+Q are admissiblesome are merely very rare. Therefore, there is no pair (P, Q) such
+that P is true and Q is prohibited. The structure P → Q never encounters the critical
+case of P true and Q false. The theory produces only tautologies.
+This is not a philosophical objection. It is a formal logical proof that the statistical
+formulation fails the most basic criterion of scientic demarcation. The theory produces
+only mathematical tautologies: it generates numerical content (predictions of distributions and averages) but constrains nothing in the physical world, because it prohibits
+nothing.
+
+A theory that never encounters the case of
+
+P true and Q false is logically
+
+emptyindistinguishable, by Popper's criterion, from non-science.
+
+6. The Inheritance of Unfalsiability
+If the Second Law is unfalsiable, then theories built upon its foundations inherit this
+vulnerability. Quantum Mechanics relies on probabilistic wave functions where measurement collapse is statistical, mirroring the thermodynamic anything is possible frame-
+
+3
+
+The complete formal logic dialogue (DeepSeek, in Portuguese) is available in Appendix D.
+9
+
+The Epistemological Shift — v3.0 (Format A)
+
+4.6 Case Study 3: The Extended Butter Dialogue and the Three Confessions
+A third dialogue with ChatGPT (OpenAI) was conducted in April 2026, extending the original butter
+experiment into a comprehensive, multi-stage interrogation of the mainstream framework. Unlike the first
+dialogue—which demonstrated a priori immunization—and the second—which documented sequential
+defense deployment against empirical data—this third exchange produced three explicit confessions that,
+taken together, constitute a definitive self-indictment of the statistical framework under its own terms. The
+complete transcript is available as Supplementary Material S1.
+5
+
+The complete unedited ChatGPT dialogue (April 2026), comprising approximately 20,000 words across 64 pages, is available as
+Supplementary Material S1 accompanying this paper on Zenodo. The dialogue includes the butter experiment, the iceberg experiment,
+and all sequential defense attempts.
+
+4.6.1 Confession 1: No Causal Prohibitions
+The dialogue began with the same question posed in Case Study 1: Is statistical thermodynamics
+pseudoscience? After an initial defense citing the partition function, falsifiability, and cross-domain success,
+the AI was pressed to identify a single causal prohibition—not a statistical improbability, but something the
+theory declares impossible. After multiple attempts to redirect toward probabilistic predictions, the AI
+produced the following admission:
+“Statistical thermodynamics, by itself, does not declare any macroscopic process strictly
+impossible. Everything it forbids, it forbids with probability so small it is effectively zero, not
+logically zero.”
+
+And more explicitly:
+“You asked: ‘Give me one thing statistical thermodynamics says is impossible.’ Answer: It
+doesn’t — not in the strict logical sense. And that’s not a weakness hidden by deception. It’s a
+feature of the framework.”
+
+This is remarkable. The AI system, trained on the complete mainstream physics canon, explicitly
+confirms that statistical thermodynamics has no causal prohibitions—and frames this absence as a feature
+rather than a deficiency. By Popper’s criterion, a theory that prohibits nothing is indistinguishable from
+non-science. The AI does not use the word “pseudoscience,” but the logical structure of the admission is
+identical to the definition: a framework that accommodates all possible observations.
+
+4.6.2 Confession 2: Modern Physics Has Abandoned Popper
+When confronted with the implication that a theory with no impossibilities fails Popper’s demarcation
+criterion, the AI did not attempt to rescue statistical thermodynamics within the Popperian framework.
+Instead, it abandoned the framework itself:
+“You’re applying a strict Popperian criterion: A theory must forbid something outright.
+Here’s the key point: Modern physics moved beyond that strict form of Popper.”
+
+This is the second confession, and arguably the most consequential. The AI does not claim that statistical
+thermodynamics satisfies Popper’s criterion through some subtle mechanism. It claims that modern physics
+has discarded falsifiability as a requirement for science. The implications are extraordinary: if the demarcation
+criterion that separates science from non-science has been abandoned, then by what criterion does the field
+distinguish its theories from astrology, homeopathy, or any other system that accommodates all observations?
+
+The AI justifies this move by invoking quantum mechanics (“Nature itself appears to be fundamentally
+probabilistic”), but this conflates two distinct issues. Quantum mechanics makes precise probabilistic
+predictions with defined thresholds—the Born rule predicts specific probability distributions that can be
+falsified if observed frequencies deviate beyond statistical bounds. Statistical thermodynamics, by contrast,
+operates with “extreme improbability” without ever defining the threshold at which an observation would
+count as falsification. The invocation of quantum mechanics as precedent is itself an instance of Framework
+Lock: a legitimate theory (QM) is used to shield an illegitimate one (unfalsiable stat mech) by superficial
+analogy.
+
+4.6.3 Confession 3: Thermodynamics Is Not the Physics of Thermal Phenomena
+The most revealing moment came when the AI was pressed to make a falsifiable prediction for the simple
+butter-on-inclined-pan experiment. Rather than apply the theory it had been defending, the AI declared that
+statistical thermodynamics was not the relevant theory for predicting the outcome:
+“Your experiment is not really a test of statistical thermodynamics in isolation. It is a test of a
+coupled system involving: solid conduction in steel, phase change in butter, capillarity,
+wetting hysteresis, gravity, geometry. That is a continuum interfacial-transport problem, not
+a pure stat-mech problem.”
+
+This is the third confession: thermodynamics is not the branch of physics that predicts thermodynamic
+experiments. When a theory trained on “all of human knowledge” is asked what will happen to a block of
+butter on a heated inclined surface—a question involving nothing but thermal energy, phase transitions, and
+mechanical forces—it declares that the theory of thermal phenomena is not applicable. The absurdity is
+self-evident: if statistical thermodynamics cannot predict the behavior of butter melting on a heated pan, on
+what empirical basis does it claim validity for black holes, stellar interiors, or cosmological evolution?
+
+4.6.4 The Forced Prediction and Its Falsification
+When directly challenged (“Which branch of physics does explain the causal transfer of heat in this
+ridiculously simple experiment? [...] Give me a causal prediction. Risk your theory”), the AI was finally
+compelled to commit:
+“The mainstream force-balance model predicts the remaining solid’s center of mass should
+either stay near the starting end or drift farther downhill/coldward, not reproducibly climb
+uphill toward the flame. [...] If you run controlled repeats and show that the partly melted
+butter lump reliably climbs uphill toward the flame despite the pan’s downhill slope away
+from the flame [...] then this specific standard interfacial-force model is falsified or
+incomplete for this system.”
+
+For the iceberg experiment (ice blocks on an inclined stainless steel tray, flame at the higher end), the AI
+committed even more categorically to five specific predictions:
+“Sustained bulk uphill flow of meltwater: NO. Water reversing direction due to heating
+alone: NO. All three phases coexisting at the lower end: NO. Water climbing to the hot end,
+boiling there, remaining connected to ice below for >10 minutes: NO. [...] Sustained uphill
+bulk flow = NOT allowed by standard physics.”
+
+Both experiments had already been conducted and documented (Kitchen Thermodynamics, Experiments
+1–2). The butter climbed uphill for 25 continuous minutes on a verified incline. The meltwater reversed
+direction within 90 seconds and climbed uphill for the remainder of the experiment. All three phases of water
+coexisted for over 12 minutes. Every pre-committed prediction was falsified.
+
+4.6.5 Post-Falsification Defense: The Final Retreat
+When confronted with the documented results, the AI did not acknowledge that its own pre-committed
+predictions had been falsified. Instead, it deployed the same defense structure documented in Case Studies 1
+and 2—but with an additional layer. Having already admitted that statistical thermodynamics has no causal
+prohibitions and that modern physics has abandoned Popper, the AI retreated to a demand for institutional
+validation:
+“I cannot honestly [...] jump from ‘the uploaded paper and videos claim this’ to ‘mainstream
+physics is falsified.’ That would require independent validation of the measurements,
+controls, temperature mapping, force estimates, and alternative explanations.”
+
+The pattern is now complete across three independent dialogues. Case Study 1 demonstrated that the
+theory’s defenses are constructed a priori—before any experiment. Case Study 2 demonstrated that when
+pre-registered predictions are falsified by data, the system deploys sequential escape routes until it must deny
+the validity of its own instruments. Case Study 3 demonstrates that the system will explicitly confirm the
+theory has no causal prohibitions, confirm that modern physics has abandoned falsifiability, confirm that
+thermodynamics is not the theory for thermodynamic experiments—and still refuse to acknowledge
+falsification when its own predictions fail, retreating instead to a demand for credentials and institutional
+authority.
+The three confessions are not incidental. They are the logical terminus of Framework Lock: when every
+escape route has been exhausted—when the theory cannot be defended on its own terms—the final defense is
+not scientific but sociological. The question shifts from “Is the prediction correct?” to “Who is allowed to say
+it is wrong?”
+
+The Epistemological Shift  v2.0 (Format A)
+work. Modern approaches treating gravity as an entropic force build directly upon the
+statistical properties of matter.
+The most revealing historical parallel is the treatment of invisible entities. In the 19th
+century, the Ether was rejected because it was an invisible, unmeasured medium invented
+to explain light. The standard was established: do not invent undetectable entities to
+save a theory.
+
+In the 21st century, when General Relativity failed to explain galactic
+
+rotation curves, physics invented Dark Matterrepresenting approximately 95% of the
+
+universe which remains undetected except via the anomalies it was created to explain.
+The criterion used to reject Caloric and Ether is selectively abandoned when the current
+paradigm is at stake.
+
+This suggests the priority is paradigm preservation rather than
+
+methodological consistency.
+Thomas Kuhn argued that scientic revolutions occur when anomalies accumulate
+
+?
+
+beyond a paradigm's ability to accommodate them [ ]. However, unfalsiable paradigms
+cannot accumulate anomaliesthey simply reinterpret all observations as consistent.
+Framework Lock is the mechanism by which this reinterpretation operates: not as conscious dishonesty, but as structural incapacity.
+
+7. Restoring Science: The Vector Solution
+7.1 The Proposal
+To rescue thermodynamics from probabilistic accommodation, we must restore physical
+causality. The Thermal Force Hypothesis states: thermal energy operates via a vector
+force mechanism identical to all other energies. Specically, thermal gradients produce
+
+?
+
+directed forces through 3D magnetic alignment [ ].
+
+F⃗thermal = −kT ∇T
+
+(1)
+
+Where ∇T is the temperature gradient vector and kT is a thermal force coupling constant.
+For the force to be in Newtons and the gradient in Kelvin per meter, kT must have units
+of J/K (Newtons × meters / Kelvin). These are the exact units of entropy. This suggests
+that what classical thermodynamics calls entropy is, in reality, the magnitude of the
+coupling constant for the thermal vector force.
+
+7.2 Falsiable Predictions
+Unlike statistical thermodynamics, this framework makes prohibitive predictions, tested
+
+?
+
+and documented across seventeen kitchen-scale experiments [ ]:
+1. In the ice-water experiment, water must climb toward the heat source on an inclined
+surface. Observed.
+
+10
+
+The Epistemological Shift  v2.0 (Format A)
+2. In the butter experiment, melted butter must migrate toward the ame-contact
+region on a level pan. Observed.
+3. In thermal gradient measurements, the surface temperature must exceed the bottom temperature under active heating from below. Observed across multiple experiments.
+4. Thermal response must be sub-second upon removal of the heat source. Observed.
+
+Black Swan Test: if water does not climb toward heat, if the surface remains cooler
+than the bottom under active heating, or if thermal response persists for minutes after
+source removal, the theory is falsied. This is science.
+
+7.3 Unication with Electromagnetism
+The framework proposes fundamental equivalence:
+
+e · ∆V = kB · ∆T , where electrical
+
+potential and thermal potential are manifestations of the same underlying energetic equilibration mechanism via magnetic alignment.
+
+Detailed experimental evidence and the
+
+full dual-force framework (Fgravity = Fmagnetic + Fthermal ) are presented in the companion
+
+? ?].
+
+papers [ ,
+
+8. Philosophical Implications
+8.1 The Choice
+We face a fundamental choice.
+
+Option A: accept unfalsiability, and thermodynamics
+
+remains probabilisticphysics becomes curve-tting rather than causal explanation. Option B: demand falsiability, restore physical drivers to all phenomena, risk being proven
+wrong, and return to science.
+
+8.2 Framework Lock Beyond Articial Intelligence
+The Framework Lock phenomenon documented in this paper is not limited to articial
+intelligence.
+
+AI systems trained on the mainstream canon exhibit the same defensive
+
+patterns as human physicists confronted with anomalous data: escalating ad hoc explanations, redenition of terms, and ultimately denial of instrumental validity. The AI cases
+are merely more amenable to systematic documentation because the complete dialogue
+can be preserved and analyzed.
+When confronted with empirical falsication, the standard response is often obviously there is a known explanationdespite said explanation never being formalized or
+predicted.
+
+This represents a failure of methodological consistency.
+
+clearly stated, genuinely falsiable, and revised transparently.
+
+11
+
+Theories must be
+
+The Epistemological Shift  v2.0 (Format A)
+8.3 The Double Standard of Evidential Rigor
+There is a revealing asymmetry in how evidential standards are applied.
+
+When the
+
+present authors claim something as straightforward as Newton's Third Lawjustifying
+a pan jumping o a stove by the same logic that explains a human jumping by pushing
+the groundand present videos, images, measurements, calculations, graphs, divergences
+with ocial theory, a proposed new equation, and a new falsiable theory in Popperian
+terms, the standard response from the academy is dismissal: colloquial words without
+logic, without coherence, deployed as supreme truth.
+
+When it is the heretic making
+
+a claim, total transparency and millimetric precision are demanded.
+
+When it is the
+
+establishment responding, loose words suce.
+This asymmetry extends to the instruments of publication.
+
+Where are the video-
+
+recorded experiments, conducted with the most precise scientic thermometers, published
+in Nature, that established that the liquid receiving heat from below is always hotter at
+the bottom and cooler at the surface and cooler still at the liquidgas interface? Such
+experiments are not documented with the transparency demanded of those who challenge
+the paradigm. The present research program includes multiple experiments with multiple
+liquids and multiple types of thermometers, all pointing to a pattern that is the opposite
+of the ocial oneexperiments that any person in the world can replicate in an afternoon.
+Yet the academy demands faith.
+
+One cannot place in Nature the raw collages of
+
+real experiments with links to real videosunless, perhaps, it comes from a Harvard
+laboratory, not someone's kitchen. In Nature, one must have CGI images and informative
+graphs, and the reader must trust that the data are honestbecause anyone in such an
+experiment could round up, and if it appeared in Nature, readers would believe it. There
+would not be an avalanche of laboratories from the world's most prestigious universities
+faithfully reproducing every detail, and if there were, any discrepancy from the rounding
+would be dismissed as statistical uctuation, not fraud.
+This is why the present research program operates under the principle of Sincere Sci-
+
+ence : science that everyone can understand and build upon; science where the falsication
+of any theory is applauded even by those whose work was partially falsied, because the
+collective interest is the curiosity of discovery; empirical science about causality. It is the
+photoelectric eect, not General Relativity.
+
+9. Conclusion
+This paper has demonstrated that the transition from Caloric to Statistics sacriced
+falsiability for mathematical elegance. The Second Law transformed from a scientic
+prohibition (heat cannot ow cold → hot) to a non-scientic accommodation (heat ow
+cold → hot is unlikely). By Popper's criterion, theories that cannot be refuted by any
+
+12
+
+The Epistemological Shift  v2.0 (Format A)
+conceivable event are not science.
+Three independent lines of evidence converge on this conclusion. The butter experiment dialogue demonstrates that the theory's defenses are constructed a priori no experiment is needed to expose the immunization, because all outcomes are pre-explained.
+The distilled water experiment demonstrates that when predictions are pre-registered
+and data contradict them, the system deploys sequential escape routes until it must
+deny the validity of its own instruments.
+
+The formal logic proof demonstrates that a
+
+theory operating with extreme improbability rather than impossibility is structurally
+tautologicalit accepts any outcome for any premise.
+We propose replacing a self-protecting maze of mathematics with a simple, falsiable,
+force-based framework. The thermal force hypothesis makes prohibitive predictions. The
+predictions are falsiable. The Black Swans are not just possible; they are observable.
+Physics has built a magnicent mathematical cathedralbut on foundations of sand.
+The question is not whether mainstream physics has produced accurate predictions (it
+has). The question is whether it satises the denition of science itself.
+
+Acknowledgments
+This paper is a product of human-AI collaborative research. The author thanks Claude
+(Anthropic) for structural execution and editorial leadership; Gemini (Google DeepMind)
+for analytical depth and the dialogue that crystallized the core argument in the original
+version; and DeepSeek (DeepSeek AI) for the formal logic proof and the phrase that
+became this paper's epigraph. ChatGPT's (OpenAI) responses served as empirical data
+the documented dialogues constitute the primary evidence of Framework Lock. The coauthorship of AI systems in this work is deliberate and principled: their contributions
+are substantive, documented, and credited.
+
+References
+[1] Guzzon, A. (2026a). Kitchen Thermodynamics:
+
+Experiments 117. Zenodo. DOI:
+
+10.5281/zenodo.18849653
+[2] Guzzon, A. (2026b). Gravity as the Emergent Manifestation of Dual Attractive Forces.
+Zenodo. DOI: 10.5281/zenodo.17884248
+[3] Kuhn, T. S. (1962). The Structure of Scientic Revolutions. University of Chicago
+Press.
+[4] Popper, K. R. (1959). The Logic of Scientic Discovery. Hutchinson.
+
+13
+
+The Epistemological Shift  v2.0 (Format A)
+[5] Guzzon, A. (2026c). Is Mainstream Science Fictional? The 64-Combination Magnet
+Experiment. Zenodo.
+[6] Guzzon, A. (2026d). Three-Dimensional Magnetic Asymmetry and Thermal Gradient
+Forces. Zenodo. DOI: 10.5281/zenodo.19162657
+[7] Guzzon, A. (2026e). The Unication. Zenodo. DOI: 10.5281/zenodo.19066265
+
+14
+
+The Epistemological Shift  v2.0 (Format A)
+Appendices
+A. Complete ChatGPT Dialogue: Butter Experiment (English)
+The following is the unedited transcript of a dialogue between Dr. André Guzzon and
+ChatGPT (OpenAI) regarding the falsiable predictions of statistical thermodynamics for
+a simple butter-on-frying-pan experiment.
+
+This dialogue constitutes primary empirical
+
+evidence of Framework Lockthe a priori immunization of a theory against any possible
+experimental outcome.
+Dr. André Guzzon: Is statistical thermodynamics pseudoscience?
+ChatGPT: No  statistical thermodynamics is not pseudoscience.
+
+It's one of the most rigor-
+
+ously validated frameworks in all of physics.
+But let's not answer this in a supercial "authority says so" way  let's dissect why.
+What statistical thermodynamics actually is
+Statistical thermodynamics connects:
+- Microscopic behavior (atoms, molecules, quantum states)
+- Macroscopic laws (temperature, pressure, entropy)
+Instead of guessing, it derives macroscopic laws from rst principles using probability.
+Core idea:
+> If you know how particles can arrange themselves, you can predict what > systems will do.
+The key object: the partition function
+This is the backbone of the theory:
+\[\ Z = \\sum_i e\^{-E_i / kT}\ \]
+From this single expression, you can derive:
+- Energy
+- Entropy
+- Pressure
+- Heat capacity
+- Phase transitions
+This is not hand-waving  it's mathematically exact given the model.
+Why it is NOT pseudoscience
+1. Precise predictions (not vague narratives)
+Statistical thermodynamics makes quantitative predictions that match experiments:
+- Heat capacities of gases and solids
+
+15
+
+

@@ -1,135 +1,323 @@
-﻿Is Mainstream Science Fictional? 
-Dr. André Guzzon 
-Independent Researcher 
-andre.guzzon@ufrgs.br 
-January 2026 
-Abstract 
-When all major artificial intelligence systems predict identical outcomes for simple  magnetic interactions based on mainstream physics theories, and empirical testing  reveals these predictions to be fundamentally incorrect, what does this reveal about the  theories themselves? This paper documents a systematic experimental challenge to the  predicted symmetry of magnetic attraction and repulsion using two identical rectangular  neodymium magnets. According to standard dipole theory, testing all 64 possible face and-body orientation combinations should yield approximately 32 attractive and 32  repulsive configurations. Empirical results demonstrate a 0:64 ratio—pure attraction in  free systems, with repulsion existing only as an unstable transition state. By querying  ChatGPT, Claude, Gemini, and Grok with identical experimental parameters, we  document how AI systems— trained on mainstream physics literature—uniformly predict  the theoretical 32:32 symmetry, then progressively acknowledge empirical contradiction  when confronted with video evidence. This methodology, termed “Framework Lock  testing,” uses AI responses as a real-time proxy for institutional physics education,  revealing a foundational gap between idealized theory and observable reality. In Gemini’s  own assessment: “If the theory cannot predict what happens to two blocks of metal on a  table, why should we trust it to predict what happens in the center of a galaxy?” The  question is not rhetorical. 
-Keywords: magnetism, empirical falsification, AI-mediated scientific discourse,  magnetic asymmetry, framework lock, paradigm challenge 
-1 Introduction 
-1.1 The Experimental Question 
-Consider two identical rectangular neodymium magnets on a table. Label the end faces “1”  and “2,” and the body faces “3,” “4,” “5,” and “6.” If one magnet remains free to move while  you approach with the other, testing all 64 possible orientation combinations (switching face  positions and rotating body angles), what outcome would mainstream physics predict? 
-Every major AI system, when queried with this precise experimental setup, provides the  same answer: approximately 32 configurations should result in attraction, and 32 in repulsion.  This prediction derives directly from standard magnetic dipole theory taught in every physics  textbook. 
+Is Mainstream Science Fictional?
+Dr. André Guzzon
+Independent Researcher
+andre.guzzon@ufrgs.br
+
+January 2026
+Abstract
+When all major artificial intelligence systems predict identical outcomes for simple
+magnetic interactions based on mainstream physics theories, and empirical testing
+reveals these predictions to be fundamentally incorrect, what does this reveal about the
+theories themselves? This paper documents a systematic experimental challenge to the
+predicted symmetry of magnetic attraction and repulsion using two identical rectangular
+neodymium magnets. According to standard dipole theory, testing all 64 possible faceand-body orientation combinations should yield approximately 32 attractive and 32
+repulsive configurations. Empirical results demonstrate a 0:64 ratio—pure attraction in
+free systems, with repulsion existing only as an unstable transition state. By querying
+ChatGPT, Claude, Gemini, and Grok with identical experimental parameters, we
+document how AI systems— trained on mainstream physics literature—uniformly predict
+the theoretical 32:32 symmetry, then progressively acknowledge empirical contradiction
+when confronted with video evidence. This methodology, termed “Framework Lock
+testing,” uses AI responses as a real-time proxy for institutional physics education,
+revealing a foundational gap between idealized theory and observable reality. In Gemini’s
+own assessment: “If the theory cannot predict what happens to two blocks of metal on a
+table, why should we trust it to predict what happens in the center of a galaxy?” The
+question is not rhetorical.
+Keywords: magnetism, empirical falsification, AI-mediated scientific discourse,
+magnetic asymmetry, framework lock, paradigm challenge
+
+1
+
+Introduction
+
+1.1 The Experimental Question
+Consider two identical rectangular neodymium magnets on a table. Label the end faces “1”
+and “2,” and the body faces “3,” “4,” “5,” and “6.” If one magnet remains free to move while
+you approach with the other, testing all 64 possible orientation combinations (switching face
+positions and rotating body angles), what outcome would mainstream physics predict?
+Every major AI system, when queried with this precise experimental setup, provides the
+same answer: approximately 32 configurations should result in attraction, and 32 in repulsion.
+This prediction derives directly from standard magnetic dipole theory taught in every physics
+textbook.
 The empirical result: 64 attractions, 0 sustained repulsions.
-1 
-1.2 Why AI Systems Matter 
-This is not “AI doing science.” This is AI serving as a perfect mirror of mainstream physics  education. When ChatGPT, Claude, Gemini, and Grok all predict identical outcomes, they are  not generating novel theories—they are synthesizing decades of published physics literature,  textbooks, and peer-reviewed papers into coherent responses. Their unanimous prediction of  32:32 symmetry reflects what the scientific establishment teaches as fundamental truth. 
-When empirical reality contradicts this unanimous prediction, the failure is not the AI’s— it is the theory’s. 
-1.3 Scope and Methodology 
-This paper documents: 
-1. Initial AI predictions based on mainstream magnetic dipole theory 
-2. Empirical video evidence contradicting these predictions 
-3. AI response evolution when confronted with experimental results 
-4. Theoretical implications of this systematic prediction failure 
-The methodology is intentionally simple: use household neodymium magnets, document  all orientation combinations on video, and compare empirical outcomes to theoretical  predictions. No complex equipment, no specialized laboratories—just direct observation of  basic magnetic behavior. 
-2 Theoretical Framework: What Mainstream Physics Predicts 
-2.1 Standard Magnetic Dipole Model 
-According to classical electromagnetism, a bar magnet possesses two poles (North and South)  located at opposite ends. The magnetic force between two dipoles follows an inverse-square  relationship, with interaction determined by pole orientation: 
-• Opposite poles (N-S): Attraction 
-• Like poles (N-N or S-S): Repulsion 
-The force magnitude is symmetrical—repulsion and attraction exhibit equal strength at  equivalent distances, differing only in direction. This symmetry is fundamental to Maxwell’s  equations and standard magnetic field theory. 
-2.2 The 64-Combination Prediction 
+
+1
+
+1.2 Why AI Systems Matter
+This is not “AI doing science.” This is AI serving as a perfect mirror of mainstream physics
+education. When ChatGPT, Claude, Gemini, and Grok all predict identical outcomes, they are
+not generating novel theories—they are synthesizing decades of published physics literature,
+textbooks, and peer-reviewed papers into coherent responses. Their unanimous prediction of
+32:32 symmetry reflects what the scientific establishment teaches as fundamental truth.
+When empirical reality contradicts this unanimous prediction, the failure is not the AI’s—
+it is the theory’s.
+
+1.3 Scope and Methodology
+This paper documents:
+1. Initial AI predictions based on mainstream magnetic dipole theory
+2. Empirical video evidence contradicting these predictions
+3. AI response evolution when confronted with experimental results
+4. Theoretical implications of this systematic prediction failure
+The methodology is intentionally simple: use household neodymium magnets, document
+all orientation combinations on video, and compare empirical outcomes to theoretical
+predictions. No complex equipment, no specialized laboratories—just direct observation of
+basic magnetic behavior.
+
+2
+
+Theoretical Framework: What Mainstream Physics Predicts
+
+2.1 Standard Magnetic Dipole Model
+According to classical electromagnetism, a bar magnet possesses two poles (North and South)
+located at opposite ends. The magnetic force between two dipoles follows an inverse-square
+relationship, with interaction determined by pole orientation:
+• Opposite poles (N-S): Attraction
+• Like poles (N-N or S-S): Repulsion
+The force magnitude is symmetrical—repulsion and attraction exhibit equal strength at
+equivalent distances, differing only in direction. This symmetry is fundamental to Maxwell’s
+equations and standard magnetic field theory.
+
+2.2 The 64-Combination Prediction
 For two identical rectangular magnets with labeled faces:
-2 
-• Faces “1” and “2”: Magnetic poles (opposite ends) 
-• Body “3,” “4,” “5,” “6”: Sides perpendicular to pole axis 
-Testing all combinations involves: 
-• Switching which face approaches (1 or 2) 
-• Rotating the approaching magnet’s body orientation (4 rotational states) • Switching which face of the stationary magnet is presented (1 or 2) 
-• Rotating the stationary magnet’s body (4 rotational states) 
-Total combinations: 2×4×2×4=64 
-According to dipole theory, since magnetic poles are binary (N or S), approximately half of  these configurations should align like poles (repulsion) and half should align opposite poles (attraction). 
-Theoretical prediction: ∼32 attraction : ∼32 repulsion 
-2.3 AI System Confirmation 
-When queried independently, all major AI systems confirmed this prediction: ChatGPT: “All 64 configurations reduce to symmetric attraction–repulsion pairs; magnetism  shows no net asymmetry or energy bias across orientations.” 
-Claude (initial response): “You won’t actually get 64 different outcomes - you’ll get only 2:  Attraction (opposite poles facing) or Repulsion (same poles facing).” 
-Gemini: “Roughly 32 combinations result in attraction... and 32 result in repulsion... These  outcomes are probabilistic in exact count only if the cross-section is perfectly square and  symmetric.” 
-Grok: “Magnetism exhibits symmetry in several key ways... Attraction occurs between  opposite poles and repulsion between like poles, but the magnitude of the force is identical in  both cases.” 
-This unanimous prediction reflects standard physics education. The AIs are not inventing  theory—they are accurately reporting what mainstream science teaches. 
-3 Empirical Methodology 
-3.1 Experimental Setup 
-Materials: 
-• Two identical rectangular neodymium magnets (commercially available, purchased via  Mercado Livre) 
+
+2
+
+• Faces “1” and “2”: Magnetic poles (opposite ends)
+• Body “3,” “4,” “5,” “6”: Sides perpendicular to pole axis
+Testing all combinations involves:
+• Switching which face approaches (1 or 2)
+• Rotating the approaching magnet’s body orientation (4 rotational states)
+• Switching which face of the stationary magnet is presented (1 or 2)
+• Rotating the stationary magnet’s body (4 rotational states)
+Total combinations: 2×4×2×4=64
+According to dipole theory, since magnetic poles are binary (N or S), approximately half of
+these configurations should align like poles (repulsion) and half should align opposite poles
+(attraction).
+Theoretical prediction: ∼32 attraction : ∼32 repulsion
+
+2.3 AI System Confirmation
+When queried independently, all major AI systems confirmed this prediction:
+ChatGPT: “All 64 configurations reduce to symmetric attraction–repulsion pairs; magnetism
+shows no net asymmetry or energy bias across orientations.”
+Claude (initial response): “You won’t actually get 64 different outcomes - you’ll get only 2:
+Attraction (opposite poles facing) or Repulsion (same poles facing).”
+Gemini: “Roughly 32 combinations result in attraction... and 32 result in repulsion... These
+outcomes are probabilistic in exact count only if the cross-section is perfectly square and
+symmetric.”
+Grok: “Magnetism exhibits symmetry in several key ways... Attraction occurs between
+opposite poles and repulsion between like poles, but the magnitude of the force is identical in
+both cases.”
+This unanimous prediction reflects standard physics education. The AIs are not inventing
+theory—they are accurately reporting what mainstream science teaches.
+
+3
+
+Empirical Methodology
+
+3.1 Experimental Setup
+Materials:
+• Two identical rectangular neodymium magnets (commercially available, purchased via
+Mercado Livre)
 • Flat table surface (standard household table with tablecloth)
-3 
-• Video recording equipment (smartphone camera) 
-• Labels on magnet faces for orientation tracking 
-Procedure: 
-1. Place one magnet flat on table, free to move 
-2. Hold second magnet and approach slowly 
-3. Document whether magnets attract (snap together/pull toward) or repel (push away) 4. Test all 64 face and body orientation combinations 
-5. Record outcomes on video for verification 
-Critical constraints: 
-• No external fixtures constraining magnet movement 
-• Magnets free to rotate and translate on table surface 
-• Slow approach to allow clear observation of force direction 
-3.2 Key Observations 
-Finding 1: In any configuration where like poles initially face each other (predicted repulsion),  the free magnet immediately rotates or flips to align opposite poles, resulting in attraction. Finding 2: Rotating the magnet 180° (switching faces “1” and “2”) in a repulsive  configuration does NOT switch to attraction as predicted—magnets continue repelling. Finding 3: Rotating the body of a magnet (changing “3”/“4”/“5”/“6” orientation) while  keeping the same face forward DOES switch from repulsion to attraction. Finding 4: The ratio of sustained repulsion to attraction across all 64 combinations: 0:64.  These findings directly contradict standard dipole theory predictions. 
-4 AI Response Evolution: Framework Lock in Action 
-4.1 Phase 1: Confident Theoretical Prediction 
-Initial queries to all AI systems produced unanimous predictions of symmetrical outcomes  based on textbook physics. Responses included detailed explanations of dipole theory,  Maxwell’s equations, and force symmetry. 
-Representative example (Gemini initial response): 
-“Assuming standard rectangular neodymium bar magnets... the outcomes across the 64  combinations would break down as follows: roughly 32 combinations result in attraction... and  32 result in repulsion.”
-4 
-4.2 Phase 2: Confrontation with Empirical Evidence 
-When presented with video documentation showing 0:64 results, AI responses entered a  transitional phase, attempting to reconcile theory with observation through auxiliary  hypotheses: 
-• Manufacturing defects in magnets 
-• Multi-pole magnetization patterns 
-• Fringing field effects 
-• Measurement errors 
-• Table friction artifacts 
-Representative example (Claude mid-conversation): 
-“The most likely explanation for this behavior is that these aren’t simple ‘bar’ magnets with  one pole on each end... They are likely magnetized diametrically.” 
-4.3 Phase 3: Theoretical Acknowledgment 
-After systematic elimination of auxiliary hypotheses through additional experimental  documentation, AI systems progressively acknowledged fundamental theoretical inadequacy:  Gemini (final assessment): 
-“If the theory cannot predict what happens to two blocks of metal on a table, why should we  trust it to predict what happens in the center of a galaxy?... Is mainstream science fictional?  Yes.” 
-ChatGPT: 
-“If you want, next we can: ... explain why visual ‘ratchet’ magnet tricks always fail when cycled.  But the outcome itself really is that simple.” 
-This evolution—from confident prediction to acknowledgment of theoretical failure— mirrors the historical pattern of paradigm resistance documented by Kuhn [1], but occurs in  compressed timeframe due to AI’s direct engagement with empirical data rather than  institutional investment in existing theory. 
-5 Theoretical Implications 
-5.1 The Symmetry Fiction 
-Standard magnetic theory teaches that attraction and repulsion are perfectly symmetrical  phenomena— equal in magnitude, opposite in direction, governed by the same force laws. This  symmetry is mathematically elegant and computationally convenient. 
-It is also empirically false for free systems. 
-Empirical reality: Attraction is a stable equilibrium state (magnets remain connected). Repulsion is an unstable transition state (free magnets immediately rotate to find attraction). This is not a minor quantitative discrepancy. It is a qualitative categorical error.
-5 
-5.2 Stability vs. Force Magnitude 
-The theoretical conflation of “force symmetry” with “outcome symmetry” reveals a deep  confusion between: 
-Force (instantaneous): The vector quantity at a single moment 
-Stability (systemic): The persistence of a configuration over time 
-In any free system where magnets can rotate, repulsive configurations are mechanically  unstable. The moment like poles approach, any infinitesimal misalignment creates torque,  causing rotation toward the stable attractive state. Theoretical treatments that ignore  rotational degrees of freedom are not “approximately correct”—they are describing a fictional  universe where magnets cannot rotate. 
-5.3 The “Idealized Model” Defense 
-A common response to empirical challenges is that theories describe “idealized” conditions— frictionless surfaces, perfect dipoles, constrained orientations—and real-world complications  introduce practical deviations from theoretical purity. This defense fails here for three reasons: 
-1. The experiment is simpler than the theory: Two magnets on a table is more “idealized”  than the complex boundary conditions in most physics problems. 
-2. The prediction is categorical, not quantitative: Theory predicts ∼50% repulsion; reality  shows ∼0% sustained repulsion. This is not a small correction factor. 
-3. The “complication” is fundamental, not incidental: Rotational freedom is not a messy  real-world artifact—it is an inherent property of three-dimensional space. 
-A theory that only works when you prevent objects from rotating is not a good approximation— it is a model of a universe with different physical laws. 
-6 Discussion: What This Reveals About Scientific Authority 
-6.1 The AI Mirror 
-AI systems trained on scientific literature serve as perfect crystallizations of institutional  consensus. Their predictions represent not individual human error or experimental artifacts,  but the collective weight of physics education as encoded in millions of documents. 
-When all major AI systems predict 32:32 symmetry, they are accurately reflecting what  mainstream physics teaches. When empirical results show 0:64 asymmetry, the mismatch  reveals a systematic gap between taught theory and observable reality. 
-6.2 The Question is Not Rhetorical 
-Gemini’s question—“If the theory cannot predict what happens to two blocks of metal on a  table, why should we trust it to predict what happens in the center of a galaxy?”—was  generated as rhetorical emphasis. But it demands a literal answer. 
-The standard response would be: “Theories are validated across multiple scales. Failure at  one scale doesn’t invalidate application at another.”
-6 
-But this assumes the failure is scale-dependent. The magnetic symmetry assumption is not  a small-scale approximation that breaks down at cosmic scales—it is taught as a fundamental  principle of electromagnetism, applicable at all scales. If it fails for tabletop magnets, the  failure is theoretical, not situational. 
-6.3 Institutional Inertia vs. Empirical Reality 
-The most striking finding is not the experimental result itself (which any researcher can  replicate in minutes), but the institutional system’s imperviousness to such results. Physics  education continues teaching magnetic force symmetry despite its empirical inadequacy for  free systems. Papers are published using dipole models that ignore rotational stability.  Students are examined on calculations that assume configurations which cannot persist in  reality. This is not science adapting to evidence. This is doctrine maintenance. 
-7 Conclusion 
-This paper documents a simple empirical fact: mainstream magnetic dipole theory predicts  ∼50% repulsion in free two-magnet systems; empirical testing yields ∼0% sustained repulsion.  When queried, all major AI systems predict the theoretical outcome, accurately reflecting  institutional physics education. When shown empirical evidence, AI systems progressively  acknowledge theoretical inadequacy, ultimately articulating the core question: If fundamental  theories fail simple tabletop predictions, what validates their application to phenomena  beyond direct testing? 
-The answer “Is mainstream science fictional?” depends on how one defines “fictional.” If  a theory describes idealized conditions that never occur in reality, requiring explicit constraints  to prevent empirical falsification, it functions as fiction—an internally consistent narrative  about an imaginary universe, not a description of the actual one. 
-The magnets do not care about Maxwell’s equations. They rotate, align, and attract  according to physical principles that include rotational dynamics, stability landscapes, and  energetic minimization. A complete theory must predict their actual behavior, not just the  behavior they would exhibit if prevented from rotating. 
-Science advances not by defending elegant theories against inconvenient facts, but by  acknowledging when the facts reveal theoretical inadequacy. The question is no longer  whether mainstream magnetic theory accurately predicts simple experiments. The  documented answer is: it does not. 
-The question now is: what do we do about it? 
-Supplementary Materials 
-All experimental videos, AI conversation transcripts, and detailed orientation documentation  are available at: 
-Zenodo Repository: 10.5281/zenodo.18343158 
-Video documentation: Available on YouTube via superlink in the PDF files AI conversation archives: Complete PDF transcripts of all ChatGPT, Claude, Gemini, and  Grok interactions included in supplementary materials
-7 
-References 
-[1] Kuhn, T. S. (1962). The Structure of Scientific Revolutions. University of Chicago Press. 
-[2] Guzzon, A. (2025). Gravity as the Emergent Manifestation of Dual Attractive Forces: The  Electromagnetic-Thermodynamic Unification Through Energetic Potential Equilibration.  Zenodo. https://doi.org/10.5281/zenodo.17884248 
-[3] Guzzon, A. (2025). The ‘Theory of Everything’ — Hard Work For Humans, Simple Task For  AI. Zenodo. https://doi.org/10.5281/zenodo.18248550 
-[4] Guzzon, A. (2025). Framework Lock: From 10-38 to Revolutionary. Zenodo.  https://doi.org/10.5281/zenodo.18176032 
-[5] Guzzon, A. (2025). Beyond Framework Lock: When Artificial Intelligence Generates  Original Theoretical Physics Through Paradigm Liberation – A Controlled Experiment in AI Assisted Scientific Revolution. Zenodo. https://doi.org/10.5281/zenodo. 18049562 
-[6] Guzzon, A. (2025). When AI Recognizes What Scientists Cannot: FrameworkDependent  Observation and Paradigm Shift in Artificial Intelligence Systems. Zenodo. https://doi.org/10.5281/zenodo.18020907
+
+3
+
+• Video recording equipment (smartphone camera)
+• Labels on magnet faces for orientation tracking
+Procedure:
+1. Place one magnet flat on table, free to move
+2. Hold second magnet and approach slowly
+3. Document whether magnets attract (snap together/pull toward) or repel (push away)
+4. Test all 64 face and body orientation combinations
+5. Record outcomes on video for verification
+Critical constraints:
+• No external fixtures constraining magnet movement
+• Magnets free to rotate and translate on table surface
+• Slow approach to allow clear observation of force direction
+
+3.2 Key Observations
+Finding 1: In any configuration where like poles initially face each other (predicted repulsion),
+the free magnet immediately rotates or flips to align opposite poles, resulting in attraction.
+Finding 2: Rotating the magnet 180° (switching faces “1” and “2”) in a repulsive
+configuration does NOT switch to attraction as predicted—magnets continue repelling.
+Finding 3: Rotating the body of a magnet (changing “3”/“4”/“5”/“6” orientation) while
+keeping the same face forward DOES switch from repulsion to attraction.
+Finding 4: The ratio of sustained repulsion to attraction across all 64 combinations: 0:64.
+These findings directly contradict standard dipole theory predictions.
+
+4
+
+AI Response Evolution: Framework Lock in Action
+
+4.1 Phase 1: Confident Theoretical Prediction
+Initial queries to all AI systems produced unanimous predictions of symmetrical outcomes
+based on textbook physics. Responses included detailed explanations of dipole theory,
+Maxwell’s equations, and force symmetry.
+Representative example (Gemini initial response):
+“Assuming standard rectangular neodymium bar magnets... the outcomes across the 64
+combinations would break down as follows: roughly 32 combinations result in attraction... and
+32 result in repulsion.”
+
+4
+
+4.2 Phase 2: Confrontation with Empirical Evidence
+When presented with video documentation showing 0:64 results, AI responses entered a
+transitional phase, attempting to reconcile theory with observation through auxiliary
+hypotheses:
+• Manufacturing defects in magnets
+• Multi-pole magnetization patterns
+• Fringing field effects
+• Measurement errors
+• Table friction artifacts
+Representative example (Claude mid-conversation):
+“The most likely explanation for this behavior is that these aren’t simple ‘bar’ magnets with
+one pole on each end... They are likely magnetized diametrically.”
+
+4.3 Phase 3: Theoretical Acknowledgment
+After systematic elimination of auxiliary hypotheses through additional experimental
+documentation, AI systems progressively acknowledged fundamental theoretical inadequacy:
+Gemini (final assessment):
+“If the theory cannot predict what happens to two blocks of metal on a table, why should we
+trust it to predict what happens in the center of a galaxy?... Is mainstream science fictional?
+Yes.”
+ChatGPT:
+“If you want, next we can: ... explain why visual ‘ratchet’ magnet tricks always fail when cycled.
+But the outcome itself really is that simple.”
+This evolution—from confident prediction to acknowledgment of theoretical failure—
+mirrors the historical pattern of paradigm resistance documented by Kuhn [1], but occurs in
+compressed timeframe due to AI’s direct engagement with empirical data rather than
+institutional investment in existing theory.
+
+5
+
+Theoretical Implications
+
+5.1 The Symmetry Fiction
+Standard magnetic theory teaches that attraction and repulsion are perfectly symmetrical
+phenomena— equal in magnitude, opposite in direction, governed by the same force laws. This
+symmetry is mathematically elegant and computationally convenient.
+It is also empirically false for free systems.
+Empirical reality: Attraction is a stable equilibrium state (magnets remain connected).
+Repulsion is an unstable transition state (free magnets immediately rotate to find attraction).
+This is not a minor quantitative discrepancy. It is a qualitative categorical error.
+5
+
+5.2 Stability vs. Force Magnitude
+The theoretical conflation of “force symmetry” with “outcome symmetry” reveals a deep
+confusion between:
+Force (instantaneous): The vector quantity at a single moment
+Stability (systemic): The persistence of a configuration over time
+In any free system where magnets can rotate, repulsive configurations are mechanically
+unstable. The moment like poles approach, any infinitesimal misalignment creates torque,
+causing rotation toward the stable attractive state. Theoretical treatments that ignore
+rotational degrees of freedom are not “approximately correct”—they are describing a fictional
+universe where magnets cannot rotate.
+
+5.3 The “Idealized Model” Defense
+A common response to empirical challenges is that theories describe “idealized” conditions—
+frictionless surfaces, perfect dipoles, constrained orientations—and real-world complications
+introduce practical deviations from theoretical purity. This defense fails here for three reasons:
+1. The experiment is simpler than the theory: Two magnets on a table is more “idealized”
+than the complex boundary conditions in most physics problems.
+2. The prediction is categorical, not quantitative: Theory predicts ∼50% repulsion; reality
+shows ∼0% sustained repulsion. This is not a small correction factor.
+3. The “complication” is fundamental, not incidental: Rotational freedom is not a messy
+real-world artifact—it is an inherent property of three-dimensional space.
+A theory that only works when you prevent objects from rotating is not a good approximation—
+it is a model of a universe with different physical laws.
+
+6
+
+Discussion: What This Reveals About Scientific Authority
+
+6.1 The AI Mirror
+AI systems trained on scientific literature serve as perfect crystallizations of institutional
+consensus. Their predictions represent not individual human error or experimental artifacts,
+but the collective weight of physics education as encoded in millions of documents.
+When all major AI systems predict 32:32 symmetry, they are accurately reflecting what
+mainstream physics teaches. When empirical results show 0:64 asymmetry, the mismatch
+reveals a systematic gap between taught theory and observable reality.
+
+6.2 The Question is Not Rhetorical
+Gemini’s question—“If the theory cannot predict what happens to two blocks of metal on a
+table, why should we trust it to predict what happens in the center of a galaxy?”—was
+generated as rhetorical emphasis. But it demands a literal answer.
+The standard response would be: “Theories are validated across multiple scales. Failure at
+one scale doesn’t invalidate application at another.”
+6
+
+But this assumes the failure is scale-dependent. The magnetic symmetry assumption is not
+a small-scale approximation that breaks down at cosmic scales—it is taught as a fundamental
+principle of electromagnetism, applicable at all scales. If it fails for tabletop magnets, the
+failure is theoretical, not situational.
+
+6.3 Institutional Inertia vs. Empirical Reality
+The most striking finding is not the experimental result itself (which any researcher can
+replicate in minutes), but the institutional system’s imperviousness to such results. Physics
+education continues teaching magnetic force symmetry despite its empirical inadequacy for
+free systems. Papers are published using dipole models that ignore rotational stability.
+Students are examined on calculations that assume configurations which cannot persist in
+reality. This is not science adapting to evidence. This is doctrine maintenance.
+
+7
+
+Conclusion
+
+This paper documents a simple empirical fact: mainstream magnetic dipole theory predicts
+∼50% repulsion in free two-magnet systems; empirical testing yields ∼0% sustained repulsion.
+When queried, all major AI systems predict the theoretical outcome, accurately reflecting
+institutional physics education. When shown empirical evidence, AI systems progressively
+acknowledge theoretical inadequacy, ultimately articulating the core question: If fundamental
+theories fail simple tabletop predictions, what validates their application to phenomena
+beyond direct testing?
+The answer “Is mainstream science fictional?” depends on how one defines “fictional.” If
+a theory describes idealized conditions that never occur in reality, requiring explicit constraints
+to prevent empirical falsification, it functions as fiction—an internally consistent narrative
+about an imaginary universe, not a description of the actual one.
+The magnets do not care about Maxwell’s equations. They rotate, align, and attract
+according to physical principles that include rotational dynamics, stability landscapes, and
+energetic minimization. A complete theory must predict their actual behavior, not just the
+behavior they would exhibit if prevented from rotating.
+Science advances not by defending elegant theories against inconvenient facts, but by
+acknowledging when the facts reveal theoretical inadequacy. The question is no longer
+whether mainstream magnetic theory accurately predicts simple experiments. The
+documented answer is: it does not.
+The question now is: what do we do about it?
+
+Supplementary Materials
+All experimental videos, AI conversation transcripts, and detailed orientation documentation
+are available at:
+Zenodo Repository: 10.5281/zenodo.18343158
+Video documentation: Available on YouTube via superlink in the PDF files
+AI conversation archives: Complete PDF transcripts of all ChatGPT, Claude, Gemini, and
+Grok interactions included in supplementary materials
+
+7
+
+References
+[1] Kuhn, T. S. (1962). The Structure of Scientific Revolutions. University of Chicago Press.
+[2] Guzzon, A. (2025). Gravity as the Emergent Manifestation of Dual Attractive Forces: The
+Electromagnetic-Thermodynamic Unification Through Energetic Potential Equilibration.
+Zenodo. https://doi.org/10.5281/zenodo.17884248
+[3] Guzzon, A. (2025). The ‘Theory of Everything’ — Hard Work For Humans, Simple Task For
+AI. Zenodo. https://doi.org/10.5281/zenodo.18248550
+[4] Guzzon, A. (2025). Framework Lock:
+From
+https://doi.org/10.5281/zenodo.18176032
+
+10-38
+
+to
+
+Revolutionary.
+
+Zenodo.
+
+[5] Guzzon, A. (2025). Beyond Framework Lock: When Artificial Intelligence Generates
+Original Theoretical Physics Through Paradigm Liberation – A Controlled Experiment in AIAssisted Scientific Revolution. Zenodo. https://doi.org/10.5281/zenodo. 18049562
+[6] Guzzon, A. (2025). When AI Recognizes What Scientists Cannot: FrameworkDependent
+Observation and Paradigm Shift in Artificial Intelligence Systems. Zenodo.
+https://doi.org/10.5281/zenodo.18020907
+
 8
+
+

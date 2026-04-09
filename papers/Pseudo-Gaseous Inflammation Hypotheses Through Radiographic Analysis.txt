@@ -1,0 +1,136 @@
+Title:
+Pseudo-Gaseous Inflammation Hypotheses Through Radiographic Analysis
+Author:
+André Silva Guzzon, MD
+Abstract
+I report a self-case radiographic observation of a subtle diminution in radiolucency of the
+tender Achilles tendon within a two-hour interval following administration of antiinflammatory medications (IM dexamethasone 10 mg and oral ketoprofen 150 mg).
+Comparative analysis of both ankles before medication, as well as the left tendon preand post-treatment radiographs, shows a slight improvement in the Achilles region. This
+phenomenon suggests a potentially underestimated role of bubbly or pseudo-gaseous
+components in acute inflammatory processes.
+Introduction / Background
+Radiographic density is typically considered stable over short intervals, especially in the
+absence of trauma or structural interventions. However, subtle shifts in radiolucency
+may reveal dynamic inflammatory processes not widely acknowledged in radiologic or
+physiological literature. This report presents a rare opportunity to visualise such
+changes within a brief clinical window.
+Recurrent radiographic images often show radiolucent areas at sites of acute
+inflammatory oedema, as illustrated in Figure 1 — an x-ray of a patient with suspected
+Achilles tendon rupture on physical examination — and in the classic “raised fat pad”
+sign, which presents a radiographic density much closer to atmospheric air than to fat,
+as noted in Figure 5.
+Proposed Scientific Hypothesis
+During inflammation, one or more blood components extravasated into the interstitium
+may chemically interact with extracellular structures, forming microscopic bubbles —
+analogous to an acid–base reaction. These microstructures could explain the observed
+radiolucency without requiring necrosis, infection, or external air.
+Case Description
+While working in an emergency department, I experienced mild discomfort in my left
+ankle and underwent radiographic examination (Images 2 and 3). Immediately after the
+exam, I received an IM dose of dexamethasone (10 mg) and an oral dose of ketoprofen
+(150 mg).
+A follow-up radiograph of the left ankle was performed two hours later (Image 4).
+
+Observational Findings
+Careful comparison between the two radiographs reveals a subtle diminution in the
+radiolucent area surrounding the Achilles region. This suggests that inflammation
+produces low-density components that respond quickly to anti-inflammatory treatment
+— even within a short timeframe and via standard administration routes.
+Discussion
+The presence of radiolucent areas at sites of acute inflammatory oedema — and the
+rapid onset of visible changes in this case — raises compelling questions:
+Could acute inflammation generate gaseous components when blood meets the
+interstitial environment, like an acid–base reaction?
+Although limited to a single case (n = 1), this observation encourages further exploration
+into the dynamic interactions of acute inflammation. Additional studies are
+recommended to investigate the physiologic and pharmacologic influences on radiologic
+outcomes.
+Images and Captions
+
+Figure 1: Initial patient radiograph showing radiolucency near the distal fibula in a case of suspected
+Achilles rupture (not self-case).
+
+Figure 2: Right ankle (asymptomatic): No significant alterations. Serves as baseline reference.
+
+Figure 3: Left ankle (pre-treatment): Mild pain (2/10) and discrete retrocalcaneal radiolucency compatible
+with inflammatory oedema.
+
+Figure 4: Same ankle (2 hours post dexamethasone IM + ketoprofen PO, with full pain resolution): Subtle
+diminution in radiolucency, supporting its reactive and volatile inflammatory origin.
+
+Figure 5: Classic “raised fat pad” sign in elbow trauma showing radiolucent density similar to air, not fat.
+
+Logical Analysis: Acid–Base Conflict and Gas Formation in Extravascular Tissue
+Injury
+Biochemical Foundations of Tissue Damage
+Tissue injury, whether traumatic or inflammatory, involves the breakdown of cellular and
+vascular structures. Two well-documented facts are relevant:
+• The intravascular compartment maintains a slightly alkaline pH, typically around
+7.35–7.45;
+• The intracellular compartment, once cells undergo lysis, exposes an acidic
+environment, with pH values often below 7.0;
+In situations of trauma, inflammation, or cell death, these two chemically distinct
+environments come into direct contact — but outside the control of the usual
+homeostatic systems (e.g., lungs, kidneys, blood buffers).
+This sets up a classic acid–base neutralization reaction, well described by general
+chemistry.
+Neutralization: Expected Byproducts and Local Consequences.
+When an acid reacts with a base, the products are:
+Salt + Water + Gas
+(typically, CO₂, especially in bicarbonate-buffered systems like blood and interstitial
+fluid)
+Under physiological conditions, this reaction is tightly regulated within blood vessels.
+However, in extravascular tissues, this buffering is absent or insufficient.
+Therefore, in areas of tissue damage:
+• CO₂ generation should occur;
+• Gas should accumulate locally, especially if perfusion is impaired;
+• This gas is not rapidly cleared by the lungs or neutralized by renal mechanisms.
+Yet, in the classical model of edema, this phenomenon is largely ignored.
+Contradiction with the Classical Edema Model
+The prevailing theory states that inflammation leads to fluid leakage from blood vessels
+due to increased permeability. This leakage is assumed to be purely liquid, forming
+interstitial edema.
+However:
+
+• No mention is made of local gas generation, despite the acid–base interactions;
+• No mechanistic explanation is offered for how the CO₂ formed in these
+reactions is instantly removed or neutralized;
+• Radiological findings in certain cases — including subtle radiolucent patterns —
+suggest more than just fluid accumulation.
+This presents a logical inconsistency in the accepted model.
+Clinical Observations Align With Gas, Not Just Fluid
+Radiographic evidence in trauma and inflammation sometimes reveals patterns that are:
+• Inconsistent with fluid density alone;
+• Variable with temperature or pressure, compatible with gas behavior;
+• Disappear or shift with maneuvers that suggest compressible or thermolabile
+content.
+These findings are often dismissed as artifact or incidental — yet they align closely with
+what would be expected from localized CO₂ formation.
+Revisiting Inflammation Through the Lens of Acid–Base Logic
+The inflammation cascade includes:
+1. Cell lysis → release of acidic contents;
+2. Vascular rupture → release of alkaline plasma;
+3. Unbuffered environment → spontaneous acid–base reaction;
+4. Byproduct → CO₂ gas, in addition to water and salt.
+This process:
+• Alters local pressure dynamics;
+• Changes electromagnetic properties of the tissue;
+• May impair diffusion and perfusion due to bubble-like structures, even if
+microscopic.
+Conclusion: Gas Formation Is a Neglected but Logical Outcome
+From a purely biochemical standpoint:
+Wherever acid meets base, and buffering fails, gas is expected. If gas forms, it should
+accumulate — especially in damaged, poorly perfused tissue.
+Therefore, while edema as fluid accumulation is valid, it may be incomplete. A full
+picture of inflammatory swelling must consider:
+• Localized acid–base reactions;
+
+• CO₂ generation and retention;
+• Potential microbubble formation These factors may explain many subtleties of
+clinical imaging and patient response that the fluid-only model cannot.
+
+References:
+Empirical observations — there’s a lot more at
+https://www.tiktok.com/@5incere5cience?_t=ZM-90vZhFCG7Q4&_r=1
+
+

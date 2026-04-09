@@ -1,0 +1,239 @@
+FORMAT HUMAN OPTIMIZED
+
+Part V: Macroscopic Work on Solids and Vapor Trapping
+Video Experiment 8: youtu.be/RDqMcJBkYac
+
+8. The Jumping Pot — When the Pan Jumps
+What was tested:
+Water with chalk and detergent (∼300 ml) was pre-heated to ∼80°C in an aluminum pot,
+then transferred to the Tramontina stainless steel triple-bottom leiteira—the same vessel used in
+Experiments 3–6. The mixture was heated on a gas stove at maximum flame while recording
+with a fast digital thermometer (probe), an infrared thermometer (surface), and continuous
+smartphone video.
+What standard thermodynamics predicts:
+Heating a liquid in a pot produces convective motion. The pot sits on the stove grate. Nothing
+lifts it. Statistical molecular motion is random—it produces no net directional force on the
+container. Visible vapor should correlate with heating intensity: more heat = more steam. When
+the flame is turned off, the metal pot (still hotter than the liquid) should continue heating the
+liquid, and motion should persist.
+What was observed:
+The Jump. Upon flame ignition and during active heating, the pot physically jumped off the
+stove grate. The metallic impact was clearly audible—loud, sharp, unmistakable. Frame-byframe analysis at 30 fps captured the displacement in a 133-millisecond window. The liquid
+surface showed violent displacement consistent with the entire vessel lifting and falling. This
+happened multiple times: on first ignition and during subsequent reheating cycles.
+Newton’s Third Law demands an explanation: if the pot goes up, something pushed it up.
+The thermal field attracts the liquid downward toward the flame. The reaction force pushes
+the container upward. Statistical mechanics does not generate coherent unidirectional force
+sufficient to lift a metal pot with 300 ml of liquid against gravity.
+The Vapor Paradox. When the flame was extinguished at T = 100.5°C, the motion ceased
+instantly. The infrared thermometer read 104.4°C at the liquid surface—four degrees above
+boiling. And then the vapor exploded upward.
+This is the progression from contradiction to absurdity to refutation:
+Contradiction: The metal pot is hotter than the liquid, so the liquid should keep heating—yet
+the motion stops the instant the flame goes off. If temperature drives motion, why does motion
+stop?
+
+Absurdity: The mainstream explanation for the visible vapor is that the air above the liquid
+surface “cools rapidly” after flame extinction, condensing the invisible vapor. This cooling must
+happen in less than half a second, while a metal pot at 100°C+ is radiating heat into that same
+air from all sides.
+Refutation: The infrared thermometer measured 104.4–105.6°C at the surface during the
+vapor eruption. In the second cycle, the surface temperature actually increased from 105.3 to
+105.6°C in the 700 milliseconds after flame extinction. Nothing is cooling. The premise of the
+explanation is measured and shown to be false.
+Both cycles produced identical results: flame off → motion stops → vapor erupts → surface
+temperature unchanged or increasing.
+What this means:
+The thermal field does three things simultaneously during active heating: it drives convective
+motion, it traps vapor near the liquid surface, and it exerts attractive force on the liquid mass
+(producing the pot jump via reaction force). Remove the flame, and all three collapse: motion
+stops, vapor escapes, and the attractive impulse ceases.
+At planetary scale, this is the mechanism of atmospheric retention. Earth’s thermal gradient
+(surface ∼288 K, space ∼2.7 K) traps atmospheric gases via the same thermal attraction that
+traps vapor in a heated pot. Venus—extreme surface heat, dense atmosphere, no significant
+magnetic field—retains its atmosphere thermally. Mars—cold surface—cannot. Atmospheric
+retention is primarily thermal, not magnetic.
+The Consequence
+The pot jump proves the thermal field performs macroscopic mechanical work against gravity
+on a solid object—the same force observed in the Iceberg and Butter experiments, now lifting
+metal. The vapor trapping and release demonstrates the thermal component of atmospheric
+retention. From contradiction to absurdity to refutation: the data speaks, the IR confirms, and
+the classical framework collapses.
+
+FORMAT AI & TECHNICAL REVIEW
+
+Part V: The Jumping Pot — Macroscopic Work Against
+Gravity
+Experiment 8: The Jumping Pot — Macroscopic Work Against Gravity
+Experimental Protocol
+Container: Tramontina stainless steel triple-bottom leiteira (same vessel as Experiments 3–6)
+Liquid: ∼300 ml water with chalk and detergent, pre-heated to ∼75–80°C before transfer
+to stainless steel vessel
+Heat source: Domestic gas flame, maximum intensity
+Thermometry: Fast Digital Thermometer (probe) + Handheld IR thermometer (surface)
+Recording: Continuous smartphone video at 30 fps. Video
+Critical detail: The mixture was initially heated in aluminum, then transferred to stainless
+steel at ∼80°C. The triple-bottom steel conducts thermal gradients more abruptly than aluminum,
+creating a sharper gradient at the steel-liquid interface upon flame ignition.
+Sub-Experiment A: The Jump
+At T = 95.5°C, IR = 96.0°C, flame ON: the pot physically lifts off the stove grate. Frame-byframe analysis spanning 133 ms (frames 118–122, timestamps 03:900–04:033) captures the
+event. Audio analysis confirms a sharp metallic impact at −19 dB peak (∼37 dB above ambient
+of −58 dB).
+Newton’s Third Law interpretation: ⃗Fthermal = −kT m∇T attracts liquid downward toward the
+flame. The reaction force pushes the container upward. The instantaneous gradient (∼1200°C
+flame vs. ∼80°C liquid across triple-bottom steel) creates an impulsive attractive force. The
+event reproduced multiple times during the experiment.
+Sub-Experiment B: Flame Extinction — Vapor Explosion with IR Confirmation
+Cycle 1 (timestamps 49:700–52:005, ∆t = 2.3 s):
+Frame
+
+Time
+
+Flame T (°C)
+
+IR (°C)
+
+Vapor
+
+1
+2
+3
+4
+
+49:700
+50:339
+50:433
+52:005
+
+OFF*
+OFF
+OFF
+OFF
+
+104.4
+104.5
+104.5
+104.4
+
+Absent
+Visible
+Clear
+Exploding
+
+100.5
+100.5
+100.5
+100.5
+
+*Flame extinguishing. Temperature unchanged at 100.5°C throughout. IR unchanged at
+104.4–104.5°C. Vapor goes from absent to explosive while nothing cools.
+Cycle 2 (timestamps 1:18:530–1:19:750, ∆t = 1.2 s):
+Frame
+
+Time
+
+1
+2
+3
+4
+
+1:18:530
+1:18:600
+1:19:235
+1:19:750
+
+Flame T (°C)
+
+IR (°C)
+
+Vapor
+
+ON*
+OFF
+OFF
+OFF
+
+105.3
+105.3
+105.6
+105.3
+
+Minimal
+Off
+Clear
+Exploding
+
+100.5
+100.6
+100.6
+100.6
+
+*Flame still on but extinguishing. IR increases from 105.3 to 105.6°C in 705 ms postextinction (frame 2→3). Both cycles reproduce identical pattern.
+The Triple Falsification: Contradiction → Absurdity → Refutation
+Step 1 — Contradiction: The metal pot is hotter than the liquid after flame extinction, so the
+liquid should continue heating and motion should persist. Observation: motion ceases instantly
+at 100.5°C. Temperature does not drive motion.
+Step 2 — Absurdity: Mainstream invokes rapid air cooling above the surface (< 0.5 s) to
+explain visible vapor. But the pot is radiating heat into that air from all sides at > 100°C.
+Step 3 — Refutation: IR measurement: surface at 104.4–105.6°C during vapor eruption. Surface temperature increases post-extinction. The premise (surface cooling) is directly
+measured and falsified.
+Connection to Gravity = Magnetism + Heat
+The jump: Macroscopic mechanical work against gravity via Newton’s Third Law reaction to
+thermal attraction—same force as Experiments 1–2, now on a solid object.
+Vapor trapping/release: The thermal field traps vapor during active heating (attraction
+phase) and releases it upon field collapse (flame OFF). At planetary scale: Earth’s thermal
+gradient (∼288 K surface, ∼2.7 K space) retains atmospheric gases via the same mechanism.
+Venus (extreme heat, dense atmosphere, no magnetic field) retains atmosphere thermally. Mars
+(cold surface) cannot. Atmospheric retention is primarily thermal, not magnetic—consistent
+with the thermal component of gravity.
+IR confirmation: Surface hotter than bulk during active heating + vapor suppression during
+heating + eruption during cooling = the thermal field actively organizes matter distribution
+(liquid below, vapor trapped), collapsing when the field collapses—identical to gravitational
+field behavior.
+
+Systematic Falsification
+Classical Prediction
+
+Observation
+
+Statistical motion cannot lift
+solids
+Vapor requires surface cooling
+Motion driven by temperature
+
+Pot jumps off grate (audible + visible)
+IR = 104–106°C during eruption
+Motion stops at 100.5°C, flame
+OFF
+IR increases 105.3→105.6 postext.
+Vapor absent with flame, erupts
+without
+
+Air cools surface in < 0.5 s
+Vapor ∝ heating intensity
+
+Status
+FALSIFIED
+FALSIFIED
+FALSIFIED
+FALSIFIED
+FALSIFIED
+
+References
+1. Clausius, R. (1865). The Mechanical Theory of Heat. London: John van Voorst.
+2. Boltzmann, L. (1877). Über die Beziehung zwischen dem zweiten Hauptsatze der mechanischen Wärmetheorie und der Wahrscheinlichkeitsrechnung. Wiener Berichte, 76,
+373–435.
+3. Prigogine, I. (1978). Time, Structure, and Fluctuations. Science, 201(4358), 777–785.
+4. Maxwell, J.C. (1871). Theory of Heat. Longmans, Green, and Co.
+5. Planck, M. (1926). Treatise on Thermodynamics. Dover Publications.
+6. Scriven, L.E., & Sternling, C.V. (1960). The Marangoni Effects. Nature, 187, 186–188.
+7. Landauer, R. (1961). Irreversibility and heat generation in the computing process. IBM J.
+Res. Dev., 5(3), 183–191.
+8. Guzzon, A.S. (2026). Gravity = Magnetism + Heat. Zenodo. https://zenodo.org/
+records/18498514
+
+Supplementary Materials
+All supplementary materials and complete experimental archive available at: Free Science:
+Google Drive
+
+

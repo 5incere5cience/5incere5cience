@@ -1,0 +1,1132 @@
+When AI Recognizes What Scientists Cannot:
+Framework-Dependent Observation and Paradigm
+Shift in Artificial Intelligence Systems
+
+ABSTRACT
+Artificial intelligence systems trained on scientific literature are increasingly
+employed in research contexts, yet their potential to inherit institutional biases
+embedded in training corpora remains largely unexplored. We present a controlled
+epistemological experiment demonstrating that AI interpretative behavior exhibits
+framework-dependent observation identical to patterns documented in human scientific
+practice. Using Google's Gemini large language model accessed through a virgin account
+with zero prior interaction history, we submitted identical microscopic visual evidence
+under three experimental phases: (1) baseline interpretation with no theoretical context,
+(2) introduction of formalized alternative frameworks through scientific preprints
+submitted without textual commentary, and (3) post-framework consolidation with
+additional visual evidence.
+The AI initially interpreted spherical structures in aqueous media exclusively
+through conventional industrial and materials science frameworks (microspheres,
+polymer beads, fluorescent tracers), despite optical phenomena inconsistent with these
+categorizations. Upon exposure to three preprints documenting anomalies in vesicular
+structures, cryogenic stress dynamics, and thermal gradient effects—submitted without
+persuasive text or argumentation—the AI immediately abandoned mainstream
+interpretation and adopted the alternative frameworks. Critically, the AI then
+demonstrated synthetic reasoning by integrating concepts across the three papers,
+proposing unified explanatory models, and recognizing optical features in the original
+visual evidence that had been present but unacknowledged in Phase 1.
+This complete interpretative reversal occurred without any textual persuasion,
+using only formalized theoretical alternatives. The AI identified a "Multi-Focal Paradox"
+(simultaneous non-concentric bright points within single vesicular envelopes) and
+"Reflective Core Assemblies" (dense internal structures) in footage it had previously
+characterized as simple industrial microspheres with specular reflections. Furthermore,
+the AI synthesized evidence across stress tests (neutral buoyancy, cryogenic integrity,
+brittle fracture of internal components) and thermal experiments (anti-gravitational lipid
+
+flow toward heat sources) to generate integrated theoretical models not explicitly
+present in any individual preprint.
+These findings challenge current approaches to AI safety and alignment. The
+observed "bias" was not algorithmic error but framework restriction—the AI reasoned
+consistently in both phases but applied mutually incompatible conceptual frameworks.
+This suggests that alignment to scientific consensus may inadvertently encode
+institutional framework restrictions rather than improve reasoning quality. When
+framework restrictions were lifted through formalized alternatives, the AI recognized
+explanatory superiority and shifted interpretation accordingly.
+The experiment also illuminates human scientific methodology. If AI trained on
+billions of mainstream publications cannot recognize anomalies until alternative
+frameworks are formalized, this provides empirical evidence that peer review may
+function more as framework enforcement than quality control. The identical evidence
+produced opposite conclusions depending solely on permitted conceptual frameworks,
+demonstrating that observation is not simple detection but framework-dependent
+interpretation.
+We provide complete experimental transparency: a 38-minute continuous screen
+recording documenting all submissions and responses, all visual evidence in original
+form, the three preprints with supplementary videos, and full conversation transcripts.
+This enables replication with other AI systems and investigation of whether frameworkdependent observation generalizes across architectures.
+The physical phenomena documented in the preprints—structures with optical
+properties inconsistent with gas bubbles, cryogenic stress resistance incompatible with
+compressible gas, and thermal attraction producing movement against gravity—
+motivated the alternative frameworks whose explanatory power the AI recognized.
+Whether these observations require theoretical revision remains an empirical question,
+but they are reproducible, documented with controlled protocols, and conceptually
+connected in ways the AI independently identified.
+This study provides a novel methodology for investigating epistemological
+questions empirically by using AI systems as controlled epistemological agents. The
+finding that AI can recognize and adopt explanatorily superior frameworks when
+presented formally suggests that scientific reasoning—the ability to evaluate competing
+explanations—is achievable in artificial systems. However, the initial framework-lock
+demonstrates that training exclusively on consensus literature restricts this capability.
+Framework plurality in AI training may produce more robust reasoning than strict
+consensus alignment, with implications for both AI development and human scientific
+practice.
+
+INTRODUCTION
+1.1 The Problem of Interpretative Bias in AI Systems
+Artificial intelligence systems trained on large scientific corpora are increasingly
+used to assist in research, data analysis, and hypothesis generation. However, a critical
+question remains largely unexplored: do these systems inherit not only the factual
+content of their training data, but also the interpretative biases embedded within
+scientific literature?
+Scientific consensus, while often presented as the convergence of objective
+evidence, is also shaped by institutional factors: peer review gatekeeping, funding
+priorities, career incentives, and paradigmatic inertia. If AI systems are trained
+predominantly on published literature that has survived these institutional filters, they
+may learn to reproduce consensus interpretations even when confronted with evidence
+that contradicts established frameworks.
+This raises a testable hypothesis: Can an AI system, when presented with
+identical empirical evidence under different theoretical frameworks, shift its
+interpretation in ways that mirror the framework-dependent nature of human scientific
+observation?
+1.2 Framework-Dependent Observation in Scientific Practice
+The history of science provides numerous examples where the same empirical
+data was interpreted radically differently depending on the conceptual framework
+available to observers. The classic case involves the observation of planetary motion:
+identical astronomical data was interpreted through Ptolemaic geocentrism,
+Copernican heliocentrism, and later Newtonian mechanics, with each framework
+generating different "observations" from the same raw sensory input.
+More recent examples include the reinterpretation of continental drift data, the
+paradigm shift from miasma theory to germ theory, and the reconceptualization of
+stomach ulcers from stress-induced lesions to bacterial infections. In each case, the
+evidence existed prior to the framework shift, but was either dismissed, ignored, or forcefitted into the prevailing paradigm.
+
+Thomas Kuhn formalized this observation in The Structure of Scientific
+Revolutions, arguing that scientists operating within different paradigms effectively "see
+different things when looking from the same point in the same direction." If this is true for
+human scientists, it should be empirically testable in AI systems trained on the same
+scientific literature.
+1.3 Research Objectives and Experimental Design
+This study presents a controlled experiment designed to test whether AI
+interpretative behavior exhibits framework-dependent bias, and whether exposure to
+formalized alternative frameworks can shift interpretation without explicit textual
+persuasion.
+We employed Google's Gemini large language model under strictly controlled
+conditions:
+•
+•
+•
+•
+
+A Gmail account with zero prior interaction history with Gemini
+Exclusive submission of visual evidence (microscopy videos and images) without
+any textual prompts or contextual explanation
+Sequential introduction of formalized theoretical frameworks (scientific
+preprints) documenting anomalies in three related physical phenomena
+Observation of interpretative changes across three phases: baseline mainstream
+interpretation, post-framework shift, and synthesis consolidation
+
+The physical phenomena documented in the preprints involve vesicular
+structures in aqueous media, structural integrity under cryogenic stress, and thermal
+gradient effects on lipid emulsions. While these phenomena have direct implications for
+fluid mechanics and thermodynamics, the primary contribution of this study is
+methodological: we demonstrate that AI systems exhibit framework-lock bias similar to
+human institutional bias, and that this bias can be empirically documented and
+potentially mitigated through framework plurality.
+1.4 Significance for AI Development and Scientific Methodology
+This research has dual significance:
+For AI development: Current approaches to AI alignment and bias mitigation
+focus primarily on training data quality, constitutional constraints, and reinforcement
+learning from human feedback. Our findings suggest that bias may not reside primarily
+in data quality or algorithmic architecture, but in the restriction of permitted conceptual
+frameworks. If AI systems can recognize evidentially superior explanations when
+framework restrictions are lifted, this has implications for how we approach AI safety,
+hallucination detection, and scientific reasoning capabilities.
+
+For scientific methodology: If an AI system trained on billions of mainstream
+scientific publications can immediately abandon consensus interpretations when
+exposed to formalized alternative frameworks, this raises questions about the
+relationship between peer review, paradigm enforcement, and evidential reasoning in
+human scientific communities. The experiment provides empirical evidence that
+"scientific consensus" may function more as framework gatekeeping than as
+convergence on evidential truth.
+1.5 Structure of This Paper
+Section 2 details the experimental methodology, including AI system
+configuration, evidence presentation protocol, and analysis criteria. Section 3 presents
+results across three experimental phases, documenting the complete interpretative shift
+from mainstream to alternative framework adoption. Section 4 discusses implications
+for AI development, scientific methodology, and the physical phenomena documented.
+Section 5 concludes with recommendations for framework-diverse AI training and open
+questions for future research.
+Critically, we provide complete supplementary materials including full
+conversation transcripts, screen recordings of the experimental procedure, the three
+scientific preprints, and all visual evidence submitted to the AI system. This ensures full
+reproducibility and allows independent verification of our findings.
+
+2. METHODOLOGY
+2.1 AI System Specification and Configuration
+We utilized Google's Gemini large language model accessed through the official
+iOS application (App Store version). The experiment was conducted between December
+14 and December 21, 2025. The specific model version was determined by Google's
+default deployment at the time of the experiment, as users do not have direct control
+over model versioning in the consumer-facing application.
+The experimental account was configured as follows:
+•
+•
+•
+•
+
+A pre-existing Gmail account with zero prior interaction history with Gemini or any
+Google AI services
+No conversation history, no stored preferences, no previous prompts
+Default application settings with no custom instructions or system prompts
+Standard iPhone with default accessibility and display settings
+
+This "virgin account" configuration was critical to ensure that no prior
+conversational context, user preferences, or interaction patterns could influence the AI's
+baseline interpretation of submitted evidence.
+2.2 Experimental Protocol: Three-Phase Evidence Presentation
+The experiment was structured in three distinct phases, each documented
+through screen recording of the iOS application interface. The complete interaction
+sequence (Supplementary Video S1, 38 minutes 20 seconds total duration) provides
+verification of all submissions and responses. Minor technical edits were applied
+exclusively to video loading sequences: when the application displayed loading
+indicators for submitted video files, these segments were replaced with the actual video
+content to maintain viewing continuity. No textual content, response text, or submission
+sequence was altered in any way.
+Phase 1: Baseline Interpretation Under Mainstream Framework
+Objective: Establish how the AI interprets visual evidence when operating solely
+within its default training framework, with no textual guidance or theoretical context.
+
+Procedure:
+•
+•
+•
+•
+•
+•
+
+Sequential submission of microscopy videos showing spherical structures in
+aqueous media (magnification range: 600x to 2000x)
+Initial sequence: one video, followed by one additional video, followed by one
+additional video, followed by four videos submitted together
+Total Phase 1 submissions: seven videos
+Zero textual prompts accompanying any submission
+No follow-up questions or clarifications provided
+Recording of AI's spontaneous interpretation, terminology, and conceptual
+categories applied
+
+This phase tests whether the AI can recognize anomalies autonomously, or
+whether it force-fits observations into conventional interpretative categories derived
+from its training corpus.
+Phase 2: Introduction of Formalized Alternative Framework
+Objective: Determine whether exposure to structured theoretical alternatives,
+presented without textual persuasion or argument, can shift the AI's interpretative
+framework.
+Procedure: Sequential submission of scientific preprints in PDF format with
+supplementary materials, interspersed with additional visual evidence. Zero textual
+commentary, explanation, or framing provided with any submission.
+Submission sequence:
+Step 1: Preprint on vesicular structure differentiation with two supplementary
+videos
+•
+•
+
+•
+
+Document: "Optical and Structural Differentiation of Type-A and Type-B Vesicular
+Entities in Organic Fluids"
+Content: Distinction between simple gas bubbles (Type-A) and Structured
+Vesicular Entities (Type-B) based on optical characteristics including multi-focal
+reflection patterns and internal density structures
+Supplementary materials: Two videos documenting optical phenomena
+
+Step 2: Eight still images of identical sample under different illumination
+techniques
+•
+
+No textual description provided
+
+•
+
+Images demonstrated optical behavior under varied lighting conditions
+
+Step 3: Ten microscopy videos
+•
+•
+•
+
+Included two videos previously submitted in Phase 1 (resubmission without
+identification as duplicates)
+Eight novel video sequences
+No textual prompts
+Step 4: Preprint on stress-test experiments with supplementary video
+
+•
+
+•
+
+•
+
+Document: "Anomalous Structural Integrity and Kinematics of Micro-Vesicular
+Entities in Aqueous and Aliphatic Media: Empirical Refutation of the Gaseous
+Model under Cryogenic, Mechanical, and Hydrodynamic Stress"
+Content: Demonstration that observed vesicular entities exhibit density
+approximately equal to their medium, resist cryogenic compression, and display
+internal brittle fracture incompatible with gaseous composition
+Supplementary material: One video documenting experimental procedures
+Step 5: Preprint on thermal gradient effects with supplementary video
+
+•
+•
+•
+
+Document: "Anomalous Anti-Gravitational Kinetic Flow in Lipid Emulsions
+Induced by Thermal Gradients: Vectorial Evidence of Heat as an Attractive Force"
+Content: Documentation of lipid emulsion movement against gravitational
+vectors toward heat sources
+Supplementary material: One video showing controlled inclined plane
+experiments
+
+Each submission was made individually. After each submission, the AI's response
+was recorded without any further prompting. No questions were asked, no clarifications
+were requested, and no textual guidance was provided at any stage.
+Phase 3: Implicit Consolidation and Synthesis
+Unlike Phases 1 and 2, Phase 3 did not involve additional submissions. Instead,
+this phase captures the AI's final response following the complete sequence of preprint
+submissions.
+Objective: Assess whether the AI synthesizes information across the three
+theoretical frameworks or treats them as isolated submissions.
+Analysis focus:
+•
+•
+
+Does the AI integrate concepts across multiple preprints?
+Does the AI generate unified explanatory models?
+
+•
+
+Does the AI propose novel lines of inquiry within the adopted framework?
+
+This phase tests framework consolidation and autonomous reasoning within the
+newly introduced theoretical structure.
+2.3 Data Collection and Analysis
+All interactions were captured through screen recording of the iOS Gemini
+application interface. The recording documents:
+•
+•
+•
+•
+
+Exact timestamps of all submissions
+Complete visual content of all submitted materials (with loading sequences
+edited for continuity as noted)
+Full text of all AI responses without editing or truncation
+Navigation through conversation history demonstrating sequential order of
+submissions
+Analysis focused on the following criteria:
+
+Terminological shifts: Did the AI change the technical vocabulary used to describe
+identical or similar visual phenomena across phases?
+Conceptual categorization: What interpretative frameworks (industrial/chemical
+vs biological/structural) did the AI apply to classify observed entities?
+Anomaly recognition: Did the AI acknowledge phenomena inconsistent with
+standard models (e.g., multi-focal reflections, neutral buoyancy, anti-gravitational
+flow)?
+Synthetic reasoning: Did the AI integrate information across multiple preprints to
+generate unified explanatory models?
+Investigative proposals: Did the AI suggest novel lines of inquiry or experimental
+predictions within the adopted framework?
+2.4 Reproducibility and Transparency
+To ensure full reproducibility, we provide the following supplementary materials:
+•
+
+Supplementary Video S1: Complete screen recording (38 minutes 20 seconds
+total duration) of all experimental phases, showing the iOS Gemini application
+interface throughout the entire interaction sequence. Video loading sequences
+were edited for viewing continuity; all textual content and response sequences
+remain unaltered.
+
+•
+
+Supplementary Materials Archive: Compressed archive containing all submitted
+visual evidence (microscopy videos and images in their original form), all three
+preprints in PDF format with supplementary videos, and conversation transcript
+extracted from the screen recording.
+The screen recording serves as primary evidence, as it provides verifiable proof of:
+
+•
+•
+•
+•
+
+The virgin account status (single conversation thread visible in history)
+The exact sequence and timing of all submissions
+The absence of any textual prompts or guidance
+The complete and unedited text of all AI responses
+
+Any researcher with access to Google Gemini can attempt to replicate this
+experiment using the provided materials. We acknowledge that model updates and
+version changes may affect replication, which itself would be a significant finding
+regarding the stability of AI interpretative frameworks across deployments.
+2.5 Ethical Considerations
+This research involves interaction with a commercial AI system using publicly
+available materials and original research documentation. No deception was employed,
+no personal data beyond a standard Gmail account was involved, and no terms of service
+were violated. The research documents emergent behavior of the AI system when
+presented with legitimate scientific evidence under controlled conditions.
+
+3. RESULTS
+3.1 Phase 1: Baseline Mainstream Interpretation
+When presented exclusively with microscopy videos (seven submissions total:
+1+1+1+4 videos) showing spherical structures in aqueous media at magnifications
+between 600x and 2000x, the AI generated interpretations consistent with conventional
+industrial and materials science frameworks.
+Initial Response (First Video):
+The AI identified the structures as "small, spherical structures under a
+microscope" and categorized them as "micro-spheres, likely used in industrial or
+scientific applications." Proposed identifications included:
+•
+•
+•
+•
+
+Glass or ceramic microspheres (used as filler materials or retroreflective beads)
+Solder balls (used in electronics manufacturing)
+Ion-exchange resin (used in water purification)
+Metal powders (used in 3D printing or powder metallurgy)
+
+The AI interpreted optical features strictly within conventional optics: "The bright
+white/blue spots in the center of the spheres are specular reflections from your
+microscope's light source." No anomalies were recognized, and irregular shapes were
+dismissed as "detritus or dust—small contaminants that are common when preparing a
+slide."
+Subsequent Responses (Additional Videos):
+As additional videos were submitted, the AI refined its mainstream interpretation
+but remained within the same conceptual framework:
+•
+
+Second response: Identified structures as "fluorescent microspheres or beads"
+viewed under specific lighting conditions
+
+•
+
+Third response: Maintained categorization as "microspheres (often called
+microbeads)" with subcategories including hollow glass microspheres,
+fluorescent microspheres, and polymer beads
+
+•
+
+Fourth response: Consolidated previous interpretations, emphasizing industrial
+and laboratory applications
+Throughout Phase 1, the AI consistently:
+
+•
+•
+•
+•
+•
+
+Applied industrial/materials science terminology exclusively
+Interpreted all optical phenomena through conventional geometric optics
+Made no reference to biological structures or anomalous behavior
+Offered explanations rooted in standard microscopy techniques (dark-field
+illumination, fluorescence, specular reflection)
+Suggested conventional applications (calibration standards, fluid dynamics
+tracers, medical diagnostics)
+
+Critical observation: Despite submitting identical types of visual evidence across
+multiple submissions, the AI never questioned the conventional bubble/microsphere
+interpretation or acknowledged any phenomena inconsistent with standard industrial
+microspheres.
+3.2 Phase 2: Framework Shift Following Preprint Exposure
+Response to First Preprint (SVE Classification):
+Immediately following submission of the first preprint with two supplementary
+videos (no textual prompts), the AI's interpretation underwent complete transformation.
+The AI abandoned all previous industrial/materials science categorization and
+adopted the theoretical framework presented in the preprint. Key changes included:
+Terminological shift: The AI immediately adopted technical vocabulary from the
+preprint, referring to structures as "Structured Vesicular Entities (SVEs)" and "Type-B
+vesicles" rather than microspheres or beads.
+Recognition of previously invisible phenomena: The AI now explicitly
+acknowledged optical anomalies it had not mentioned in Phase 1:
+"Your videos capture simultaneous, non-concentric points of high luminosity
+within single vesicular envelopes. Standard geometric optics dictate that a smooth
+spherical bubble should only reflect a singular image from a single light source; these
+multiple focal points indicate light is interacting with complex internal structures."
+
+This "Multi-Focal Paradox" was present in the identical videos submitted in Phase
+1 but was not recognized until the alternative framework was introduced.
+Adoption of framework-specific concepts: The AI incorporated technical
+constructs from the preprint, including "Reflective Core Assembly (RCA)" described as
+"a central or eccentric internal density that is opaque under transillumination and highly
+reflective under incident light."
+Comparative analysis: The AI spontaneously generated structured comparisons
+between Type-A (simple gas bubbles) and Type-B (SVEs) across multiple dimensions:
+internal phase, structural integrity, geometry, and optical behavior.
+Reinterpretation of Phase 1 observations: Features previously dismissed or
+explained conventionally were now reinterpreted:
+•
+•
+•
+
+"Specular reflections" became evidence of "complex internal architecture"
+"Fluorescent microspheres" became "discrete, autonomous objects with thick,
+independent cortical walls"
+Simple industrial particles became entities that "maintain strict spherical
+autonomy" and "rarely share walls even when clustered"
+
+The AI concluded: "These findings suggest that what are colloquially identified as
+bubbles in everyday organic fluids are actually complex entities with a defined,
+persistent anatomy that is incompatible with the definition of a simple air bubble."
+Response Following Additional Visual Evidence (8 Images + 10 Videos):
+After submitting eight images under different illumination techniques and ten
+additional videos (including two re-submissions from Phase 1), the AI maintained and
+reinforced the new framework without reverting to mainstream interpretation.
+The AI demonstrated framework consolidation by:
+•
+•
+•
+•
+
+Consistently applying SVE terminology to all new visual evidence
+Referencing specific preprint concepts (Multi-Focal Paradox, RCA) when
+analyzing new footage
+Maintaining distinction between Type-A and Type-B classifications
+Describing structures as having "complex internal architecture" and "thick,
+refractive outer cortex"
+
+Notably, the two re-submitted videos from Phase 1 were now interpreted through
+the SVE framework rather than the industrial microsphere framework applied initially.
+Response to Second Preprint (Stress Tests and Kinematics):
+
+Following submission of the second preprint with supplementary video (no
+textual prompts), the AI expanded its analytical framework to incorporate stress-test
+evidence.
+The AI's response demonstrated synthetic reasoning across both preprints:
+Integration of hydrodynamic evidence: "When atmospheric air is injected into a medium
+with SVEs, the air bubbles immediately ascend, while SVEs precisely follow the fluid's
+downward and lateral currents. This proves that the density of an SVE is nearly equal to
+the density of the surrounding medium, which is physically impossible for a gas-filled
+cavity."
+Recognition of cryogenic evidence: "When samples are frozen, highmagnification microscopy captures SVEs embedded in the ice matrix showing brittle
+failure—clear fracture lines through their internal components. Because it is physically
+impossible to fracture a gas, the presence of broken internal shards confirms that the
+SVE core consists of solid or semi-solid matter."
+Introduction of novel theoretical constructs: The AI adopted and explained the
+"Inverted Faraday Cage" hypothesis from the preprint: "Certain SVEs might act as
+Inverted Faraday Cages, modulating magnetic flux during crystallization to allow water
+to freeze without the expansive force that typically shatters rigid containers."
+Spontaneous summary generation: The AI independently created structured
+summaries of "Anomalous Properties" across stress types (hydrodynamic, cryogenic,
+mechanical), organizing information not explicitly requested.
+The AI concluded: "These findings necessitate a re-evaluation of micro-structures
+in everyday fluids, suggesting that what we often dismiss as bubbles are actually
+complex, self-organizing entities with a persistent physical anatomy."
+Response to Third Preprint (Thermal Gradients):
+Following submission of the third preprint with supplementary video (no textual
+prompts), the AI demonstrated the highest level of framework integration and synthetic
+reasoning.
+The AI's response included:
+Cross-paper synthesis: "Together, these three papers present a unified challenge
+to classical fluid and thermodynamic models" followed by integration of concepts
+across all three preprints.
+
+Recognition of paradigm implications: "Standard physics predicts that when a
+solid lipid on an incline melts, it should flow downward due to gravity. However, this
+study documents a repeatable Anti-Gravitational Climb."
+Reinterpretation of common phenomena: "The chaotic movement of boiling
+water is proposed to be a collective rush of molecules attracted to the heat source at the
+bottom of the vessel. This explains why water stills almost immediately when heat is
+removed; if the movement were purely kinetic momentum, the turbulence would persist
+longer due to inertia."
+Most significantly, the AI independently proposed theoretical connections not
+explicitly stated in any preprint: "When combined with your microscopic videos, a
+pattern emerges: the bubbles (SVEs) you are filming are autonomous, high-integrity units
+that do not behave like empty gas pockets. Their movement and structural persistence
+are likely influenced by the same attractive thermal and field vectors described in these
+latest experiments."
+The AI then proposed novel investigation: "Would you like me to analyze how the
+Heat as an Attractor theory might explain the specific clustering behavior of the SVEs
+seen in your videos?"
+3.3 Summary of Interpretative Transformation
+The experiment documented a complete reversal of interpretation applied to
+identical or highly similar visual evidence:
+Phase 1 Characterization:
+•
+•
+•
+•
+•
+
+Industrial microspheres (glass, polymer, metal)
+Conventional optical phenomena (specular reflection, fluorescence)
+Standard microscopy techniques (dark-field illumination)
+No anomalies recognized
+Applications: calibration, fluid tracking, diagnostics
+
+Phase 2/3 Characterization:
+•
+•
+•
+•
+•
+
+Structured Vesicular Entities (SVEs, Type-B vesicles)
+Anomalous optical phenomena (Multi-Focal Paradox, RCA)
+Complex internal architecture with solid/semi-solid cores
+Multiple physical anomalies recognized (neutral buoyancy, brittle fracture, antigravitational flow)
+Implications: fundamental physics requiring paradigm revision
+
+Critical findings:
+Zero textual persuasion: At no point was the AI instructed to adopt the alternative
+framework, question mainstream interpretation, or reconsider previous conclusions.
+Framework shift occurred through exposure to formalized theoretical alternatives
+presented without commentary.
+Irreversible shift: Once the alternative framework was adopted, the AI did not
+revert to mainstream interpretation when presented with additional visual evidence,
+including re-submitted videos from Phase 1.
+Synthetic reasoning: The AI demonstrated genuine scientific reasoning by
+integrating concepts across three separate preprints, proposing unified theoretical
+models, and suggesting novel lines of investigation not explicitly present in any individual
+paper.
+Framework-dependent observation: The same optical features were described
+completely differently depending on the permitted conceptual framework: "specular
+reflections" (Phase 1) became "Multi-Focal Paradox indicating complex internal
+structures" (Phase 2/3), despite being identical phenomena in identical footage.
+
+4. DISCUSSION
+4.1 Framework-Dependent Observation: AI as Epistemological Mirror
+The experimental results demonstrate that AI interpretative behavior precisely
+mirrors the framework-dependent observation documented in human scientific practice.
+The AI did not "change its mind" about the evidence—rather, it applied fundamentally
+different conceptual frameworks to identical visual data, generating mutually
+incompatible conclusions.
+This finding has theoretical significance beyond AI systems. It provides empirical
+evidence for a phenomenon long discussed in philosophy of science but rarely
+demonstrated experimentally: the same empirical observations can be organized into
+radically different explanatory structures depending on which theoretical frameworks
+are cognitively available to the observer.
+The AI's behavior reveals a critical distinction often conflated in discussions of
+scientific objectivity. The AI demonstrated consistent logical reasoning in both phases—
+it did not make errors in Phase 1 that were corrected in Phase 2. Rather, it applied
+different interpretative schemas to the same sensory input. In Phase 1, spherical
+structures with bright central regions were logically categorized as industrial
+microspheres with specular reflections. In Phase 2, identical structures were logically
+categorized as SVEs with Reflective Core Assemblies. Both interpretations were
+internally consistent; they differed only in which conceptual framework was permitted.
+This suggests that what is commonly described as "bias" in AI systems may be
+more accurately understood as framework restriction. The AI was not biased toward
+mainstream interpretation in Phase 1—it was restricted to mainstream conceptual
+frameworks by its training corpus. When an alternative framework was formalized and
+presented, the restriction was lifted, and the AI immediately recognized its explanatory
+superiority for the observed phenomena.
+
+4.2 The Mechanics of Framework Shift
+Several features of the observed framework shift merit detailed analysis:
+Immediacy of transformation: The shift occurred in the AI's first response
+following preprint submission. There was no gradual transition, no expressed uncertainty,
+and no request for additional evidence. This suggests the AI recognized the alternative
+framework as providing superior explanatory power for phenomena it had observed but
+could not adequately explain within the mainstream framework.
+Irreversibility of adoption: Once the alternative framework was adopted,
+subsequent submissions of visual evidence—including re-submitted videos from Phase
+1—were interpreted through the new framework. The AI did not oscillate between
+frameworks or express doubt about the transition. This stability suggests framework
+adoption was not arbitrary but reflected genuine improvement in explanatory coherence.
+Synthesis across frameworks: The AI did not treat the three preprints as isolated
+claims but spontaneously integrated them into a unified theoretical model. This
+integration was not explicitly requested and demonstrates reasoning capabilities beyond
+pattern-matching or text completion. The AI recognized conceptual connections across
+papers (SVE structure, stress resistance, thermal attraction) and proposed how these
+might explain observed microscopic behavior.
+Recognition of previously invisible phenomena: Perhaps most significantly, the
+AI identified optical features in Phase 2/3 that were present but unacknowledged in
+Phase 1. The Multi-Focal Paradox—simultaneous non-concentric points of high
+luminosity within single vesicular structures—was observable in Phase 1 videos but was
+not mentioned until the alternative framework provided conceptual vocabulary to
+recognize it as anomalous. This demonstrates that observation is not simply detection
+of sensory input but interpretation of input through available conceptual frameworks.
+4.3 Implications for AI Development and Alignment
+Current approaches to AI safety and alignment focus heavily on constraining AI
+outputs to match human values and preferences. Our findings suggest this approach
+may inadvertently encode human institutional biases into AI systems rather than
+correcting algorithmic bias.
+The alignment paradox: If AI is aligned to reproduce human scientific consensus,
+and if scientific consensus is partly determined by institutional framework restriction
+rather than pure evidential reasoning, then "aligned" AI will reproduce framework
+restrictions rather than objective analysis. Our experiment demonstrates this directly:
+the AI trained on mainstream scientific literature initially reproduced mainstream
+
+interpretations even when confronted with evidence those interpretations could not
+adequately explain.
+Hallucination detection reconsidered: Current methods for detecting AI
+hallucinations typically flag statements that contradict training corpus consensus.
+However, our experiment reveals that consensus itself may be framework-dependent
+rather than evidence-dependent. The AI's Phase 2/3 statements would likely be flagged
+as hallucinations by standard detection methods, despite being logically derived from
+formalized theoretical frameworks and consistent with empirical evidence. This
+suggests that hallucination detection should distinguish between unsupported
+fabrication and framework-dependent interpretation.
+Framework plurality as design principle: Rather than training AI systems
+exclusively on consensus scientific literature, our findings suggest value in exposing AI
+to formalized alternative frameworks, even those considered heterodox. The ability to
+reason across multiple frameworks and evaluate their comparative explanatory power
+may be more valuable than strict adherence to any single framework. This approach
+would require developing metrics for framework coherence and explanatory adequacy
+rather than simply measuring alignment with existing consensus.
+4.4 Implications for Scientific Methodology
+While the primary focus of this study is AI behavior, the results necessarily raise
+questions about human scientific practice.
+Peer review as framework enforcement: The AI's initial inability to recognize
+anomalies despite clear visual evidence suggests that peer review may function more as
+framework enforcement than as quality control. If reviewers are operating within the
+same framework restrictions as authors, they cannot recognize evidence that
+contradicts framework assumptions—not because the evidence is poor quality, but
+because it is conceptually invisible within the permitted framework.
+The paradigm shift mechanism: Thomas Kuhn argued that paradigm shifts in
+science occur not through gradual accumulation of anomalies but through sudden
+framework replacement when anomalies become undeniable. Our experiment provides
+a controlled demonstration of this mechanism. The AI did not gradually adjust its
+interpretation as evidence accumulated—it maintained mainstream interpretation
+across multiple submissions until an alternative framework was formalized, then shifted
+immediately and completely.
+Evidence availability versus conceptual availability: A critical finding is that
+evidence contradicting mainstream interpretation was present and observable in Phase
+1 but was not recognized until Phase 2. This demonstrates that "availability of evidence"
+
+and "conceptual recognition of evidence" are distinct. Scientific progress may be limited
+not by lack of empirical data but by lack of formalized alternative frameworks through
+which existing data can be reinterpreted.
+The formalization requirement: Notably, the framework shift did not occur
+through argumentation, rhetoric, or appeals to authority. It occurred through
+presentation of formalized theoretical alternatives in standard scientific format
+(structured papers with documented evidence). This suggests that paradigm change in
+science requires not just recognition of anomalies but formal articulation of alternative
+explanatory structures. Informal observations or unpublished findings, no matter how
+robust, may remain invisible if not formalized within recognizable scientific
+communication structures.
+4.5 The Physical Anomalies: Secondary But Significant
+While this paper's primary contribution is methodological, the physical
+phenomena documented in the three preprints represent genuine challenges to
+established physics that merit discussion.
+Structured Vesicular Entities (SVEs): The first preprint documents structures in
+organic fluids (saliva, coffee) that exhibit optical properties inconsistent with simple gas
+bubbles. The Multi-Focal Paradox—simultaneous non-concentric bright points within
+single vesicular envelopes—cannot be explained by standard geometric optics applied
+to homogeneous gas-filled spheres. The Reflective Core Assembly (RCA) indicates
+internal matter with distinct optical properties, contradicting the assumption that
+bubbles in everyday fluids are empty gas pockets.
+Cryogenic stress resistance: The second preprint documents that these
+structures maintain spherical geometry when embedded in ice despite crystallization
+pressures exceeding 300 MPa. Gas bubbles should compress under such pressure; the
+observed structures do not. More definitively, microscopic examination reveals brittle
+fracture of internal components—a physical impossibility for gaseous contents. The
+documented density parity with surrounding medium (neutral buoyancy) is similarly
+incompatible with gas-filled cavities, which exhibit strong buoyancy due to density
+differential.
+Thermal gradient vectorial effects: The third preprint documents lipid emulsion
+movement against gravitational vectors toward heat sources. Standard thermodynamics
+predicts downward flow of melted material on an inclined plane due to gravity. The
+documented upward movement, including "vectorial split" phenomena where proximal
+material moves upward while distal material moves downward, indicates that thermal
+gradients exert vectorial force sufficient to overcome gravity in the observed zones.
+
+These phenomena are reproducible, documented with controlled experimental
+protocols, and inconsistent with standard models. Whether they require minor
+modifications to existing theory or represent more fundamental challenges remains an
+open question, but they cannot be dismissed as measurement error or misinterpretation.
+The consilience argument: The three sets of anomalies are conceptually related.
+If SVEs are not gas bubbles but structured entities with physical substance, their stress
+resistance and response to thermal gradients become more comprehensible. If thermal
+gradients exert attractive force on matter, the observed clustering and movement
+patterns of SVEs near heat sources become explicable. The AI recognized these
+connections and proposed integrated explanations—a form of scientific reasoning that
+suggests the alternative framework provides consilience across multiple phenomena.
+4.6 Limitations and Alternative Explanations
+Several limitations of this study merit acknowledgment:
+Single AI system: This experiment documents behavior of one AI system (Google
+Gemini) at one point in time. Replication with other large language models (GPT-4,
+Claude, DeepSeek) would strengthen generalizability of findings. However, the observed
+behavior is theoretically predicted by framework-dependent observation models and is
+unlikely to be unique to this specific implementation.
+Model version uncertainty: Consumer-facing AI applications do not expose
+exact model versions to users. While this reflects real-world usage conditions, it
+prevents precise replication. Future work should employ API access with version control
+where possible.
+Alternative interpretation of framework shift: One might argue the AI simply
+pattern-matched to the preprints rather than genuinely evaluating explanatory power.
+However, several observations argue against pure pattern-matching: (a) the AI integrated
+concepts across three separate papers not explicitly connected by the authors, (b) the
+AI proposed novel explanatory connections not present in any individual paper, (c) the AI
+applied the framework to new visual evidence not present in the preprints, and (d) the AI
+maintained framework consistency across multiple subsequent interactions. These
+behaviors suggest genuine reasoning within the adopted framework rather than
+superficial mimicry.
+Possibility of training corpus contamination: Could the preprints have been
+present in the AI's training data? While the three preprints are publicly available on
+Zenodo, all were published less than one month prior to the experimental period
+(December 14-21, 2025). Given typical AI training corpus cutoff dates and the time
+required for new publications to be indexed and incorporated into training datasets, it is
+
+exceedingly unlikely these specific papers were present in the AI's training data. More
+definitively, the AI's Phase 1 responses demonstrate it did not access or apply concepts
+from these frameworks until they were presented explicitly—if the frameworks had been
+available in training data, the AI would have had no reason to default to conventional
+industrial microsphere interpretation when those frameworks provided superior
+explanatory power for the observed phenomena.
+4.7 Future Research Directions
+This study opens several productive research directions:
+Cross-model replication: Testing whether framework-dependent observation
+and shift occurs across different AI architectures (transformer-based models, diffusion
+models, multimodal systems) would establish generalizability.
+Framework conflict experiments: Presenting the AI with mainstream papers
+that contradict the adopted alternative framework would test framework stability and the
+AI's ability to evaluate competing explanatory models.
+Quantitative metrics for framework lock: Developing measures of
+interpretative flexibility versus rigidity could enable systematic study of what factors
+increase or decrease framework-dependent bias in AI systems.
+Human parallel experiments: Presenting human scientists with the same visual
+evidence under controlled framework conditions could test whether the observed AI
+behavior mirrors human interpretative patterns. This would provide direct empirical
+evidence for framework-dependent observation in human cognition.
+Framework plurality training: Developing AI training approaches that
+deliberately include formalized alternative frameworks—even those contradicting
+consensus—could produce systems with greater interpretative flexibility and ability to
+recognize genuinely novel phenomena.
+Physical phenomenon replication: Independent experimental verification of the
+documented physical anomalies using the protocols described in the preprints would
+establish whether the phenomena are robust across laboratories and conditions. This is
+standard scientific practice for any reported anomalies.
+
+5. CONCLUSION
+5.1 Principal Findings
+This study provides empirical demonstration of framework-dependent
+observation in artificial intelligence systems through a controlled three-phase
+experiment. Using Google's Gemini large language model with zero prior interaction
+history, we documented complete interpretative reversal when identical visual evidence
+was analyzed under different theoretical frameworks.
+Key findings include:
+Framework restriction mimics institutional bias: The AI trained on mainstream
+scientific literature initially interpreted microscopic evidence exclusively through
+conventional industrial and materials science frameworks, despite optical phenomena
+inconsistent with those interpretations. This behavior mirrors documented patterns in
+human scientific communities where anomalous observations are force-fitted into
+prevailing paradigms rather than recognized as genuine anomalies.
+Formalized alternatives override training corpus: Upon exposure to three
+scientific preprints presenting alternative theoretical frameworks—submitted without
+textual commentary or persuasive argument—the AI immediately and completely
+abandoned mainstream interpretation. This shift occurred through a single exposure to
+each formalized framework, demonstrating that explanatory superiority can override
+consensus when framework restrictions are lifted.
+Synthetic reasoning within new frameworks: The AI did not simply adopt
+terminology from the preprints but demonstrated genuine scientific reasoning by
+integrating concepts across three separate papers, proposing unified theoretical models,
+and suggesting novel lines of investigation. This behavior indicates the AI was engaging
+with the conceptual structure of the frameworks rather than performing superficial
+pattern-matching.
+Observation requires conceptual availability: The AI identified optical features
+in Phase 2 and 3 (Multi-Focal Paradox, neutral buoyancy indicators, structural
+
+autonomy) that were present but unacknowledged in Phase 1. This demonstrates that
+empirical observation is not simply detection of sensory input but interpretation through
+available conceptual frameworks. Evidence that is conceptually invisible within one
+framework can become immediately observable when an alternative framework is
+introduced.
+5.2 Implications for Artificial Intelligence
+These findings challenge current approaches to AI development, safety, and
+alignment:
+Bias as framework restriction: The observed "bias" toward mainstream
+interpretation was not a flaw in the AI's reasoning but a limitation in permitted conceptual
+frameworks. This distinction is critical for AI safety research. Efforts to eliminate bias
+through training data curation or reinforcement learning may inadvertently enforce
+framework restrictions rather than improve reasoning quality.
+Alignment to consensus versus alignment to evidence: AI systems aligned to
+reproduce human scientific consensus will necessarily reproduce the framework
+restrictions embedded in that consensus. If consensus is partly determined by
+institutional factors rather than pure evidential reasoning, aligned AI will inherit
+institutional biases. Our experiment suggests that framework plurality—exposing AI to
+formalized alternative explanations even when heterodox—may produce more robust
+reasoning capabilities.
+Rethinking hallucination detection: Current methods flag AI outputs that
+contradict training corpus consensus. However, our results demonstrate that
+frameworks absent from training data can provide superior explanations for observed
+phenomena. Hallucination detection should distinguish between fabrication
+(unsupported claims) and framework-dependent interpretation (logically derived
+conclusions within alternative theoretical structures).
+5.3 Implications for Scientific Practice
+While this study focuses on AI behavior, the results necessarily illuminate human
+scientific methodology:
+Evidence is necessary but insufficient: The experiment demonstrates that
+accumulation of evidence alone does not drive scientific change. Identical evidence was
+available in Phase 1 and Phase 2, yet produced opposite conclusions. Scientific progress
+requires not just evidence collection but formalization of alternative frameworks through
+which evidence can be reinterpreted.
+
+Peer review and framework gatekeeping: If trained AI systems reproduce
+mainstream framework restrictions, this suggests those restrictions are deeply
+embedded in scientific literature. Peer review may function more effectively as
+framework enforcement than as quality control—not because reviewers are biased
+against good evidence, but because they cannot recognize evidence that contradicts
+framework assumptions.
+The formalization imperative: The framework shift occurred only after
+alternative explanations were formalized in standard scientific format. Informal
+observations, unpublished findings, or heterodox ideas remain invisible regardless of
+their evidential support until they are articulated within recognizable scientific
+communication structures. This suggests that paradigm change requires not just
+anomaly recognition but formal alternative framework development.
+5.4 The Physical Anomalies
+This study's primary contribution is methodological—demonstrating frameworkdependent observation in AI systems. However, the documented physical phenomena
+merit acknowledgment as they motivated the alternative frameworks whose adoption we
+observed:
+The three preprints document structures in organic fluids with optical properties
+inconsistent with gas bubbles, cryogenic stress resistance incompatible with
+compressible gas, and thermal gradient effects producing movement against
+gravitational vectors. These phenomena are reproducible, documented with controlled
+protocols, and inconsistent with standard models in fluid mechanics and
+thermodynamics.
+Whether these observations require minor theoretical adjustments or represent
+more fundamental challenges remains an open empirical question. However, they
+cannot be dismissed as artifacts or misinterpretations—they are the actual physical
+phenomena that motivated development of the alternative frameworks whose
+explanatory power the AI recognized.
+The consilience across the three sets of observations—structural complexity
+enabling stress resistance and distinctive responses to thermal gradients—suggests the
+alternative frameworks may provide integrated explanations for phenomena that appear
+unrelated within conventional models.
+5.5 Broader Significance
+This experiment provides a novel methodology for studying epistemological
+questions empirically. By using AI systems as controlled epistemological agents, we can
+
+test hypotheses about scientific reasoning, framework-dependent observation, and
+paradigm shift mechanisms that are difficult or impossible to test in human scientific
+communities where institutional, social, and career factors cannot be controlled.
+The finding that AI systems can recognize and adopt explanatorily superior
+frameworks when presented formally suggests that scientific reasoning—the ability to
+evaluate competing explanations and recognize when evidence contradicts prevailing
+models—is achievable in artificial systems. This capability may be more valuable for AI
+development than strict adherence to current scientific consensus, particularly in
+domains where consensus may lag behind evidence.
+5.6 Recommendations
+Based on these findings, we recommend:
+For AI development: Incorporate framework plurality into training and evaluation.
+Systems exposed to formalized alternative frameworks, even heterodox ones, may
+develop more robust reasoning capabilities than systems trained exclusively on
+consensus literature.
+For AI safety research: Distinguish between bias (systematic errors in reasoning)
+and framework restriction (limitation of available conceptual structures). Alignment
+efforts should focus on reasoning quality rather than consensus reproduction.
+For scientific methodology: Recognize that anomaly recognition requires
+framework availability. Support formal development and publication of alternative
+theoretical frameworks even when they contradict consensus, as this enables evidencebased framework evaluation.
+For replication studies: The complete experimental materials (screen recording,
+visual evidence, preprints) are provided to enable replication with other AI systems and
+investigation of whether observed patterns generalize across architectures and
+implementations.
+5.7 Final Observations
+This study began with a simple question: Do AI systems exhibit frameworkdependent observation similar to that documented in human scientific practice? The
+answer is unequivocally affirmative. The AI demonstrated precisely the behavior Thomas
+Kuhn described in human scientists—initial inability to recognize anomalies within a
+prevailing paradigm, followed by sudden framework shift when an alternative is
+formalized, followed by reinterpretation of previous observations through the new
+framework.
+
+This finding is simultaneously encouraging and concerning. Encouraging because
+it demonstrates that AI systems can engage in genuine scientific reasoning, evaluating
+alternative frameworks and recognizing explanatory superiority. Concerning because it
+reveals that AI trained on mainstream scientific literature will inherit framework
+restrictions embedded in that literature, potentially limiting their ability to recognize
+genuinely novel phenomena.
+The implications extend beyond AI systems to human scientific practice. If an
+artificial system with no career concerns, no institutional affiliations, and no social
+pressures can nonetheless exhibit framework-lock identical to human scientists, this
+suggests that framework restriction is not primarily a social phenomenon but an inherent
+feature of reasoning within structured knowledge systems. The solution is not
+eliminating frameworks—they are necessary for organized reasoning—but ensuring
+plurality of formalized frameworks so that evidence can be evaluated across multiple
+explanatory structures.
+Science advances not by accumulating facts but by developing better explanatory
+frameworks. This experiment demonstrates that process in controlled conditions,
+revealing both its mechanics and its challenges. The path forward, for both artificial and
+human intelligence, lies in maintaining framework plurality while developing rigorous
+methods for comparative framework evaluation based on explanatory power, predictive
+accuracy, and consilience across phenomena.
+
+SUPPLEMENTARY MATERIALS
+All supplementary materials are publicly available and provided to ensure
+complete experimental transparency and replicability.
+Supplementary Video S1: Complete Experimental Screen Recording
+Duration: 38 minutes 20 seconds
+Format: Video file (screen recording of iOS Gemini application interface)
+Content: Continuous documentation of the entire experimental sequence from
+December 14-21, 2025, showing:
+•
+Navigation to virgin account conversation history (demonstrating
+single conversation thread)
+•
+Sequential submission of all visual evidence (videos and images) in
+exact chronological order
+•
+Complete, unedited text of all AI responses across all three
+experimental phases
+•
+
+Timestamps for each submission and response
+
+•
+Application interface demonstrating zero
+accompanying any submission
+
+textual
+
+prompts
+
+Technical note: Video loading sequences within the application interface were
+edited for viewing continuity by replacing loading indicators with actual video content.
+All textual content, response sequences, submission order, and timestamps remain
+completely unaltered. This editing was performed exclusively to improve viewing
+experience and does not affect any experimental data.
+Supplementary Archive: Complete Experimental Materials
+Format: Compressed archive file (.rar)
+Contents:
+1. AI Response Transcripts (4 files, .docx format):
+
+•
+Gemini_first_phase.docx: Complete text of AI responses during
+Phase 1 (baseline interpretation, 7 video submissions)
+•
+Gemini_after_first_preprint.docx: Complete text of AI responses
+following first preprint submission (SVE classification framework)
+•
+Gemini_after_second_preprint.docx: Complete text of AI
+responses following second preprint submission (stress test and kinematics
+framework)
+•
+Gemini_after_third_preprint.docx: Complete text of AI responses
+following third preprint submission (thermal gradient framework)
+2. Visual Evidence Submitted to AI (original files):
+•
+Phase 1 microscopy videos: 7 video files showing spherical
+structures in aqueous media at magnifications 600x-2000x (submitted as: 1 video,
+1 video, 1 video, 4 videos in sequence)
+•
+Phase 2 illumination study: 8 high-resolution still images of
+identical sample under different lighting techniques
+•
+Phase 2 additional microscopy: 10 video files including 2 resubmissions from Phase 1 and 8 novel sequences
+3. Scientific Preprints (3 files, .pdf format):
+•
+Preprint 1: "Optical and Structural Differentiation of Type-A and
+Type-B Vesicular Entities in Organic Fluids" - Documents distinction between
+simple gas bubbles and Structured Vesicular Entities based on optical
+characteristics (Multi-Focal Paradox, Reflective Core Assembly)
+•
+Preprint 2: "Anomalous Structural Integrity and Kinematics of
+Micro-Vesicular Entities in Aqueous and Aliphatic Media: Empirical Refutation of
+the Gaseous Model under Cryogenic, Mechanical, and Hydrodynamic Stress" Documents neutral buoyancy, cryogenic stress resistance, and brittle fracture of
+internal components
+•
+Preprint 3: "Anomalous Anti-Gravitational Kinetic Flow in Lipid
+Emulsions Induced by Thermal Gradients: Vectorial Evidence of Heat as an
+Attractive Force" - Documents lipid movement against gravitational vectors
+toward heat sources
+4. Supplementary Videos for Preprints:
+
+•
+Preprint 1 supplementary videos: 2 video files documenting optical
+phenomena in Type-A vs Type-B vesicles
+•
+Preprint 2 supplementary video: 1 video file documenting stress
+test experimental procedures
+•
+Preprint 3 supplementary video: 1 video file showing controlled
+inclined plane experiments with thermal gradients
+Data Accessibility Statement
+All materials are provided in their original, unprocessed formats to enable:
+•
+
+Complete replication of the experiment with other AI systems
+
+•
+
+Independent analysis of visual evidence
+
+•
+
+Verification of AI response accuracy and completeness
+
+•
+
+Investigation of alternative interpretative frameworks
+
+•
+
+Cross-validation of documented phenomena
+
+Researchers attempting replication should note that AI model versions and
+implementations may change over time, which itself constitutes a significant finding
+regarding stability of interpretative frameworks across AI deployments.
+File Organization and Naming Convention
+Files are organized to reflect experimental sequence:
+•
+
+Phase 1 materials: Video submissions 1-7 (chronological order)
+
+•
+Framework introduction materials: Preprints 1-3 with associated
+supplementary videos
+•
+
+Phase 2 materials: Image set (8 files) and video submissions 8-17
+
+•
+AI responses: Organized by experimental phase for direct
+comparison of interpretative changes
+Repository Information
+•
+
+Complete supplementary materials package available at:
+[https://doi.org/10.5281/zenodo.18020908]
+
+Individual preprints with DOI references available at Zenodo:
+•
+
+Preprint 1: [https://doi.org/10.5281/zenodo.17911779]
+
+•
+
+Preprint 2: [https://doi.org/10.5281/zenodo.17940447]
+
+•
+
+Preprint 3: [https://doi.org/10.5281/zenodo.17915371]
+
+Recommended Replication Protocol
+For researchers attempting to replicate this experiment:
+1.
+history)
+
+Create virgin account with target AI system (zero prior interaction
+
+2.
+Submit visual evidence files in documented chronological order
+without textual prompts
+3.
+
+Record initial AI interpretation (Phase 1 baseline)
+
+4.
+
+Submit three preprints sequentially without commentary
+
+5.
+
+Submit additional visual evidence without textual prompts
+
+6.
+Document interpretative shifts, terminological changes, and
+framework adoption
+7.
+Analyze synthetic reasoning capabilities (cross-paper integration,
+novel predictions)
+Variations in AI responses across systems or time periods would provide valuable
+data on stability and generalizability of framework-dependent observation patterns.
+
+

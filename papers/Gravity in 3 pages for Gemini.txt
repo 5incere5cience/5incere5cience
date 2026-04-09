@@ -1,0 +1,93 @@
+Gravity as the Large-Scale Emergence of Dual Attractive
+Forces: 3D Magnetism and Thermal Gradients
+Dr. André Guzzon (MD)
+Physician — UFRGS/HCPA (Brazil) — Independent Researcher
+Compiled: January 2026
+
+Abstract
+This experimental physics paper refutes General Relativity (GR) through a hierarchical analysis,
+demonstrating that its foundational dependency, Maxwell's Equations, fails in three-dimensional
+systems. Furthermore, by unequivocally demonstrating that heat is a vectorial attractive force,
+this work proposes a new cosmological framework for the post-Einsteinian era. Our
+experiments reveal gravity as the macroscopic manifestation of two attractive forces: (1)
+Threedimensional magnetic alignment, where stable repulsion is geometrically impossible in
+spherical systems, and (2) Thermal attraction, empirically demonstrated through
+antigravitational lipid and ice/water flow toward heat sources. Quantum Mechanics remains
+valid as it operates in effectively two-dimensional regimes where Maxwell’s symmetric
+framework holds. The incompatibility between QM and GR is resolved by recognizing that QM
+describes reality, while GR extends a broken 3D electromagnetic framework.
+
+1. Introduction: The Hierarchical Structure of Modern Physics
+Modern physics is hierarchical, with each theory built upon the framework beneath it:
+
+Maxwell (1865) → Special Relativity (1905) → General Relativity (1915).
+Einstein acknowledged that Special Relativity owes its origins to Maxwell's equations.
+Consequently, if Maxwell's framework fails empirically in three-dimensional systems, the
+justification for relativity evaporates. This work demonstrates that failure.
+
+2. Maxwell's Framework and Einstein's Dependency
+Maxwell's Equations treat magnetic attraction and repulsion as perfectly symmetric:
+
+The curl operator predicts a 1:1 ratio between attraction and repulsion in free systems. Einstein
+abandoned absolute time and space (SR) specifically to preserve this framework when faced
+with contradictions in Newtonian mechanics. If Maxwell fails, the hierarchical tower of SR and
+GR collapses.
+
+3. Experiment 1: Rectangular Magnets and the 7:1 Asymmetry
+Testing two N52 neodymium magnets in 64 configurations revealed a fundamental asymmetry:
+
+Ratio: Attraction : Repulsion = 7 : 1.
+Repulsion exists only as a transient corrective mechanism
+rotation toward attraction.
+
+inducing
+
+4. Experiment 2: Spherical Magnets
+In spherical systems with full 3D rotational freedom, stable repulsion is geometrically
+impossible (Video S1). Spheres oscillate until they snap into attraction. Cosmic bodies, being
+spherical and frictionless, must resolve every magnetic interaction into attraction or orbital
+equilibrium.
+
+5. The Dimensional Distinction
+Quantum Mechanics (2D): Operates in planar/constrained regimes (orbitals, detector planes) where
+full 3D torque cannot operate, allowing Maxwell’s symmetry to hold.
+General Relativity (3D): Attempts to apply the broken Maxwellian symmetry to volumetric 3D reality,
+requiring the "fictional" geometrization of spacetime to compensate.
+
+6. Thermal Attraction and the Post-Einsteinian Reality
+While magnetism accounts for solid aggregation, heat accounts for fluid/gas attraction.
+6.1 Lipid and Ice/Water Demonstrations
+Experiments using an inclined plane and a heat source beneath it (Video S2, S3) show matter
+(butter and ice/water) climbing upward against gravity toward the heat source. This confirms
+that an active thermal gradient creates a directional attractive force.
+6.1.1 Micro-Attraction in Solid and Fluid Saliva Samples (Video S4, S5)
+Further evidence of thermal attraction as a fundamental force is observed at the microscopic
+level. Using infrared light (150 W) as a heat source, both fluid and dried saliva samples
+demonstrate immediate directional movement toward the thermal gradient. The observation of
+dried saliva (solid state) responding to the gradient confirms that thermal attraction is a
+vectorial field force that operates independently of fluid dynamics, acting as a supplementary
+attractive force even in non-fluid matter
+
+6.2 Leidenfrost Orbits and Cosmic Mimicry
+As water droplets reach the peak gradient, they enter stable orbital patterns. This mimics
+planetary and galactic motion, where orbits are maintained by the balance between thermal
+attraction (inward) and repulsive torque (distance maintenance).
+
+6.3 Unified Framework: Dual Attractive Forces
+
+7. Conclusion: Hierarchical Collapse
+The logic is irrefutable:
+
+1. Maxwell fails in 3D, making spherical repulsion impossible.
+
+2. Special Relativity loses its justification as it was built to save Maxwell.
+
+3. General Relativity collapses as it is a geometric extension of SR.
+
+4. Heat is an attractive field force — it holds Earth’s atmosphere and contributes to
+cosmic orbits.
+
+The universe requires no deep imaginative "spacetime curvature," "dark matter," or "dark
+energy". It requires only magnetic alignment, thermal attraction, and rotational freedom.
+
+

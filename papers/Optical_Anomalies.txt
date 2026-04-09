@@ -1,0 +1,244 @@
+Optical Anomalies in Macroscopic Vesicles:
+Empirical Evidence of Non-Gaseous Internal
+Architecture in Common Fluids
+
+Dr. Andre Guzzon (MD)
+Independent Researcher, Brazil
+andre.guzzon@ufrgs.br
+
+January 2026
+
+Abstract
+The classical physical model of ephemeral foam bubbles denes them as gas-lled cavities within
+a liquid matrix, governed by surface tension and strictly adhering to Plateau's laws [1]. According to standard geometric optics, such spherical interfaces under a single light source should
+exhibit a predictable, singular virtual image (specular reection) on the convex surface [2].
+This study presents empirical data that challenges the universality of this model in common
+organic and inorganic uid mediums (e.g., coee infusions, salivary emulsions).
+
+Through a
+
+comparative analysis using macroscopic photography and high-magnication optical microscopy
+(up to 2000x), we identify a distinct class of vesicles herein termed
+
+Structured Vesicular
+
+Entities (SVEs). Unlike simple gas bubbles (Type-A), SVEs (Type-B) exhibit the MultiFocal Paradoxsimultaneous, non-concentric points of high luminosity within a single vesicular
+envelopeand a distinct internal opacity inconsistent with a homogeneous gas phase. This paper establishes a visual classication system distinguishing these two forms, proposing that SVEs
+represent a ubiquitous, self-organizing phenomenon possessing complex internal architecture.
+
+1
+
+1
+
+Introduction
+
+1.1 The Prevailing Paradigm
+Fluid dynamics and surface chemistry have long categorized foam bubbles as simple physical
+phenomena: pockets of gas (air, CO2 , water vapor) trapped within a thin lm of liquid. The
+stability of these structures is traditionally attributed to the Marangoni eect [3, 4] and the
+minimization of surface area, creating characteristic polyhedral geometries in dense foams [5]. In
+this established view, the interior of a bubble is a transparent void of structural complexitya
+passive volume of gas governed by surface tension [1].
+
+1.2 The Optical Anomaly
+While this model accurately describes ideal soap bubbles under controlled laboratory conditions, it fails to account for optical anomalies observed in naturally occurring foams and emulsions.
+
+A fundamental principle of ray optics dictates that a smooth, spherical convex mirror
+
+(the outer surface of a bubble) reects a single primary light source as a single focal point [2].
+However, systematic observation of vesicles in everyday uids reveals a frequent deviation from
+this rule: the presence of multiple, distinct, and spatially stable bright spots within the boundary
+of a single vesicle. This phenomenon, which we classify as the
+
+Multi-Focal Paradox, implies
+
+that light is interacting with internal structures capable of independent reection, rather than
+merely passing through a homogeneous gas medium.
+
+1.3 Objective
+This paper serves as the foundational entry in a series of investigations into these Structured
+Vesicular Entities (SVEs). We aim to:
+
+1. Establish a rigorous visual classication system distinguishing Type-A (Simple/Empty)
+vesicles from Type-B (Structured) entities.
+2. Provide microscopic evidence of the internal architecture corresponding to the macroscopic optical anomalies.
+
+We posit that relying solely on established theoretical models has obscured the observation
+of a complex, self-organizing phenomenon hidden in plain sight.
+
+This investigation adopts a
+
+radically empirical approach, prioritizing direct observation over theoretical assumption.
+
+2
+
+Methodology
+
+2.1 Sample Selection
+To demonstrate the ubiquity of the observed phenomena, samples were selected from common organic and inorganic uids characterized by spontaneous vesicle formation. Key distinct mediums
+were analyzed:
+
+2
+
+ Control Sample (Type-A): Standard commercial surfactant foam (Espuma Mágica), known to produce gas-lled cavities.
+
+ Test Sample (Type-B): Organic infusions (Coee) and Biological uids (Saliva),
+where optical anomalies are frequently observed.
+
+2.2 Imaging Protocol
+Macroscopic observations were conducted using high-resolution mobile photography to identify
+optical anomalies (multi-focal reections) visible to the naked eye.
+
+Microscopic analysis was
+
+performed using a digital optical microscope with magnication ranging from 500x to 2000x.
+Transillumination and incident light techniques were alternated to reveal internal opacity vs.
+transparency. Dynamic behavior was recorded in high-denition video to document the stability
+of the internal structures against uid motion.
+
+3
+
+Results
+
+3.1 Visual Classication: Type-A vs. Type-B
+Microscopic analysis revealed two fundamentally distinct vesicular morphologies co-existing in
+uid mechanics, which we have classied as follows:
+
+Type-A (The Empty Vesicle): Observed primarily in the control surfactant samples.
+These structures exhibit thin, transparent walls that often share lamellae with neighboring bubbles (polyhedral stacking), compliant with Plateau's laws. Internally, they are optically empty,
+allowing light to pass through without internal scattering or secondary reection.
+
+Figure 1: Type-A vesicles demonstrating classical foam morphology with shared walls and complete internal transparency.
+
+3
+
+Type-B (The Structured Vesicular Entity - SVE): Observed in organic and biological
+samples.
+
+These entities maintain a strict spherical autonomy, rarely sharing walls even when
+
+clustered. Most notably, they possess a dened
+
+Reective Core Assembly (RCA)a central
+
+or eccentric internal density that is opaque under transillumination and highly reective under
+incident light.
+
+Figure 2: Type-B vesicles (SVEs) showing spherical autonomy and distinct internal reective
+cores.
+
+3.2 The Multi-Focal Paradox (Correlated Findings)
+The internal architecture of Type-B entities provides the physical basis for the macroscopic
+optical anomalies. The multiple bright reection spots observed in the test samples consistently
+align with the positioning of the Reective Core Assembly and the thick, refractive outer cortex.
+The high refractive index of the core suggests it acts as a distinct optical interface within the
+vesicle, separate from the outer lm, a feature entirely absent in Type-A vesicles.
+
+4
+
+Figure 3: Structural Persistence Comparison.
+
+Unlike gas bubbles which collapse into a bulk
+
+liquid state, Type-B entities (right) demonstrate structural persistence during the drying phase,
+5
+maintaining spherical integrity and internal organization
+compared to the amorphous residue of
+Type-A foam (left).
+
+3.3 Microscopic Detail
+High-magnication analysis further distinguishes the physical boundaries of these entities. TypeA vesicles present as a continuous lattice, whereas Type-B entities present as discrete, autonomous objects.
+
+Figure 4: Type-A Morphology (Detail). High magnication transillumination of standard foam.
+Note the shared walls and complete transparency, characteristic of a gas-liquid interface minimizing surface area.
+
+6
+
+Figure 5:
+
+Type-B Morphology (Detail).
+
+High-magnication of SVEs.
+
+Note the thick, inde-
+
+pendent cortical walls and the prominent Reective Core Assembly (white centers), indicating
+substantial internal matter interacting with light.
+
+4
+
+Discussion
+
+4.1 The Impossibility of the Void
+The data presented challenges the fundamental assumption that all vesicles in common uids
+are merely gas-lled voids. The Laws of Reection dictate that a transparent, spherical interface
+cannot produce multiple, non-concentric specular reections from a single light source. The observation of the Multi-Focal Paradox serves as optical proof that the interior of these Structured
+Vesicular Entities (SVEs) contains reective material interfaces.
+
+7
+
+4.2 A Distinct State of Organization
+The contrast between Type-A and Type-B vesicles is not merely one of content, but of structural
+integrity. Type-A vesicles behave as passive gas pockets governed by surface tension minimization
+(See Supplementary Video S1). Type-B entities behave as autonomous units with a stabilizing
+internal architecture that resists simple coalescence (See Supplementary Video S2). Whether this
+organization represents a novel state of soft matter or a biological phenomenon remains to be
+dened in future studies. However, visually and optically, it is incompatible with the denition
+of a simple air bubble.
+
+5
+
+Conclusion
+
+This study establishes a critical distinction in uid mechanics regarding macroscopic vesicles:
+
+ Type-A Vesicles: Consistent with gas-lled cavities (empty, transparent).
+ Type-B Entities (SVEs):
+
+Characterized by complex internal architecture and
+
+multifocal reection.
+We conclude that many structures colloquially identied as bubbles in organic uids are, in
+fact, complex entities with a dened, persistent anatomy. This nding necessitates a reevaluation
+of micro-structures in everyday uids, suggesting that a ubiquitous, structured phenomenon has
+been overlooked due to reliance on simplied theoretical models.
+
+Future papers in this series
+
+will investigate the specic morphology of the internal core and the thermodynamic behavior of
+these entities.
+
+Supplementary Material
+Video S1: Dynamic microscopy of Type-A vesicles (Control), demonstrating passive Plateau
+borders and lack of internal structure.
+
+Video S2: Dynamic microscopy of Type-B SVEs, demonstrating spherical autonomy and
+persistent internal reective cores.
+
+References
+[1] Plateau, J. A. F. (1873).
+
+Statique expérimentale et théorique des liquides soumis aux seules
+
+forces moléculaires. Paris: Gauthier-Villars.
+[2] Hecht, E. (2017).
+
+Optics (5th ed.). Boston: Pearson Education.
+
+[3] Marangoni, C. (1865).
+
+Sull'espansione delle goccie d'un liquido galleggianti sulla supercie di
+
+altro liquido. Pavia: Tipograa dei Fratelli Fusi.
+[4] Scriven, L. E., & Sternling, C. V. (1960). The Marangoni Eects.
+[5] Weaire, D., & Hutzler, S. (1999).
+[6] Isenberg, C. (1978).
+
+Nature, 187, 186188.
+
+The Physics of Foams. Oxford: Clarendon Press.
+
+The Science of Soap Films and Soap Bubbles. Clevedon: Tieto Ltd.
+8
+
+

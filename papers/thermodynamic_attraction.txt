@@ -1,0 +1,296 @@
+Thermodynamic Attraction and Kinetic Torque:
+Empirical Evidence of Negentropy and Directional
+Force Gradients in Non-Isolated Systems
+
+André Silva Guzzon
+Independent Researcher, Brazil
+
+andre.guzzon@ufrgs.br
+
+January 2026
+
+Abstract
+The Second Law of Thermodynamics postulates that entropy in an isolated
+system tends to increase, associating heat transfer with dispersion and molecular
+disorder. However, we present a series of experiments challenging this axiom. We
+demonstrate that Active Heat Flux functions independently of Thermal State (Temperature). Our data shows: (1) matter climbing against gravity on heated inclines
+(Videos S1S2); (2) convective motion in boiling uids ceasing upon ux removal,
+despite high retention of thermal energy (Videos S3S4); and (3) low-temperature
+kinetic anomalies, where visible vapor and turbulent ow occur at sub-boiling temperatures, contradicting standard phase-transition models (Video S5). We propose
+that Heat functions not merely as a dispersive energy but as an active Vectorial
+Attractor, inducing localized negentropy driven by the gradient (∇T ) before converting into repulsive kinetic torque.
+
+1
+
+Introduction
+
+The Second Law of Thermodynamics postulates that entropy in an isolated system tends
+to increase, associating heat transfer with dispersion and molecular disorder [1, 2].
+
+In
+
+open systems, structures may emerge, but they are typically described as dissipative [3].
+However, standard physics asserts that in the absence of mechanical pumps, uids on an
+incline must ow downward (Gravity) or from hot to cold regions (Marangoni Eect) [4].
+This paper challenges the completeness of these laws. We hypothesize that Heat is
+an Attractive Force.
+
+In this model, the movement of a uid is a vector sum of Grav-
+
+itational Pull (Down) vs. Thermal Attraction (Up). We present distinct experimental
+cases (Videos S1S6) demonstrating that when the thermal gradient (∇T ) is suciently
+high, the Thermal Force overcomes conservative elds, generating spontaneous order and
+mechanical work against gravity.
+
+1
+
+2
+
+Macroscopic Negentropy: The Inclined Plane Trials
+
+2.1
+
+The Iceberg Paradox:
+
+Overcoming Gravity, Marangoni,
+
+and Fourier (Video S1)
+Methodology: A stainless-steel pan (high thermal conductivity) was inclined and initiated at room temperature.
+
+A solid ice block was xed at the lowest gravitational
+
+potential. A high-intensity gas ame was then applied to the highest point of the incline
+(empty space) for a duration exceeding 18 minutes.
+
+Observations:
+
+ Phase 1 (Gravitational Dominance): As the ice began to melt, the initial water
+followed standard mechanics, owing downward due to gravity.
+
+ Phase 2 (Thermal Reversal): As the pan heated and the thermal gradient (∇T )
+intensied, the ow direction reversed. The water migrated upward, climbing the
+slope to reach the heat source.
+
+ The Conduction Anomaly: Crucially, despite the 18-minute duration and the
+metallic nature of the vessel, the ice block at the base remained largely frozen
+while water at the peak reached boiling temperatures. This violates Fourier's Law
+of Conduction.
+
+In a standard thermodynamic system, the steel substrate should
+
+have conducted heat downward to equalize the thermal potential, melting the ice.
+The persistence of the solid phase at the bottom proves that the Heat Flux was
+vectorially conned to the attraction zone (Up), eectively refusing to conduct
+downward against its own attractive vector.
+
+Conclusion:
+
+The upward migration and the spontaneous thermal isolation of the
+
+base falsify explanations relying solely on Marangoni, Gravity, or Isotropic Conduction.
+A third, dominant vectorThermal Attractionoverpowered these potentials.
+
+2.2
+
+The Lipid Climb and Vectorial Split (Video S2)
+
+Methodology:
+
+Blocks of dairy butter were placed on a validated inclined plane and
+
+subjected to a localized, non-contact heat source (∇T ) over a 25-minute time-lapse.
+
+Observations:
+
+ Slow Ascent: Unlike a rapid slide, the lipid emulsion slowly climbed the ramp
+against gravity toward the thermal focus.
+
+ Vectorial Split: A sample positioned at the threshold distance exhibited a tug
+of war. The proximal portion sheared o and moved UP (Attraction > Gravity),
+while the distal portion remained stationary.
+
+ The Not Melted Base Anomaly: Most notably, the butter sample positioned at
+the lowest gravitational potential (furthest from the ame) did not melt throughout
+the entire 25-minute exposure. Given the high thermal conductivity of the stainless
+steel, the heat should have dissipated across the entire surface, causing a phase
+change in all samples.
+
+The fact that the distal butter remained solid indicates
+
+a directional restriction of heat ow.
+
+The energy remained concentrated in the
+
+climbing path and did not dissipate downward, creating a sharp cuto in thermal
+distribution that dees standard diusion models.
+
+2
+
+Conclusion: This maps the Event Horizon of the thermal force. The movement and
+the thermal connement are not results of rapid boiling ejection or material insulation,
+but a consistent Attraction of Mass and Energy toward the source, preventing downward
+dispersion.
+
+3
+
+The Dissociation of State vs. Force
+
+A critical failure in classical thermodynamics is the conation of Temperature (internal
+energy state) with Heat Flux (active gradient).
+
+3.1
+
+The Milk Paradox (Video S3)
+
+Methodology: Whole milk was heated to boiling points while monitoring temperature
+(precision) and motion response to ame ignition cycles.
+
+Critical Observation:
+Condition 1 (Flame ON): At lower temperature, the uid exhibits violent ascent
+and near overow.
+
+Condition 2 (Flame OFF): At higher temperature, the ame is extinguished. The
+milk instantly becomes stationary.
+
+Condition 3 (Re-ignition):
+
+At intermediate temperature, immediate ascent re-
+
+sumes.
+
+Analysis: Temperature alone does not determine convective motion. If motion were
+driven by the state of temperature (random molecular agitation), thermal inertia should
+sustain the motion at higher temperatures.
+
+The immediate cessation proves that the
+
+motion is driven by the Active Gradient. The ame acts as the motor; temperature is
+merely the exhaust.
+
+3.2
+
+Response Lag and The Steam Anomaly (Video S4)
+
+Methodology:
+
+A mixture of water, surfactant (detergent), and calcium carbonate
+
+(chalk) was boiled in a vessel with a degraded base to maximize thermal sensitivity.
+
+The < 0.2s Hard Stop:
+
+High-speed analysis reveals that boiling motion ceases
+
+within 0.2 seconds of the ame extinguishing. It is thermodynamically impossible for the
+thermal mass of the water or container to cool in this timeframe. The system responds
+to the ux cut, not the cooling.
+
+The Steam Explosion (Inverse Correlation):
+Flame ON: Visible steam is suppressed. The attractive gradient traps the vapor
+phase near the surface.
+
+Flame OFF: The moment the attractive source is removed, a massive plume of steam
+explodes upward.
+
+Rebuttal of Atmospheric Cooling: Arguments that the air above the pan cools
+in 0.2s causing condensation are invalid. The air pocket inside a steam-lled vessel is the
+variable least aected by the external ame cut in the sub-second timeframe. The steam
+release is mechanical: the release of a thermal grip.
+
+3
+
+3.3
+
+The Low-Temperature Kinetic Anomaly (Video S5)
+
+Methodology: An infusion of Matricaria chamomilla (chamomile), Foeniculum vulgare
+(fennel), and Origanum majorana (marjoram) was subjected to a localized heat source
+while monitoring bulk temperature.
+
+The Anomaly: At a bulk temperature well below 100°C (veried via digital probe),
+the system exhibited distinct surface turbulence and, critically, visible vapor release.
+
+Thermodynamic Violation: Standard thermodynamics dictates that water at 1
+atm pressure and sub-boiling temperature is far below the phase transition threshold.
+Vapor pressure is insucient to generate visible steam plumes or turbulent boiling-like
+convection currents.
+
+Analysis: The presence of kinetic torque (movement) and mass ejection (vapor) at
+such low thermal states proves that the Thermal Attraction force operates independently
+of the bulk boiling point. The gradient (∇T ) extracts matter and performs work long
+before the system reaches the classical thermodynamic criteria for phase change.
+
+4
+
+Microscopic Universality (Video S6)
+
+To conrm that these eects are fundamental eld interactions and not merely uid
+dynamics:
+
+Methodology: Wet and dry saliva samples were exposed to a focused infrared light
+source (150W) under microscopy (600x2000x).
+
+Observation:
+
+Both uid suspensions and dry solid particles exhibited immediate
+
+directional movement toward the thermal gradient.
+
+Conclusion: The response of solid matter conrms that Thermal Attraction operates
+independently of uid convection currents or surface tension, suggesting a fundamental
+attractive property of heat on matter.
+
+5
+
+Discussion: The Thermal Torque Cycle
+
+We propose a revised thermodynamic cycle based on Attraction rather than Dispersion:
+1.
+
+Negentropic Phase: Matter is attracted to the heat source (The Climb - Videos
+S1, S2).
+
+2.
+
+Saturation/Extraction: Matter absorbs energy.
+
+In low-temp scenarios (Video
+
+S5), the attractive force is sucient to strip vapor and particles from the bulk even
+without global boiling.
+3.
+
+Torque Conversion (Repulsion): Upon saturation, the attractive force converts
+into kinetic torque (Boiling/Ejection).
+
+6
+
+Conclusion
+
+The empirical evidences presentedmatter climbing against gravity (Videos S1, S2),
+ows opposing Marangoni predictions, the instantaneous cessation of work upon gradient
+removal (Videos S3, S4), the observation of kinetic work and vapor at low temperatures
+
+4
+
+(Video S5), and the observation of dry matter moving towards a heat source (Video S6)
+falsify the Second Law of Thermodynamics' claim that heat is solely a dispersive agent.
+Heat is an active, ordering, and attractive force.
+
+References
+[1] Clausius, R. (1865). The Mechanical Theory of Heat  with its Applications to the
+
+Steam Engine and to Physical Properties of Bodies. London: John van Voorst.
+
+[2] Boltzmann, L. (1877). Über die Beziehung zwischen dem zweiten Hauptsatze der
+mechanischen Wärmetheorie und der Wahrscheinlichkeitsrechnung. Wiener Berichte,
+76, 373435.
+[3] Prigogine, I. (1978). Time, Structure, and Fluctuations. Science, 201(4358), 777785.
+[4] Scriven, L. E., & Sternling, C. V. (1960). The Marangoni Eects. Nature, 187, 186
+188.
+[5] Planck, M. (1926). Treatise on Thermodynamics. Dover Publications.
+[6] Maxwell, J. C. (1871). Theory of Heat. Longmans, Green, and Co.
+
+5
+
+

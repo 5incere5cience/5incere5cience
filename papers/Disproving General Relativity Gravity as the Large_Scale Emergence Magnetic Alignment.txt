@@ -1,0 +1,127 @@
+Gravity as the Large-Scale Emergence of Dual Attractive
+Forces: 3D Magnetism and Thermal Gradients
+By Dr. André Guzzon (MD)
+
+Abstract
+This experimental physics paper refutes General Relativity (GR) and Thermodynamics by
+empirical tests that contradicted its predictions. We demonstrate that GR’s foundational
+dependency, Maxwell’s Equations, fails in three-dimensional systems where magnetic
+repulsion is geometrically impossible and we provide empirical evidence that heat is a
+vectorial attractive force capable of generating negentropy.
+Our experiments reveal that "Gravity" is the macroscopic manifestation of two distinct
+attractive forces: (1) 3D Magnetic Alignment, which governs solid bodies and precludes
+stable repulsion, and (2) Thermal Attraction, demonstrated by the "antigravitational" flow
+of fluids toward heat sources. We present a new cosmological framework where elliptical
+orbits are resolved not as a product of curved spacetime, but as the dynamic equilibrium
+between magnetic alignment (structural lock) and thermal attraction (orbital pull).
+1. Introduction: The Hierarchical Structure of Modern Physics:
+Modern physics is hierarchical, with each theory built upon the framework beneath it:
+Maxwell (1865) → Special Relativity (1905) → General Relativity (1915).
+Einstein acknowledged that Special Relativity owes its origins to Maxwell's equations.
+Consequently, if Maxwell's framework fails empirically in three-dimensional systems, the
+justification for relativity evaporates. This work demonstrates that failure.
+2. Maxwell's Framework and Einstein's Dependency: Maxwell's Equations treat magnetic
+attraction and repulsion as perfectly symmetric:
+
+The curl operator predicts a 1:1 ratio between attraction and repulsion in free systems. Einstein
+abandoned absolute time and space (SR) specifically to preserve this framework when faced
+with contradictions in Newtonian mechanics. If Maxwell fails, the hierarchical tower of SR and
+GR collapses.
+
+3. Experiment 1: Rectangular Magnets and the 7:1 Asymmetry: Testing two N52 neodymium
+magnets in 64 configurations revealed a fundamental asymmetry:
+
+Ratio: Attraction : Repulsion = 7 : 1.
+Repulsion exists only as a transient corrective mechanism
+rotation toward attraction.
+
+inducing
+
+4. Experiment 2: Spherical Magnets: In spherical systems with full 3D rotational freedom,
+stable repulsion is geometrically impossible (Video S1). Spheres oscillate until they snap into
+attraction. Cosmic bodies, being spherical and frictionless, must resolve every magnetic
+interaction into attraction or orbital equilibrium.
+5. The Dimensional Distinction:
+
+Quantum Mechanics (2D): Operates in planar/constrained regimes (orbitals, detector planes) where
+full 3D torque cannot operate, allowing Maxwell’s symmetry to hold.
+General Relativity (3D): Attempts to apply the broken Maxwellian symmetry to volumetric 3D reality
+requires the "fictional" geometrization of spacetime to compensate.
+6. Thermal Attraction and the Post-Einsteinian Reality
+6.1 Lipid Demonstration experiment: using an inclined plane and a heat source
+beneath it (Video S2) show matter (butter) climbing upward against gravity toward the heat
+source. This confirms that an active thermal gradient creates a directional attractive force.
+6.1.1 The
+Thermodynamics
+
+"Iceberg"
+
+Experiment:
+
+Refutation
+
+of
+
+the
+
+Second
+
+Law
+
+of
+
+To rigorously test the interaction between thermal gradients and gravity, we designed
+the "Iceberg Experiment" (Video S3). A stainless-steel pan containing water was inclined and
+placed in a freezer, fixing a solid ice block at the lowest gravitational potential. Upon removal, a
+ping-pong ball was used to mechanically verify the negative gradient (downward slope) before
+and after the experiment to rule out deformation or levelling errors.
+The pan was then placed on a stove with a high-intensity flame directed at the highest point of
+the incline. The experiment ran for over 18 minutes (The original video has been sped up by
+5.0x). Observations:
+1. Gravitational Baseline: Initial meltwater obeyed standard mechanics, flowing
+downward.
+2. Thermal Reversal (Negentropy): As the thermal gradient intensified, the fluid flow
+reversed. Water migrated upward against the gravitational vector, effectively "climbing"
+the slope to reach the heat source.
+
+3. Thermodynamic Popper’s Falsification: The system maintained a stable dual-state:
+violent boiling occurred at the peak (heat source) while the ice block remained solid at
+the base, separated by only 15 centimeters and always showing continuity between the
+frozen and boiling water.
+4. Marangoni effect cannot explain this upward migration: According to surface
+tension gradients, fluids flow from regions of low surface tension (high temperature) to
+regions of high surface tension (low temperature). In our setup, the Marangoni vector is
+directed downward, acting in conjunction with gravity to push the fluid away from the
+heat source. The fact that the fluid migrates upward confirms the existence of a third,
+dominant vector—Thermal Attraction—capable of overcoming both gravitational
+potential and the thermocapillary Marangoni flow.
+Conclusion: this behavior violates the Second Law of Thermodynamics. Rather than dissipating
+into uniform thermal equilibrium (entropy increase), the thermal gradient actively organized
+matter against gravity. The heat source functioned as an attractive ordering force, creating a
+low-entropy flow that overpowered gravitational potential.
+6.2: Leidenfrost Orbits and the Elliptical Resolution
+As water droplets reached the peak thermal gradient, they did not evaporate instantly but entered stable
+orbital patterns (Leidenfrost effect). This behavior models the macroscopic mechanics of cosmic systems.
+We propose that cosmological orbits are elliptical because they are the product of two competing
+attractive forces, not a single gravitational curve:
+1. 3D Magnetic Alignment: This force seeks rigid structural locking and alignment (as seen in the
+spherical magnet experiments).
+2. Thermal Attraction: This force pulls the orbiting body toward the star (the heat source).
+An elliptical orbit is the "breathing" pattern of a celestial body oscillating between the magnetic impulse to
+align (torque) and the thermal impulse to merge (attraction). This eliminates the need for "initial velocity"
+assumptions or "Dark Matter" halos to explain galactic rotation curves.
+
+7. Conclusion: Hierarchical Collapse
+The logic is irrefutable, and the evidence is empirical:
+1. Maxwell fails in 3D, making spherical repulsion impossible and mandating universal aggregation.
+2. The Second Law of Thermodynamics is refuted, as heat acts as a negentropic, attractive force
+that can order matter against gravity.
+3. General Relativity is obsolete, as it fails to account for the thermal vector in gravity and relies on
+a broken magnetic symmetry.
+The universe requires no deep imaginative "spacetime curvature", "dark matter", or "dark energy". It
+requires only 3D magnetic alignment, thermal attraction, and rotational freedom.
+
+DOI: [https://doi.org/10.5281/zenodo.17884248]
+Contact: andre.guzzon@ufrgs.br
+
+

@@ -1,0 +1,204 @@
+Anomalous Anti-Gravitational Kinetic Flow in Lipid
+Emulsions Induced by Thermal Gradients: Vectorial
+Evidence of Heat as an Attractive Force
+
+Dr. Andre Guzzon (MD)
+Independent Researcher, Brazil
+
+andre.guzzon@ufrgs.br
+
+December 2025
+
+Abstract
+Classical thermodynamics and uid mechanics dictate that a solid lipid emulsion, upon undergoing phase transition to liquid via heat, should succumb to gravitational force on an inclined plane,
+owing downward along the path of least resistance. This study presents empirical evidence contradicting this fundamental expectation. Using controlled time-lapse photography (25 minutes)
+on a validated inclined plane, distinct blocks of dairy butter were subjected to a localized, noncontact heat source (T < 65°C). We observed a consistent maximum Anti-Gravitational Climb,
+where the emulsion climbed upward against the gravitational vector, directly towards the heat
+source. Furthermore, we documented a Vectorial Split phenomenon, where a single sample exhibited simultaneous upward (thermal attraction) and downward (gravitational pull) movement,
+eectively mapping the event horizon where attractive thermal force overcomes gravitational
+acceleration. These ndings suggest that heat functions not merely as a dispersive energy but
+as an active attractive force, oering a new explanatory model for uid dynamics, including the
+mechanics of boiling.
+
+1
+
+1
+
+Introduction
+
+1.1
+
+The Classical Expectation
+
+In standard physics, applying heat to a solid lipid on an incline causes melting (phase transition).
+Gravity then acts on the uid mass, causing it to ow downwards [1, 2]. Any movement against
+gravity is typically attributed to capillary action or Marangoni ows (surface tension gradients)
+[3, 4]. However, these forces generally aect surface layers, not the bulk transport of signicant
+mass against a steep incline.
+
+1.2
+
+The Hypothesis
+
+We posit that thermal energy acts as an attractive eld. Matter possesses an inherent tropism
+towards energy sources. In this model, the movement of a uid is a vector sum of Gravitational
+
+Pull (Down) vs. Thermal Attraction (Up).
+
+2
+
+Methodology
+
+2.1
+
+Apparatus
+
+Surface:
+
+Tramontina Triple-Bottom Stainless Steel baking tray and frying pan (chosen for
+
+uniform heat distribution and material consistency).
+
+Geometry:
+
+ Control: Flat plane (veried with spirit level).
+ Variable: Inclined plane (angle veried with spirit level to ensure a distinct gravitational gradient).
+
+Sample: Standard dairy butter blocks, positioned at varying distances from the heat focus.
+2.2
+
+Thermal Protocol
+
+Source: Gas ame positioned beneath the steel surface. The ame did not touch the surface
+directly to prevent localized scorching and ensure distinct thermal gradients.
+
+Temperature:
+
+Surface temperature monitored, reaching a maximum of 65°C. This low-
+
+temperature threshold is critical to rule out violent boiling or Leidenfrost eects as propellants.
+
+2.3
+
+Imaging
+
+Duration: 25-minute continuous time-lapse observation.
+Resolution: High-denition macro videography.
+
+2
+
+3
+
+Results
+
+3.1
+
+The Anti-Gravitational Climb
+
+Upon reaching the phase transition (melting), the lipid mass behavior was strictly dependent
+on its proximity to the heat source.
+
+Unlike a standard gravitational ow, the butter blocks
+
+positioned within the eective attractive radius exhibited a distinct ow up the incline, moving
+directly against the gravitational vector towards the thermal focus.
+
+Proximity Dependence: The movement was not uniform across the plane; distal blocks
+remained stationary or unaected, while proximal blocks overcame gravity, conrming that the
+anti-gravitational force is spatially localized and distance-dependent.
+
+Observed Acceleration: While velocity was not quantitatively measured, visual observation conrms a distinct acceleration of the lipid mass as it approached the heat source.
+
+This
+
+behavior contradicts the constant deceleration expected of an object moving against gravity
+without active propulsion.
+
+3.2
+
+The Vectorial Split (The Tug of War)
+
+Samples positioned at the threshold distance exhibited a distinct duality:
+
+ The proximal portion of the mass sheared o and moved UP (Thermal Force >
+Gravitational Force).
+
+ The distal portion remained stationary or moved slightly DOWN (Gravitational
+Force > Thermal Force).
+
+ The furthest block (distal control) remained solid, conrming the localization of the
+thermal eld.
+
+3.3
+
+Negative Evidence from Distal Zones
+
+Crucially, the distal control blocks, positioned lower on the incline, remained entirely solid
+throughout the experiment. This absence of phase transition in the lower zones serves as negative
+evidence against downward thermal propagation. If heat were simply radiating or owing passively with gravity, the lower blocks should have eventually melted. Their solid state conrms
+that the thermal force did not descend; rather, it was exclusively attractive, pulling only the
+proximal mass upward while leaving the distal, lower mass gravitationally bound and thermally
+isolated.
+
+4
+4.1
+
+Discussion
+Refuting Melting and Sliding
+
+If the standard model were correct, the reduction in viscosity (phase transition from solid to
+liquid) would instantly result in a downward slide due to gravity.
+
+The observation of mass
+
+climbing the slope proves that a force exists and that in the observed zone.
+
+3
+
+4.2
+
+Reinterpreting Boiling Dynamics
+
+This experiment provides a macro-scale model for the mechanics of boiling water [5]. We propose
+that the chaotic movement of boiling water is not merely kinetic agitation, but a collective rush
+of water molecules being attracted to the heat source at the bottom of the vessel. This explains
+why, when the heat source is removed, the water immediately sits or stills. The attractive force
+has ceased.
+
+If it were purely kinetic momentum, the turbulence should persist longer due to
+
+inertia.
+
+5
+
+Conclusion
+
+This experiment demonstrates that heat functions as an attractive vector capable of overcoming
+gravity.
+
+The Anti-Gravitational Climb of the butter is a repeatable, empirical phenomenon
+
+that demands a re-evaluation of thermodynamic transport laws. We conclude that uids move
+towards heat not because of density dierentials alone (convection), but because Heat
+
+is an
+
+Attractor.
+
+Supplementary Material
+Video S1: Both experiments detailed, i.e., on at and on inclined plane.
+
+References
+[1] Batchelor, G. K. (2000). An Introduction to Fluid Dynamics. Cambridge University Press.
+[2] Landau, L. D., & Lifshitz, E. M. (1987). Fluid Mechanics (Volume 6 of Course of Theoretical
+Physics). Pergamon Press.
+[3] Marangoni, C. (1871). Über die Ausbreitung der Tropfen einer Flüssigkeit auf der Oberäche
+einer anderen. Annalen der Physik.
+[4] Scriven, L. E., & Sternling, C. V. (1960). The Marangoni Eects. Nature, 187, 186188.
+[5] Cengel, Y. A., & Ghajar, A. J. (2020). Heat and Mass Transfer: Fundamentals and Applica-
+
+tions. McGraw-Hill Education.
+
+4
+
+

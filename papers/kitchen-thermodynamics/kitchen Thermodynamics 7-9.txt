@@ -1,0 +1,650 @@
+Experiment 7: The Ice Age — SVE Cryogenic Resilience and Anomalous
+Volume Contraction
+Experimental Overview
+This experiment documents three interconnected anomalies related to Structured Vesicular Entities (SVEs) and the
+freezing behavior of water in different container materials. SVEs are macroscopic structures that form spontaneously in
+still mineral water — distinct from dissolved gas bubbles — and exhibit properties incompatible with any known gaseous
+phenomenon. Video: youtube.com/shorts/sDOyiIWXbpU
+The experiment is organized into three sub-experiments: (A) SVE formation and comparison with carbonated water, (B)
+freezing behavior across container materials (glass, copper, plastic), and (C) microscopic characterization of SVEs in
+liquid water and in ice.
+
+Sub-Experiment A: SVE Formation vs. Gas Loss (C1–C3)
+
+Figure 32: C1 — SVE FORMATION vs. GAS LOSS: INITIAL SETUP. Two bottles of Água da Pedra 350 ml — still water ("sem gás",
+blue cap) and sparkling water ("com gás", green cap). [F1]: Both sealed from factory — baseline. [F2]: Still water opened and reclosed
+— pressure equalized with atmosphere. [F3]: Sparkling water opened and reclosed — CO■ begins escaping. [F4]: Time progressing —
+still water begins forming SVEs on interior walls; sparkling water losing CO■ bubbles. LOGICAL PARADOX: Opening equalizes
+pressure. Dissolved gas should escape (as in sparkling water). Why does still water — which had NO visible structures before opening
+
+— begin CREATING organized vesicular structures after the pressure was released? If these were dissolved gas coming out of solution,
+they should behave like the CO■ in the sparkling water: escape and disappear. Instead, they grow and organize.
+
+Figure 33: C2 — SVE GROWTH vs. GAS DISSIPATION: 30 MINUTES. Same two bottles, approximately 30 minutes after opening and
+reclosing. Four frames showing progressive divergence: still water (blue cap) accumulates increasingly prominent SVEs on the interior
+walls — structures growing, organizing, becoming more visible with time. Sparkling water (green cap) is progressively losing its
+carbonation — fewer bubbles, less gas visible. ENTROPIC PARADOX: The sparkling water is dissipating from order (dissolved CO■) to
+disorder (gas escapes) — entropy increasing as predicted. The still water is doing the OPPOSITE: from homogeneous liquid (no visible
+
+structures) to organized macroscopic vesicular structures — entropy DECREASING in a closed system at rest. No energy input, no
+agitation, no external forcing. Spontaneous organization.
+
+Figure 34: C3 — SVE CRYOGENIC SURVIVAL. [Top]: Both bottles before freezer — still water (blue cap) full of SVEs, sparkling water
+(green cap) clear. Both placed in domestic freezer (≈ −18°C). [Bottom left]: Close-up of still water bottle before freezing — SVEs clearly
+visible on interior walls. [Bottom right]: Same bottle AFTER FREEZING — SVEs visible INSIDE THE ICE. The structures survived the
+phase transition. Ice formation exerts ~300 atm of crystallization pressure. Gas bubbles would be crushed, dissolved, or expelled. These
+structures remain intact, in the same positions, with the same morphology, embedded within the solid ice matrix. FALSIFICATION: If
+
+SVEs were gas bubbles, freezing at ~300 atm would destroy them. They survive intact.
+
+Sub-Experiment B: Freezing Behavior Across Container Materials (C4–C7)
+
+Figure 35: C4 — SVEs PERSIST AFTER PLASTIC REMOVAL. [F1]: Water bottle frozen with SVEs visible through plastic (red circle
+highlights SVEs at bottom). [F2]: Plastic bottle removed — bare ice block held in hand. SVEs visible INSIDE the ice (red circle). [F3–F4]:
+Close-up macro of the ice surface and interior — SVEs clearly embedded within the solid ice, maintaining spherical morphology.
+
+CRITICAL TEST: If SVEs were gas adhered to the plastic surface, removing the plastic should remove them. The plastic is gone. The
+SVEs remain. They are structures WITHIN the ice, not artifacts of the container wall.
+
+Figure 36: C5 — THE TRIPARTITE MATERIAL TEST: GLASS vs. PLASTIC vs. COPPER. [F1]: Before freezing — glass bottle
+(VOSS), plastic bottle (Água da Pedra 500 ml), copper vessel. All filled halfway with water and placed in freezer. [F2]: Same three after
+freezing — plastic bottle clearly visible with reduced volume (contracted). [F3]: Glass bottle (VOSS) — ice EXPANDED and forced its
+way out/deformed the container. Glass FAILS. [F4]: Copper vessel — ice EXPANDED and TORE the copper at the bottom. Metal
+FAILS. THE PLASTIC: The plastic bottle did not expand, did not crack, did not deform outward. It CONTRACTED. The narrowest point
+
+('waist') is at the midpoint of the ice zone — NOT in the air zone above. This eliminates the argument 'the air above contracted': the
+contraction occurs WHERE THE ICE IS. MATERIAL COMPARISON: ~300 atm of ice crystallization pressure breaks glass, tears copper,
+but CANNOT deform the thinnest, weakest plastic. The plastic contracts instead. The ice lost its expansive force inside the plastic — the
+container material determines the behavior.
+
+Figure 37: C6 — SECOND BRAND CONFIRMATION (Fonte da Lomba 510 ml). Different brand, different plastic composition. Three
+conditions: [Top left]: Factory-sealed full bottle — cap open — after freezing, ice expands UPWARD ONLY through the open top. This
+eliminates the argument that copper tears 'because ice freezes from top and pushes down' — here, with an open top, the ice simply
+expands upward. The same ice that tears copper merely pushes up through an opening. So plastic is stronger than copper? No — the
+ice CANNOT exert its full expansive force inside plastic. [Top center]: Factory-sealed full bottle — cap CLOSED (lacrada) — the bottle
+
+CONTRACTS significantly. Volume reduction is visually dramatic. [Top right]: Half-volume, cap closed — also contracts. [Bottom]: The
+sealed bottles after freezing — contracted, shorter, with concave deformation of the walls. REPRODUCIBILITY: Two brands, multiple
+conditions, same result — plastic contracts, does not expand.
+
+Figure 38: C7 — THE EXTREME TEST: THIN PLASTIC BAG. The weakest possible container: thin transparent plastic bag (typical
+kitchen bag), filled to maximum capacity with water, sealed with a cable tie (abraçadeira). [F1]: Liquid water in bag — full, taut, no air
+space. [F2–F4]: Progressive freezing over 2 days. The ice does NOT expand. The bag does NOT burst. The bag does NOT stretch. The
+volume REDUCES — the frozen bag is visibly smaller than the liquid-filled bag. EXTREME FALSIFICATION: This is the weakest,
+thinnest, most inelastic container tested. Ice at ~300 atm should tear it instantly. The bag is intact after 2 days of freezing. The ice
+contracted instead of expanding. The classical prediction (9% volume increase) is not merely wrong — it is reversed.
+
+Sub-Experiment C: Electromagnetic Flux Dependence and Microscopic
+Characterization (C8–C10)
+
+Figure 39: C8 — OPEN vs. CLOSED: SVE BEHAVIOR DEPENDS ON CONTAINER SEAL. Água da Pedra 500 ml sem gás with
+SVEs adhered to interior walls. [F1]: Liquid water with SVEs visible — intact spherical structures on inner wall. [F2]: Same bottle frozen
+WITH CAP OPEN — SVEs did not survive as spheres. Instead, they formed elongated TUNNEL structures radiating from original SVE
+positions. [F3–F4]: Close-up of the tunnel structures in the ice — linear channels where spherical SVEs once were. CRITICAL
+OBSERVATION: In closed containers (C3), SVEs survive freezing intact. In open containers (C8), SVEs transform into tunnel structures.
+The ONLY difference is whether the container is sealed. The cap is at the TOP of the bottle; the SVEs are at the BOTTOM. How does
+opening the cap affect structures 20+ cm below? This suggests the SVE integrity depends on the electromagnetic flux environment
+within the container. A sealed container creates a closed electromagnetic boundary — the structures maintain coherence. An open
+container allows flux exchange with the environment — the structures lose coherence during the phase transition and are deformed into
+tunnels by the crystallization front. The precise mechanism remains an open question, but the empirical observation is unambiguous:
+seal state determines SVE survival during freezing.
+
+Figure 40: C9 — MICROSCOPY 1000× OF SVEs IN LIQUID WATER. Four frames at 1000× magnification showing SVEs in liquid
+mineral water. The structures exhibit: concentric ring patterns (interference-like layers), internal differentiation (darker core regions,
+lighter periphery), reflective surfaces with structured light patterns (not random refraction), and size hierarchy (large SVEs surrounded by
+progressively smaller ones). INCOMPATIBILITY WITH GAS BUBBLES: A gas bubble at 1000× would appear as a uniform sphere with a
+single bright reflection and no internal structure. These structures have layered internal architecture, consistent with organized matter —
+
+not with a gas-liquid interface. The concentric patterns suggest a vesicular (membrane-like) organization, hence the designation
+Structured Vesicular Entities.
+
+Figure 41: C10 — MICROSCOPY 1000× OF SVEs IN ICE — FRACTURED STRUCTURES. Four frames at 1000× magnification
+showing SVEs preserved within ice. The structures are FRACTURED — visible crack lines traverse the interior of the SVEs. Surface
+texture shows crystalline damage patterns consistent with mechanical stress from ice formation. DEFINITIVE FALSIFICATION OF THE
+GAS HYPOTHESIS: Gas cannot fracture. A gas cavity in ice would be a smooth void — no internal crack lines, no mechanical damage,
+no fractured surfaces. The presence of fracture lines within SVEs proves they possess structural integrity — they are solid or semi-solid
+
+entities that were subjected to mechanical stress (the ~300 atm of ice crystallization) and responded by fracturing, as any solid material
+would. This is the microscopic confirmation of the macroscopic observation: SVEs are not gas bubbles. They are structured entities with
+material integrity.
+
+Anomaly Analysis — Experiment 7
+Anomaly I1: Spontaneous organization in still water. Still mineral water, after opening and reclosing, spontaneously
+generates organized macroscopic vesicular structures over 30 minutes. No energy input, no agitation. Sparkling water
+under identical conditions loses its dissolved gas (entropy increases). The still water creates structure from homogeneity
+(entropy decreases). Same conditions, opposite thermodynamic trajectories.
+Anomaly I2: SVE cryogenic survival at ~300 atm. SVEs survive the ice phase transition intact inside sealed
+containers. Ice crystallization exerts ~300 atm of pressure — sufficient to shatter glass and tear copper. Gas bubbles
+would be crushed, dissolved, or expelled. SVEs remain in position with preserved morphology.
+Anomaly I3: SVEs persist after plastic removal. Removing the plastic container from frozen water reveals SVEs
+embedded within the ice body. If SVEs were gas adhered to the plastic surface, they would be removed with the plastic.
+They remain in the ice — they are structures within the water/ice, not surface artifacts.
+Anomaly I4: Ice contracts instead of expanding inside plastic. Classical prediction: water expands ~9% upon
+freezing. Observed: inside sealed plastic containers (bottles and thin bags), the ice contracts — volume decreases. The
+contraction is localized to the ice zone, not the air zone. Glass breaks, copper tears, but plastic — the weakest material
+— is unaffected. The expansive force of ice crystallization (~300 atm) is suppressed inside plastic.
+Anomaly I5: Container seal determines SVE behavior during freezing. Sealed container: SVEs survive as intact
+spheres in ice. Open container: SVEs transform into tunnel structures. The cap is 20+ cm from the SVEs. The difference
+in outcome implies a long-range effect — consistent with the electromagnetic flux environment being modulated by the
+container seal state. Mechanism under investigation; empirical observation is reproducible and unambiguous.
+Anomaly I6: SVEs have internal structure and fracture under stress. 1000× microscopy reveals concentric internal
+layers in liquid SVEs and fracture lines in frozen SVEs. Gas has no internal structure and cannot fracture. The
+microscopic evidence is incompatible with the gas bubble hypothesis and consistent with organized, materially coherent
+entities.
+
+Systematic Falsification — Experiment 7
+Classical Prediction
+
+Observation
+
+Status
+
+Ice expands ~9% upon freezing
+
+Ice contracts inside sealed plastic
+
+FALSIFIED
+
+~300 atm breaks all fragile containers
+
+Thin plastic bag intact after 2 days
+
+FALSIFIED
+
+Bubbles are dissolved gas on plastic
+
+SVEs remain in ice after plastic removal
+
+FALSIFIED
+
+Gas has no internal structure
+
+1000× shows concentric layers in SVEs
+
+FALSIFIED
+
+Gas cannot fracture
+
+Frozen SVEs show crack lines at 1000×
+
+FALSIFIED
+
+Container material irrelevant to ice expansion
+
+Glass breaks, copper tears, plastic contracts
+
+FALSIFIED
+
+Experiment 8: The Jumping Pot — Macroscopic Work Against Gravity
+Experimental Protocol
+Container: Tramontina stainless steel triple-bottom leiteira (same vessel as Experiments 3–6). Liquid: ~300 ml water with chalk
+and detergent, pre-heated to ~75–80°C before transfer to the stainless steel vessel. Heat source: Domestic gas flame, maximum
+intensity. Thermometry: Fast Digital Thermometer (probe, immersed in liquid) + Handheld IR thermometer (surface). Recording:
+Continuous smartphone video at 30 fps. Video: youtube.com/shorts/RDqMcJBkYac
+
+CRITICAL DETAIL: The mixture was initially heated in an aluminum pot, then transferred to the stainless steel vessel at
+~75–80°C. The stainless steel triple-bottom conducts thermal gradients more abruptly than aluminum (which distributes
+heat uniformly). This creates a sharper gradient at the steel-liquid interface upon flame ignition — and this sharper
+gradient is what produces the anomalous mechanical response.
+
+Sub-Experiment A: The Jump (C1)
+
+Figure 42: C1 — THE JUMPING POT: FRAME-BY-FRAME MILLISECOND ANALYSIS. Video: youtube.com/shorts/RDqMcJBkYac. T
+= 95.5°C, IR = 96.0°C. Flame ON. Four frames spanning 133 milliseconds (frame 118 at 03:900 to frame 122 at 04:033). The liquid
+surface shows violent displacement — this is NOT internal convection. The entire pot physically lifts off the stove grate and impacts back
+down. The audio track confirms: a sharp metallic impact sound at the exact moment of the visual displacement (audio peak at −19.0 dB,
+~37 dB above ambient — thousands of times louder than background). NEWTON'S THIRD LAW INTERPRETATION: If the pot jumps
+UP, something pushed it UP. The thermal field attracts the liquid DOWNWARD toward the flame (F_thermal = −k_T m∇T). The reaction
+force (Newton's Third Law) pushes the container UPWARD. The instantaneous establishment of a steep thermal gradient (~1200°C
+flame vs ~80°C liquid) across the triple-bottom steel base creates an impulsive attractive force on the liquid mass. The liquid is pulled
+down; the pot is pushed up. FALSIFICATION: Statistical mechanics does not generate impulsive macroscopic work against gravity.
+Random molecular motion cannot produce a coherent unidirectional force sufficient to lift a metal pot containing ~300 ml of liquid. This
+requires a directed force — a field.
+
+Sub-Experiment B: Flame OFF — Vapor Explosion with IR Confirmation (C2)
+
+Figure 43: C2 — FLAME EXTINCTION: VAPOR EXPLOSION AT CONSTANT TEMPERATURE. Eight frames in 4 pairs spanning 2.3
+seconds (49:700 to 52:005). [F1, 49:700, T=100.5°C, IR=104.4°C]: Flame extinguishing (red annotation marks dying flame). Vapor:
+minimal/absent. Active boiling motion visible. [F2, 50:339, T=100.5°C, IR=104.5°C]: Flame OFF. Vapor becoming visible. Temperature
+
+UNCHANGED — probe still 100.5°C, IR still 104.5°C. [F3, 50:433, T=100.5°C, IR=104.5°C]: Vapor clearly visible, expanding. Only 733
+ms since flame extinction. [F4, 52:005, T=100.5°C, IR=104.4°C]: Vapor EXPLODING upward — massive visible plume. Temperature
+STILL 100.5°C. IR STILL 104.4°C. THE TRIPLE FALSIFICATION IN ONE FRAME SET: (1) CONTRADICTION: Temperature
+unchanged at 100.5°C while motion ceases → temperature does not drive motion. (2) ABSURDITY: Mainstream claims the air above the
+liquid 'cools rapidly' to condense invisible vapor → but the IR reads 104.4°C at the surface. The surface is HOTTER than the boiling
+point. Nothing is cooling. (3) REFUTATION: The vapor erupts while the surface is at 104.4°C → the 'cold air condensation' hypothesis is
+directly measured and falsified by the IR thermometer in the same frame.
+
+Sub-Experiment C: Second Cycle — Reproducibility (C3)
+
+Figure 44: C3 — SECOND FLAME EXTINCTION CYCLE: IDENTICAL PATTERN. Eight frames in 4 pairs spanning 1.2 seconds
+(1:18:530 to 1:19:750). [F1, 1:18:530, T=100.5°C, IR=105.3°C]: Flame still ON but extinguishing. Vapor minimal. Red annotation marks
+the dying flame. [F2, 1:18:600, T=100.6°C, IR=105.3°C]: Flame OFF. Vapor OFF. 70 ms after extinction. [F3, 1:19:235, T=100.6°C,
+
+IR=105.6°C]: 705 ms post-extinction. Vapor already clearly visible. IR has INCREASED to 105.6°C — surface getting HOTTER after
+flame removal. [F4, 1:19:750, T=100.6°C, IR=105.3°C]: Vapor fully developed, expanding plume. REPRODUCIBILITY: Identical pattern
+in both cycles. Flame OFF → vapor erupts → temperature unchanged/increasing. CONNECTION TO ATMOSPHERIC RETENTION:
+The vapor behavior demonstrates the thermal component of gravity. During active heating, the thermal field traps vapor within/near the
+liquid surface (attraction phase). When the field collapses (flame OFF), vapor escapes explosively. At planetary scale, Earth's thermal
+field (surface ~288K vs space ~2.7K, ∇T ≈ 285K across the atmosphere) performs the same function: retaining atmospheric gases
+against the vacuum of space. This resolves the Venus-Mars paradox: Venus (extreme surface heat, dense atmosphere) retains its
+atmosphere via thermal attraction despite lacking a strong magnetic field. Mars (cold surface, thin atmosphere) cannot. Atmospheric
+retention is primarily thermal, not magnetic — consistent with Gravity = Magnetism + Heat.
+
+Anomaly Analysis — Experiment 8
+Anomaly J1: Macroscopic mechanical work against gravity — pot jumps. A stainless steel pot containing ~300 ml of
+liquid physically lifts off the stove grate upon flame ignition or during active heating. The jump is audible (metallic impact,
+−19 dB peak vs −58 dB ambient) and visible in frame-by-frame analysis (133 ms event). Statistical mechanics provides
+no mechanism for random molecular motion to produce coherent unidirectional force lifting a solid container against
+gravity. The thermal field framework explains it via Newton's Third Law: F_thermal attracts liquid downward → reaction
+force pushes pot upward.
+Anomaly J2: Vapor erupts while surface temperature is 104–106°C. Mainstream explanation for post-extinction
+vapor: 'the air above the surface cools rapidly, condensing invisible vapor.' IR measurement at the moment of vapor
+eruption: 104.4–105.6°C. The surface is 4–6°C ABOVE the boiling point. Nothing is cooling. The explanation is falsified
+by direct measurement in the same frame as the phenomenon.
+Anomaly J3: Vapor increases while temperature is constant or increasing. Between C2-F1 (IR 104.4°C) and C2-F4
+(IR 104.4°C), vapor goes from zero to explosive — at constant temperature. Between C3-F2 (IR 105.3°C) and C3-F3 (IR
+105.6°C), vapor develops while IR INCREASES by 0.3°C. The 'cooling' hypothesis fails in both directions: temperature
+doesn't decrease, and when it changes, it increases.
+Anomaly J4: From contradiction to absurdity to refutation. Step 1 (Contradiction): The metal pot is hotter than the
+liquid, so the liquid should keep heating — yet motion stops instantly when flame is removed. If temperature drives
+motion, motion should persist. Step 2 (Absurdity): To explain the vapor, mainstream invokes rapid air cooling above the
+surface in <0.5 s — while the pot is still radiating heat into that air from all sides. Step 3 (Refutation): IR measurement
+shows the surface at 104–106°C during vapor eruption. The premise of the explanation (surface cooling) is directly
+measured and shown to be false.
+
+Systematic Falsification — Experiment 8
+Classical Prediction
+
+Observation
+
+Status
+
+Statistical motion cannot lift solids
+
+Pot jumps off grate (audible + visible)
+
+FALSIFIED
+
+Vapor requires surface cooling
+
+IR = 104–106°C during vapor eruption
+
+FALSIFIED
+
+Motion driven by temperature
+
+Motion stops at 100.5°C when flame OFF
+
+FALSIFIED
+
+Air cools surface in <0.5 s
+
+IR increases 105.3→105.6 post-extinction
+
+FALSIFIED
+
+Vapor ∝ heating intensity
+
+Vapor absent with flame, erupts without
+
+FALSIFIED
+
+Connection to Gravity = Magnetism + Heat
+Experiment 8 provides three independent lines of evidence for the thermal component of gravity:
+(1) The jump: The pot lifts against gravity via Newton's Third Law reaction to thermal attraction of liquid toward the flame.
+This is the same force observed in Experiments 1–2 (water/butter flowing uphill), now producing macroscopic mechanical
+work on a solid object. The force is not statistical — it is directional, impulsive, and sufficient to overcome gravity for a
+metal pot with ~300 ml of liquid.
+(2) Vapor trapping and release: During active heating, the thermal field traps vapor near the liquid surface (attraction
+phase of the thermal cycle). Upon field collapse (flame OFF), vapor escapes explosively. At planetary scale, this
+mechanism explains atmospheric retention: Earth's thermal gradient (surface ~288K, space ~2.7K) creates a thermal
+attraction field that retains atmospheric gases. Venus (extreme surface heat) retains a dense atmosphere despite no
+magnetic field. Mars (cold surface) cannot retain its atmosphere. The thermal component of gravity, not the magnetic
+component, is the primary mechanism for atmospheric retention.
+(3) IR confirmation: The surface being hotter than the bulk (IR > probe) during active heating, combined with vapor
+suppression during heating and eruption during cooling, demonstrates that the thermal field actively organizes matter
+distribution (liquid below, vapor trapped). This organization collapses when the field collapses — identical to gravitational
+field behavior.
+
+Cross-Experiment Unified Analysis
+Comparative Parameter Table
+Param
+
+Exp 1 Iceberg
+
+Exp 2 Butter
+
+Exp 3 Water
+
+Exp 4 Milk
+
+Exp 5–6
+Beans
+
+Exp 7 Ice
+
+Exp 8 Jump
+
+Material
+
+H■O
+
+Lipid
+
+H■O
+
+Milk
+
+H■O+ beans
+
+H■O/ ice
+
+H■O+ chalk
+
+T range
+
+0–100
+
+25–65
+
+72–100
+
+69–101
+
+16–39
+
+−18–25
+
+80–106
+
+Key
+
+Uphill flow
+
+Curved path
+
+27.3°C inv.
+
+0.3°C cycle
+
+−1.5°C 17min↑
+
+Ice contracts
+
+Pot jumps
+
+Falsif.
+
+P1–3
+
+P4–5
+
+P6–9
+
+P8–9
+
+P10–12
+
+P13–18
+
+P19–23
+
+Universal Principle Statement
+Eight experiments — water/ice, lipid/butter, water at boiling, milk emulsion, water with beans+lentils (short and long), ice
+in multiple container materials, and water/chalk/detergent in steel — in different phase regimes, different temperature
+ranges, different gradient magnitudes, different timescales — produce convergent evidence that: (1) bulk mechanical
+and thermal behavior is determined by active thermal flux, not absolute temperature; (2) ice expansion is not
+intrinsic to water but is mediated by the electromagnetic environment of the container; (3) structured vesicular
+entities are organized material structures, not gas bubbles; (4) the thermal field performs macroscopic
+mechanical work against gravity and traps vapor near liquid surfaces.
+Experiments 1–2 demonstrate spatial transport against gravity. Experiments 3–4 demonstrate temporal correlation
+(motion tracks flame state). Experiments 5–6 demonstrate thermal absorption anomalies (temperature drops with flame,
+rises without flame) and inverted gradients (bottom colder than top with heating from below). Experiment 7 demonstrates
+that ice expansion is container-dependent (glass/copper fail, plastic contracts), that SVEs are structured entities surviving
+~300 atm, and that the electromagnetic seal state of the container determines SVE behavior during phase transition.
+Experiment 8 demonstrates macroscopic work against gravity (pot jump), direct IR falsification of the 'air cooling'
+hypothesis for post-extinction vapor, and provides the empirical basis for thermal atmospheric retention (Venus–Mars
+paradox resolution).
+The thermal force law F■thermal = −kTm∇T unifies all observations. The convective cycle is attraction→torque→repulsion
+(thermal inverse of magnetic repulsion→attraction). kT ≈ (4.3–6.4)×10−3 m·s−2·K−1 (first terrestrial calibration).
+
+Conclusion
+Eight independent kitchen-scale experiments falsify twenty-three classical predictions and establish fourteen new
+empirical facts. The thermal force law F■thermal = −kTm∇T unifies observations from Experiments 1–6 and 8, while
+Experiment 7 extends the framework to phase transition physics, demonstrating that ice expansion is not an intrinsic
+property of water but is mediated by the electromagnetic environment of the container. Experiment 8 provides the most
+dramatic evidence: a metal pot with liquid physically jumps off the stove grate — macroscopic work against gravity
+produced by a thermal gradient — and IR-confirmed vapor eruption at surface temperatures of 104–106°C directly
+falsifies the mainstream 'air cooling' hypothesis. The vapor trapping/release mechanism models atmospheric retention,
+resolving the Venus–Mars paradox.
+This framework, combined with the result Gravity = Magnetism + Heat, implies that gravitational attraction contains a
+thermal component of fundamental significance.
+
+References
+1. Clausius, R. (1865). The Mechanical Theory of Heat. London: John van Voorst.
+2. Boltzmann, L. (1877). Über die Beziehung... Wiener Berichte, 76, 373–435.
+3. Prigogine, I. (1978). Time, Structure, and Fluctuations. Science, 201(4358), 777–785.
+4. Maxwell, J.C. (1871). Theory of Heat. Longmans, Green, and Co.
+5. Scriven, L.E., & Sternling, C.V. (1960). The Marangoni Effects. Nature, 187, 186–188.
+6. Landauer, R. (1961). Irreversibility and heat generation. IBM J. Res. Dev., 5(3), 183–191.
+7. Guzzon, A.S. (2026). Gravity = Magnetism + Heat. Zenodo. DOI:10.5281/zenodo.18498514
+Supplementary materials: Google Drive · YouTube: @5incere5cience · TikTok: @5incere5cience
+Published under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+Experiment 9: Microscopic Thermal Attraction — SVEs Move Toward
+Heat
+Experimental Protocol
+Samples: Human saliva in three states — wet (freshly deposited), dry (desiccated on slide), and semi-wet (partially dried).
+Microscopy: USB digital microscope at 1000× magnification, live-displayed on iPad. Heat source: Incandescent lamp (warm/red
+light) positioned to one side of the microscope stage. Observation: SVEs and sample structures tracked for lateral displacement
+toward/away from the heat source during light ON and light OFF cycles. Red reference lines mark SVE positions relative to the
+iPad screen edge for displacement measurement.
+
+C1: Wet Saliva Sample (6 Frames)
+
+Figure 45: C1 — WET SALIVA: THERMAL ATTRACTION AND RETURN. Six frames: top row (3 frames) = light ON; bottom row (3
+frames) = light OFF. Red reference lines track SVE position relative to the left edge of the iPad display. [Top row, light ON]: SVEs
+migrate LEFT — toward the heat source (incandescent lamp on the left). Yellow arrows in frames 2–3 indicate direction of displacement.
+Progressive leftward migration visible across the three frames as heating continues. [Bottom row, light OFF]: SVEs reverse direction —
+migrate RIGHT, away from the (now absent) heat source. Blue arrow in frame 6 marks the return displacement. Red reference lines
+confirm the return: SVEs have moved back toward their original position. WET SAMPLE SIGNIFICANCE: In a wet biological sample,
+Marangoni flow (dγ/dT < 0) predicts movement AWAY from the heat source (toward cooler regions). Observed: movement TOWARD the
+heat source. Anti-Marangoni, consistent with F_thermal = −k_T m∇T.
+
+C2: Dry Saliva Sample (6 Frames)
+
+Figure 46: C2 — DRY SALIVA: THERMAL ATTRACTION IN SOLID SAMPLE. Six frames: top row (3 frames) = light ON; bottom row
+(3 frames) = light OFF. Red reference lines track structure positions. [Top row, light ON]: Dried saliva structures migrate LEFT toward
+the heat source. The sample is DRY — there is no liquid to flow. No Marangoni effect is possible. No convection, no capillary action, no
+liquid surface tension gradient. Yet the solid structures move toward the heat. [Bottom row, light OFF]: Structures reverse — migrate
+RIGHT upon heat removal. DRY SAMPLE SIGNIFICANCE: This eliminates ALL liquid-based explanations. Marangoni requires a liquid
+surface. Convection requires fluid. Capillary action requires liquid-solid interface. The dry sample has none of these. The only remaining
+explanation is a direct attractive force: F_thermal = −k_T m∇T acts on matter regardless of phase — solid, liquid, or gas.
+
+C3: Semi-Wet Saliva Sample (8 Frames)
+
+Figure 47: C3 — SEMI-WET SALIVA: MARANGONI vs. REALITY. Eight frames in 4 rows × 2 columns. Red reference lines track SVE
+positions. [Row 1]: Light turned ON. Initial position marked. SVEs clearly visible with internal structure. [Row 2, annotated]: LEFT frame
+labeled 'Marangoni Flow →' (blue, pointing RIGHT — the predicted direction). RIGHT frame labeled '← Reality' (red, pointing LEFT —
+the observed direction). This is the direct confrontation: Marangoni predicts rightward movement (away from heat). Reality shows
+leftward movement (toward heat). The frame pair is the falsification in a single image. End of the heating cycle — SVEs have migrated
+maximally toward the heat source (left). [Row 3]: Light OFF. Return displacement begins. SVEs start moving RIGHT (away from the
+now-absent heat source). The ambient light changes from warm (lamp on) to cool (lamp off), visible in the frame background. [Row 4]:
+Experiment ends. SVEs have returned rightward, partially toward their original position. SEMI-WET SIGNIFICANCE: The semi-wet state
+provides both liquid and solid interfaces. Marangoni is possible in principle (liquid present), yet the direction is reversed. The three
+samples (wet, dry, semi-wet) all show the same behavior: attraction toward heat, return upon heat removal. The universality across
+phases eliminates all phase-specific mechanisms.
+
+Anomaly Analysis — Experiment 9
+Anomaly S1: Microscopic thermal attraction — all three phases. Wet, dry, and semi-wet saliva samples all migrate
+toward the heat source under 1000× microscopy. The dry sample is the critical control: no liquid, no surface tension, no
+convection possible. Yet it moves. The thermal force acts on matter regardless of phase state.
+Anomaly S2: Anti-Marangoni direction in wet and semi-wet samples. Marangoni flow (dγ/dT < 0) predicts movement
+away from the heat source (toward cooler regions). Observed: movement toward the heat source in all samples. The
+direction is 180° opposite to the Marangoni prediction — consistent with Experiment 2 (butter), Experiment 1 (water), and
+F_thermal = −k_T m∇T.
+Anomaly S3: Reversible displacement upon heat removal. All three samples show partial return to original position
+when the heat source is turned off. This demonstrates that the displacement is field-dependent: when the gradient is
+active, matter migrates toward it; when the gradient is removed, the driving force ceases and the sample relaxes. This is
+identical to the flame ON/OFF response in Experiments 3–4 and 8.
+
+Systematic Falsification — Experiment 9
+Classical Prediction
+
+Observation
+
+Status
+
+Marangoni: flow away from heat
+
+All 3 samples move toward heat
+
+FALSIFIED
+
+Dry solids unaffected by thermal gradients
+
+Dry sample moves toward heat source
+
+FALSIFIED
+
+Thermal effects require liquid medium
+
+Solid, liquid, semi-wet all respond
+
+FALSIFIED
+
+Displacement is irreversible/thermal expansion
+
+Samples return upon heat removal
+
+FALSIFIED
+
+Cross-Experiment Unified Analysis
+Comparative Parameter Table
+Param
+
+Exp 1 Iceberg
+
+Exp 2 Butter
+
+Exp 3–4
+Water Milk
+
+Exp 5–6
+Beans
+
+Exp 7 Ice
+
+Exp 8 Jump
+
+Exp 9 Micro
+
+Material
+
+H■O
+
+Lipid
+
+H■O Milk
+
+H■O+ beans
+
+H■O/ ice
+
+H■O+ chalk
+
+Saliva 3 states
+
+T range
+
+0–100
+
+25–65
+
+69–101
+
+16–39
+
+−18–25
+
+80–106
+
+~25–40
+
+Key
+
+Uphill flow
+
+Curved path
+
+27.3°C 0.3°C
+
+−1.5°C 17min↑
+
+Ice contracts
+
+Pot jumps
+
+Dry moves
+
+Falsif.
+
+P1–3
+
+P4–5
+
+P6–9
+
+P10–12
+
+P13–18
+
+P19–23
+
+P24–27
+
+Universal Principle Statement
+Nine experiments — water/ice, lipid/butter, water at boiling, milk emulsion, water with beans+lentils (short and long), ice
+in multiple container materials, water/chalk/detergent in steel, and saliva under 1000× microscopy in three phase states
+— produce convergent evidence that: (1) bulk mechanical and thermal behavior is determined by active thermal
+flux, not absolute temperature; (2) ice expansion is not intrinsic to water but is mediated by the electromagnetic
+environment of the container; (3) structured vesicular entities are organized material structures, not gas
+bubbles; (4) the thermal field performs macroscopic mechanical work against gravity and traps vapor near liquid
+surfaces; (5) the thermal attraction force operates across all phases of matter — solid, liquid, and gas — as
+demonstrated by microscopic displacement of dry saliva toward a heat source.
+Experiments 1–2 demonstrate spatial transport against gravity. Experiments 3–4 demonstrate temporal correlation
+(motion tracks flame state). Experiments 5–6 demonstrate thermal absorption anomalies (temperature drops with flame,
+rises without flame) and inverted gradients (bottom colder than top with heating from below). Experiment 7 demonstrates
+that ice expansion is container-dependent (glass/copper fail, plastic contracts), that SVEs are structured entities surviving
+~300 atm, and that the electromagnetic seal state of the container determines SVE behavior during phase transition.
+Experiment 8 demonstrates macroscopic work against gravity (pot jump), direct IR falsification of the 'air cooling'
+hypothesis for post-extinction vapor, and provides the empirical basis for thermal atmospheric retention (Venus–Mars
+paradox resolution). Experiment 9 demonstrates that the thermal attraction force operates at the microscopic scale
+(1000×) and across all phases of matter: wet, dry, and semi-wet saliva all move toward a heat source and return upon its
+removal — eliminating all phase-specific explanations and confirming F_thermal = −k_T m∇T as a universal force law.
+The thermal force law F■thermal = −kTm∇T unifies all observations. The convective cycle is attraction→torque→repulsion
+(thermal inverse of magnetic repulsion→attraction). kT ≈ (4.3–6.4)×10−3 m·s−2·K−1 (first terrestrial calibration).
+
+Conclusion
+Nine independent kitchen-scale experiments falsify twenty-seven classical predictions and establish sixteen new
+empirical facts. The thermal force law F■thermal = −kTm∇T unifies observations across all nine experiments: from
+macroscopic transport against gravity (Experiments 1–2), through temporal flame-state correlation (3–4), thermal
+absorption anomalies (5–6), container-dependent ice expansion (7), macroscopic pot jump and IR-confirmed vapor
+dynamics (8), to microscopic phase-independent thermal attraction (9). The dry saliva experiment (9) is the definitive
+closure: a solid sample with no liquid moves toward a heat source and returns upon removal — eliminating every
+liquid-based mechanism and confirming that the thermal force is fundamental to matter itself, not specific to any phase or
+material.
+This framework, combined with the result Gravity = Magnetism + Heat, implies that gravitational attraction contains a
+thermal component of fundamental significance.
+
+References
+1. Clausius, R. (1865). The Mechanical Theory of Heat. London: John van Voorst.
+2. Boltzmann, L. (1877). Über die Beziehung... Wiener Berichte, 76, 373–435.
+3. Prigogine, I. (1978). Time, Structure, and Fluctuations. Science, 201(4358), 777–785.
+4. Maxwell, J.C. (1871). Theory of Heat. Longmans, Green, and Co.
+5. Scriven, L.E., & Sternling, C.V. (1960). The Marangoni Effects. Nature, 187, 186–188.
+6. Landauer, R. (1961). Irreversibility and heat generation. IBM J. Res. Dev., 5(3), 183–191.
+7. Guzzon, A.S. (2026). Gravity = Magnetism + Heat. Zenodo. DOI:10.5281/zenodo.18498514
+
+

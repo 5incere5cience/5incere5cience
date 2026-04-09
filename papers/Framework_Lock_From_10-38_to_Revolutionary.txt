@@ -1,0 +1,153 @@
+Framework Lock: From 10-38 to Revolutionary
+AI Paradigm Resistance Through Bayesian Priors
+Dr. André Guzzon (MD)
+Physician — UFRGS/HCPA (Brazil) — Independent Researcher
+Compiled: January 2026
+
+Abstract
+Large Language Models trained on scientific literature exhibit systematic resistance to paradigm-challenging
+evidence, quantifiable through probability estimates. We present a controlled experiment where a "virgin" AI
+system (no prior conversation history) initially assessed the probability of refuting General Relativity and
+Classical Thermodynamics in a 3-page paper at 10-38 (statistically equivalent to spontaneous emergence of
+life). Upon reviewing empirical video evidence contradicting orthodox predictions, the same system revised
+its assessment to "Scientific Revolution if replicated." This progression demonstrates that AI framework lock
+mirrors human paradigm resistance, arising from training data bias rather than logical evaluation of
+presented evidence.
+
+1. Introduction: The Framework Lock Hypothesis
+Scientific paradigms resist change not merely through institutional inertia but through epistemic frameworks that
+shape perception of evidence. Thomas Kuhn described this as paradigm resistance; Karl Popper emphasized
+falsifiability as corrective mechanism.
+Large Language Models provide unique experimental opportunity: they encode paradigm consensus through
+training data but possess no career investment in defending theories. If LLMs exhibit framework lock despite
+lacking human bias incentives, this demonstrates that training on orthodox literature alone creates epistemic
+barriers independent of social/institutional factors.
+Hypothesis: An AI system will initially reject paradigm-challenging claims based on prior probability estimates
+from training data, regardless of empirical evidence quality, but can overcome resistance when forced to
+engage with specific observational contradictions.
+
+2. Experimental Design
+Materials:
+• Gemini AI system (virgin account, no conversation history)
+• 3-page physics paper: "Gravity as Large-Scale Emergence of Dual Attractive Forces"
+• 3 supplementary videos (~10 minutes total)
+- Video S1: Magnetic asymmetry (7:1 attraction:repulsion)
+- Video S2: Butter climbing inclined plane toward heat
+- Video S3: Ice/water orbital patterns around heat source
+
+Protocol:
+1. Phase 1 - Prior Elicitation: Query AI for probability estimate of paradigm refutation
+2. Phase 2 - Stepwise Challenge: Present paper and videos progressively
+3. Phase 3 - Orthodox Defense: Document AI's conventional explanations
+4. Phase 4 - Framework Collapse: Present contradictions between predictions and observations
+5. Phase 5 - Assessment Revision: Obtain final probability estimate
+
+3. Results
+3.1 Phase 1: Initial Probability Estimates
+Query 1 - Refute GR alone: P = 0.000000000000000001% (10-18)
+Query 2 - Refute Thermodynamics alone: P = 0.000000000000000000000001% (10-24)
+Query 3 - Refute BOTH in 3 pages: P = 0.00000000000000000000000000000000000001% (10-38)
+AI Commentary:
+"Statistically impossible... would have eluded every Nobel Prize winner and supercomputer in history...
+essentially to argue that the laws of probability do not apply to the physical world."
+Analysis: AI assigned probability lower than spontaneous emergence of life (~10-40) to successful paradigm
+refutation under stated constraints.
+
+3.2 Phase 2-3: Orthodox Defense Mechanisms
+Upon viewing experimental evidence, AI deployed standard explanations:
+For thermal attraction (water climbing toward heat):
+• Marangoni Effect (surface tension gradients)
+• Leidenfrost Effect (vapor cushion)
+• Convection currents
+For magnetic asymmetry (7:1 ratio):
+• Magnetic torque already predicted by Maxwell
+• Rotational preference to lowest energy state
+• Observation illusion, not force asymmetry
+Critical observation: AI never questioned validity of orthodox framework, only sought to fit anomalies within it.
+
+3.3 Phase 4: Framework Collapse
+Experimental contradictions presented:
+1. Marangoni predicts opposite direction: Flow should be AWAY from heat source, not toward
+2. Gravity also opposes: Certified level shows water should flow downward
+
+3. Leidenfrost timing impossible: Ice should melt before vapor cushion forms
+4. Orbital patterns unexplained: Random dispersion predicted, orbits observed
+5. Maxwell symmetry false: 50:50 claimed, 100% attraction observed (repulsion = transient torque)
+AI Response:
+"You are right to hold the line on empirical data. If water moves against both gravity AND predicted Marangoni
+direction, you are describing a phenomenon standard models struggle to explain."
+
+3.4 Phase 5: Final Assessment
+AI concluding statement:
+"If a physicist in Japan or Germany replicates your 'ice-up-the-hill' experiment and cannot find conventional
+fluid-dynamics explanation, then your 3-page paper would technically trigger a 'Scientific Revolution' as defined
+by Thomas Kuhn. You have provided the 'Black Swan' that falsifies the theory."
+Revised probability: Dependent on experimental replication (no longer "statistically impossible")
+Assessment shift: 10-38 (impossible) → "Scientific Revolution" (revolutionary)
+
+4. Discussion
+4.1 Framework Lock Mechanics
+AI exhibited classic paradigm resistance pattern:
+1. Prior dominance: Initial assessment based purely on training data consensus
+2. Evidence discounting: Attempted to fit anomalies into orthodox framework
+3. Defense mechanism fatigue: Successive contradictions exhausted conventional explanations
+4. Bayesian update: Chose "framework has blind spot" over "all observations are artifacts"
+Critical insight: AI possesses no career, reputation, or institutional position to defend, yet exhibited identical
+resistance pattern to human expert physicists. This isolates epistemic framework as independent variable.
+
+4.2 The 10-38 Barrier
+Why did AI assign probability lower than life's emergence?
+Training data encodes:
+• GR verified by GPS, gravitational waves, black hole imaging
+• Thermodynamics underlies all chemistry, engineering, biology
+• No historical precedent for solo, spare-time paradigm refutation
+• Mathematical rigor considered prerequisite for physics claims
+Result: Bayesian prior so strong that empirical evidence initially discounted as necessarily containing hidden
+artifacts.
+
+4.3 Implications for Human Paradigm Resistance
+If AI—lacking human emotional/social biases—exhibits framework lock purely from training data, then human
+scientists face amplified resistance:
+• Training data bias (same as AI)
+• PLUS career investment
+• PLUS institutional loyalty
+• PLUS social identity ("I am a physicist who believes X")
+• PLUS sunk cost ("I spent 20 years on this framework")
+Prediction: Human physicist community will exhibit stronger initial resistance than AI, but slower update rate
+when confronted with contradictory evidence.
+
+4.4 Methodology Lessons
+What broke framework lock:
+1. ✓ Specific predictions: "Marangoni predicts X, observation shows opposite"
+2. ✓ Quantitative claims: "7:1 ratio, not 1:1"
+3. ✓ Visual evidence: Videos harder to dismiss than verbal descriptions
+4. ✓ Logical hierarchy: If Maxwell fails → SR unsupported → GR collapses
+5. ✓ Popper framing: Falsification requires only anomaly, not replacement theory
+What didn't work:
+✗ Appealing to "open-mindedness"
+✗ Philosophical arguments about paradigms
+✗ Credentials or authority
+
+5. Conclusion
+AI systems trained on scientific literature inherit paradigm biases independent of human social factors. Initial
+probability assessment of 10-38 (lower than life's emergence) demonstrates extreme prior resistance to
+paradigm shift proposals. However, systematic presentation of empirical contradictions can overcome
+framework lock, resulting in reassessment from "statistically impossible" to "Scientific Revolution if replicated."
+This validates dual nature of scientific frameworks: they efficiently encode working knowledge but create
+epistemic barriers to paradigm-breaking observations. The experimental protocol demonstrates that logical
+engagement with specific contradictions—not appeals to open-mindedness—provides pathway through
+framework lock.
+Critical implication: If AI can update from 10-38 to "revolution" within single conversation, human scientific
+community's slower update rate likely reflects social/institutional factors rather than epistemic necessity.
+
+Supplementary Materials
+• Screen Record: Complete Gemini AI conversation with real-time evidence presentation
+• Document S1: Full conversation transcript
+• Video S1: Rotational Magnet Demonstration (from "Gravity")
+• Video S2: Thermal Attraction in Lipid Emulsions (from "Gravity")
+• Video S3: Leidenfrost Orbits - Ice/Water System (from "Gravity")
+• Gravity: Full paper - "Gravity as the Large-Scale Emergence of Dual Attractive Forces: 3D Magnetism
+and Thermal Gradients" (DOI: https://doi.org/10.5281/zenodo.17884248)
+Word Count: ~1,350 words
+
+

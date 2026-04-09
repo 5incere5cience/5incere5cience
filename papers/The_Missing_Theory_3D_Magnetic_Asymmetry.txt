@@ -1,185 +1,658 @@
-﻿The Missing Theory: 3D Magnetic Asymmetry and the Dimensional Bifurcation in Electromagnetic Theory 
-Version 2.1 — April 2026 
-Dr. Andre Guzzon, MD 
-Independent Researcher — @5incere5cience 
-andre.guzzon@ufrgs.br 
-Co-authored with Claude (Anthropic), Gemini (Google), DeepSeek 
-Abstract 
-Maxwell's equations describe magnetic interactions with perfect symmetry between attraction and repulsion. This symmetry is empirically correct in two-dimensional constrained systems where rotational degrees of freedom along the third axis are absent. When the Z-axis is introduced, torque converts repulsive configurations into attractive ones. In 2D, torque is geometrically impossible and repulsion is 100% stable. In 3D spherical systems, repulsion is geometrically impossible and attraction is 100% dominant. Between these extremes lies a continuum governed by geometry, material properties, and rotational degrees of freedom — for which no formalized theory exists. This paper documents the dimensional bifurcation, presents the empirical evidence at three points on the continuum, and identifies what remains to be formalized. It does not attempt to resolve the gap — only to demarcate it clearly so that it may serve as an empirical reference for further work. 
-Keywords: electromagnetic theory, Maxwell's equations, magnetic asymmetry, torque dominance, dimensional bifurcation, 3D magnetism, formalization gap
-1. Introduction 
-Maxwell's equations predict perfectly symmetric magnetic interactions. This prediction is correct — for systems constrained to two dimensions. When magnets are free to rotate in three dimensions, the symmetry disappears. This paper documents that transition and shows that no formalized theory describes it. 
-Two identical neodymium magnets flat on a table (2D constrained) behave exactly as Maxwell predicts: one orientation attracts, the rotated orientation repels, and the forces are equal. Repulsion is completely stable. Lift those same magnets into free space (3D), and every repulsive approach triggers torque that rotates them into attraction. With spherical magnets, repulsion is geometrically impossible — 100% of interactions end in attraction. 
-The question is not whether these two regimes exist. They demonstrably do. The question is: where is the theory that describes the transition between them? 
-This paper serves as an empirical reference documenting the phenomenon. The theoretical framework connecting the 2D Maxwell-symmetric extreme to the 3D fully-attractive extreme deserves a dedicated research program. Here, we register what is known, what we discovered, and what remains to be discovered.
-2. The State of the Art: What Existed Before 
-2.1 Maxwell's Framework 
-The force between two magnetic dipoles follows: 
-F ∝ (3(m1·r)(m2·r) − (m1·m2)) / r4 
-This equation is perfectly symmetric: reversing one dipole produces equal magnitude force in the opposite direction. Critically, this formulation assumes static dipole orientations with no rotational degrees of freedom — an instantaneous force calculation at fixed moment. This is, in practice, a 2D description applied without caveat to the 3D world. 
-2.2 What Textbooks Teach 
-The canonical texts — Griffiths (2017), Jackson (1998), Purcell & Morin (2013), and the Feynman Lectures — all derive magnetic forces assuming fixed orientations. None mention rotational degrees of freedom, stability of configurations, or the qualitative difference between constrained and free systems. Students learn "like poles repel, opposite poles attract, forces are equal." Students do not learn: "Repulsion is stable only in 2D; free 3D magnets always rotate to attraction." 
-2.3 What Textbooks Do Not Teach 
-No textbook distinguishes between "2D Maxwellian magnetism" and "3D free-system magnetism." No formalized theory predicts the observed attraction dominance in 3D. No curriculum teaches this bifurcation. No equations predict the ratios observed empirically. The dimensional dependence of magnetic behavior is entirely absent from the pedagogical canon.
-3. The Killer Argument: Why 2D Repulsion Is Stable 
-When confronted with the empirical evidence of 3D attraction dominance, the standard defense is: "Torque is well-known. Obviously free magnets rotate to find attraction." 
-This defense has a fatal flaw. If torque conversion of repulsion to attraction is "obvious" and "well-understood," then the defender must answer a simple question: why is repulsion 100% stable when two flat magnets are constrained to a table surface? 
-The answer: in 2D, the rotational degree of freedom that would enable torque conversion simply does not exist. The Z-axis is not available. Torque around the vertical axis is not "weak" or "negligible" — it is geometrically impossible. There is no physical pathway for the magnet to rotate from repulsion to attraction without leaving the 2D plane. 
-This reveals the core finding: torque is not a correction to Maxwell's equations. It is a qualitatively different physical mechanism that activates only when a new degree of freedom becomes available. The transition from 2D to 3D is not continuous — it is a dimensional activation event. And the physics of that activation has never been formalized.
-4. The Empirical Evidence: Three Points on the Continuum 
-4.1 Experimental Setup 
-Two identical rectangular neodymium magnets (commercially available, purchased online) with six labeled faces (1, 2 = poles; 3, 4, 5, 6 = sides) were tested across all 64 possible face-to-face orientation combinations. One magnet was placed on a flat surface, free to move; the second was approached slowly. All interactions were recorded on video (Zenodo: 10.5281/zenodo.18343158). 
-4.2 Regime A — 2D Constrained 
-Both magnets flat on the table, pole faces vertical. The system is effectively 2D. Approaching with opposite poles: stable attraction. Approaching with like poles: stable repulsion. The free magnet slides away without rotating. Maxwell's prediction is confirmed exactly. Ratio: 32 attraction : 32 repulsion. 
-4.3 Regime B — 3D Rectangular 
-When the free magnet has rotational freedom, results change dramatically. Of the 64 tested combinations: 
-• 40 configurations: Direct attraction (opposite poles facing) 
-• 16 configurations: Initial repulsion converted to attraction via torque (magnet flips or rotates) 
-• 8 configurations: Sustained repulsion (like poles, approach within the ±45° stability cone) 
-The 8 sustained repulsions survive only within approximately ±45° of the direct pole-to-pole axis. Outside this cone — the remaining ~270° of angular space — torque converts repulsion to attraction. Effective ratio: ~7:1 (56 attractive : 8 repulsive). 
-4.4 Regime C — 3D Spherical 
-A spherical magnet has no flat faces and no preferred orientation axis. Every approach angle offers full rotational freedom. The stability cone that preserves repulsion in rectangular magnets shrinks to zero solid angle. Result: 100% attraction. Repulsion is geometrically impossible. 
-4.5 The Continuum 
-Table 1: Dimensional Continuum of Magnetic Behavior
-Regime 
-	Degrees of 
-Freedom
-	Torque 
-Available?
-	Attraction : 
-Repulsion
-	Theory 
-Status
-	2D Flat 
-(constrained)
-	Translation 
-only
-	No 
-(Z-axis absent)
-	32 : 32 
-(symmetric)
-	Maxwell: 
-Complete
-	3D Rectangular 
-(partial freedom)
-	Translation + 
-partial rotation
-	Yes 
-(geometry 
-limited)
-	~56 : 8 
-(~7:1)
-	NO THEORY 
-EXISTS
-	
+The Missing Theory: 3D Magnetic Asymmetry and the
+Epistemological Duplicity in Electromagnetic Theory
+Dr. André Guzzon
+Independent Researcher
+andre.guzzon@ufrgs.br
+January 2026
 
+Abstract
+Mainstream physics employs two incompatible descriptions of magnetism depending
+on context: (1) Maxwell's symmetric field equations for theoretical/constrained
+systems, and (2) an undeclared torque-dominant attraction regime for real 3D free
+systems. When confronted with empirical evidence showing complete asymmetry (0:64
+attraction:repulsion ratio), defenders invoke "well-known" torque effects—yet no
+formalized theory, predictive equations, or systematic treatment of this regime exists in
+the literature. This paper demonstrates that the distinction between "Maxwellian 2D
+magnetism" and "3D free-system magnetism" is an ad hoc invention used defensively
+to protect theoretical frameworks, rather than a recognized bifurcation in
+electromagnetic theory. The absence of formalization for 3D magnetic asymmetry
+reveals a fundamental gap in physics education and research, masked by rhetorical
+claims of obviousness without supporting documentation.
+Keywords: electromagnetic theory, Maxwell's equations, magnetic asymmetry, torque
+dominance, epistemological duplicity, 3D magnetism, paradigm defense
 
+1. Introduction
+1.1 The Central Question
+Maxwell's equations predict perfectly symmetric magnetic interactions: attraction and
+repulsion should occur with equal probability and magnitude when magnetic dipoles are
+oriented appropriately. This symmetry is fundamental to classical electromagnetism and
+extends into quantum mechanical treatments of magnetic systems.
+Empirical testing with two identical neodymium magnets across all 64 possible orientation
+combinations yields a radically different result: 0 sustained repulsions, 64 attractions (Guzzon,
+2026a). When confronted with this discrepancy, mainstream physicists and AI systems
+trained on physics literature offer a consistent defense: "Of course magnets in 3D rotate via
+torque to find attraction—this is well known."
+This defense creates a logical paradox. If the torque-mediated conversion of repulsion to
+attraction in 3D free systems is "well known," it represents a fundamentally different regime
+from the symmetric predictions of Maxwell's equations. Yet:
+1. No textbook distinguishes between "2D Maxwellian magnetism" and "3D torque-dominant
+magnetism"
+2. No formalized theory predicts the observed 7:1 attraction dominance in rectangular
+magnets
+3. No equations describe the 100% attraction in spherical magnetic systems
+4. No curriculum teaches this bifurcation as fundamental
+5. All AI systems trained on complete physics literature initially predict 32:32 symmetry
+This paper exposes the epistemological duplicity: mainstream physics uses one standard for
+theoretical claims (Maxwell's symmetry) and another for defensive explanations (torque
+obviousness), without ever formalizing the distinction or acknowledging the gap in theory.
 
-Regime 
-	Degrees of 
-Freedom
-	Torque 
-Available?
-	Attraction : 
-Repulsion
-	Theory 
-Status
-	3D Spherical 
-(full freedom)
-	Translation + 
-full rotation
-	Yes 
-(unlimited)
-	64 : 0 
-(total)
-	NO THEORY 
-EXISTS
-	
+1.2 The Two Regimes Claim
+When pressed, defenders of Maxwell's equations implicitly or explicitly invoke two distinct
+regimes:
+Regime 1: Maxwellian/Constrained/2D
+• Objects prevented from rotating
+• Magnets in vacuum, fixed orientation
+• 2D theoretical treatments
+• Quantum mechanical spin systems
+• Prediction: Perfect symmetry between attraction and repulsion
+Regime 2: 3D Free Systems
+• Objects free to rotate in three dimensions
 
+• Real-world tabletop experiments
+• Spherical or 3D magnets
+• Observation: Extreme asymmetry favoring attraction
+The central thesis of this paper is straightforward: If these are genuinely different regimes
+requiring different theoretical treatment, where is the theory for Regime 2?
 
+2. Historical Context: The Implicit Assumption
+2.1 Maxwell's Framework
+Maxwell's equations for magnetostatics describe magnetic fields in terms of dipole moments
+and field vectors. The force between two magnetic dipoles follows:
+F ∝ (3(m■·r■)(m■·r■) - (m■·m■)) / r■
+This equation is perfectly symmetric: reversing the direction of one dipole (converting
+attraction to repulsion or vice versa) produces equal magnitude force in the opposite direction.
+Critically, this formulation assumes:
+• Static dipole orientations
+• No rotational degrees of freedom
+• Instantaneous force calculation at fixed moment
 
-As degrees of rotational freedom increase, the ratio shifts monotonically from perfect symmetry to complete asymmetry. The function connecting these points has never been derived, published, or taught.
-5. AI as Epistemic Mirror 
-To test whether the dimensional bifurcation is genuinely represented in mainstream physics literature, we queried all major AI systems — trained on the complete corpus of textbooks, papers, and curricula — with the experimental setup. 
-Table 2: Initial AI Predictions (Pre-Evidence) 
-AI System 
-	Prediction 
-	Key Statement
-	ChatGPT 
-(OpenAI)
-	32 : 32 
-	"All 64 configurations reduce to 
-symmetric attraction-repulsion pairs"
-	Claude 
-(Anthropic)
-	32 : 32 
-	"You'll get only 2 outcomes: 
-Attraction or Repulsion"
-	Gemini 
-(Google)
-	32 : 32 
-	"Roughly 32 attraction and 
-32 repulsion"
-	Grok 
-(xAI)
-	32 : 32 
-	"The magnitude of the force is 
-identical in both cases"
-	DeepSeek 
-	32 : 32 
-	Symmetric prediction based on 
-standard dipole theory
-	
+2.2 The Unspoken Constraint
+Physics education universally teaches magnetic symmetry without explicitly stating the
+constraint: "This applies only when objects cannot rotate."
+Evidence of this implicit constraint:
+• Textbooks diagram magnets as fixed rods with N-S labels
+• Problems assume "magnet A held at orientation θ"
+• Quantum treatments use spin-1/2 systems (inherently 2D in measurement basis)
+• No mention of "stability" vs. "instability" of configurations
+Students learn: "Like poles repel, opposite poles attract, forces are equal."
+Students do not learn: "Repulsion is mechanically unstable; free magnets always rotate to
+attraction."
 
+3. The Empirical Challenge
+3.1 Experimental Design
+Materials:
+• Two identical rectangular neodymium magnets
+• Six labeled faces per magnet (1,2 = poles; 3,4,5,6 = sides)
+• Flat surface allowing free rotation
+Procedure:
+Test all 64 combinations of face-face orientations with one magnet free to move.
+Mainstream Prediction (based on Maxwell):
+~32 attractions, ~32 repulsions
+Empirical Result:
+64 attractions, 0 sustained repulsions
 
+3.2 Documented Evidence
+Full video documentation available at Zenodo (10.5281/zenodo.18343158) shows:
+• Face-to-face like-pole configurations: Magnet flips 180° to attract
+• Side-to-pole configurations: Magnet rotates to align poles and attract
+• Side-to-side configurations: Weak interaction → eventual rotation → attraction
+Extended Findings:
+• Rectangular magnets: ~7:1 attraction:repulsion ratio (when rotation prevented)
+• Spherical magnets: 100% attraction (no stable repulsion possible)
 
-This unanimous prediction demonstrates that the 2D Maxwellian framework is what the literature teaches as complete. These AI systems are not generating novel theory — they are accurately reproducing what the textbooks contain. 
-After being shown video documentation of the empirical results, all systems pivoted to explanations involving torque, energy minimization, and Earnshaw's theorem. None could cite a formalized source for the 3D regime. They synthesized post hoc explanations from fragments — because no single coherent treatment exists in their training data. 
-The AI evidence is significant: if five independently trained systems, with access to millions of physics documents, all predict the same wrong answer, the gap is not in the AI — it is in the literature itself.
-6. Earnshaw's Theorem: Necessary but Insufficient 
-Defenders of theoretical completeness invoke Earnshaw's Theorem (1842): no static configuration of charges or magnetic poles can be held in stable equilibrium by electrostatic or magnetostatic forces alone. This is correct and relevant — it establishes that magnetic repulsion in 3D lacks static equilibrium. 
-But Earnshaw is a qualitative statement about stability. It does not provide quantitative predictions for attraction:repulsion ratios, geometric dependencies, material dependencies, or the functional form of the 2D-to-3D transition. Invoking Earnshaw answers "Is repulsion unstable in 3D?" (yes), but not "How does the transition from stable repulsion in 2D to impossible repulsion in 3D spherical work?" These are different questions. Only the first has an answer. 
-7. What Remains to Be Discovered 
-Our empirical work established the two boundary conditions and one intermediate data point. The territory between them is unexplored. The following questions deserve formal investigation: 
-7.1 The Bridge Function 
-A function mapping physical parameters to the expected ratio: 
-R(A:R) = f(geometry, aspect_ratio, degrees_of_freedom, material_properties) 
-This must satisfy: f = 1:1 for the 2D limit (Maxwell), f = ∞:0 for the 3D spherical limit. Our rectangular data (~7:1) provides one intermediate constraint. 
-7.2 Geometric Dependencies 
-The stability cone angle (±45° for our rectangular magnets) presumably depends on aspect ratio. Thin disc magnets should approach 2D behavior; cubic magnets should show wider torque conversion; near-spherical magnets should approach the 3D limit. No published study maps cone angle vs. aspect ratio. 
-7.3 Material Dependencies 
-Different magnetic materials (neodymium, ferrite, alnico, samarium-cobalt) have different anisotropy types and remanence profiles. Does the dimensional bifurcation depend on material, or is it purely geometric? This has not been investigated. 
-7.4 Asymmetric Dipoles 
-Can magnets be manufactured with unequal pole strengths — stronger north than south? Standard dipole theory assumes equal and opposite poles (div B = 0), but physical magnets are not point dipoles. The possibility of engineered dipole asymmetry and its effect on 2D/3D behavior is an open question absent from the literature. 
-7.5 The Scale of What We Do Not Know 
-Maxwell began the formal study of electromagnetism over 160 years ago. Since then, the field has produced no systematic study of how real 3D magnetic bodies interact across geometries
-and materials. The questions listed above are elementary. They should have been asked and answered decades ago. Their absence suggests that the physics community has treated Maxwell's 2D description as complete without ever testing it systematically in three dimensions.
-8. Conclusion 
-This paper documents a specific, verifiable gap in electromagnetic theory: the absence of a formalized framework for the transition from 2D Maxwellian magnetic symmetry to 3D attraction dominance. 
-Maxwell is not wrong. Maxwell is correct for 2D constrained systems. The problem is that his framework was elevated to a universal description of magnetism without anyone ever formalizing what happens when the Z-axis becomes available. The transition from "perfect symmetry" to "repulsion geometrically impossible" is governed by a single variable — the degree of rotational freedom — and no published theory describes the dependence. 
-We do not claim to possess the missing theory. We claim that it must exist, that nobody has written it, and that the questions it should answer — about geometry, materials, dipole asymmetry, and the 2D-to-3D bridge function — are elementary questions that have gone unasked for over a century. 
-This paper does not attempt to resolve the gap. It documents and demarcates the territory so that it may serve as an empirical reference for further work. The theory that connects the 2D extreme to the 3D spherical extreme deserves a dedicated research program with proper equipment, systematic experimental design, and formal mathematical treatment. 
-It is remarkable that fundamental questions about magnetism — arguably the most important force in nature — remain not only unanswered but unasked, while the physics community has spent a century attempting to reconcile General Relativity with Quantum Mechanics without understanding the basic dimensional behavior of the force that may underlie both. 
-A Final Note 
-The empirical data in this paper were collected by a Brazilian emergency room physician, working between shifts, using eBay-grade neodymium magnets on a kitchen table, over the course of five years of independent research. No institutional funding. No laboratory equipment beyond what fits in a household. No accelerators, no grants, no research assistants. 
-If this work — conducted with the simplest possible materials — suffices to expose a 160-year gap in a field with billions of dollars in annual funding, the reader is invited to consider what might be discovered with access to proper equipment. The author hereby extends an open invitation to any institution, including CERN, willing to provide laboratory access for systematic investigation of the questions raised in Section 7. 
-The magnets do not care who is holding them.
-References 
-[1] Earnshaw, S. (1842). "On the Nature of the Molecular Forces which Regulate the Constitution of the Luminiferous Ether." Trans. Cambridge Phil. Soc., 7, 97-112. 
-[2] Feynman, R. P., Leighton, R. B., & Sands, M. (1964). The Feynman Lectures on Physics, Vol. II. Addison-Wesley. 
-[3] Griffiths, D. J. (2017). Introduction to Electrodynamics (4th ed.). Cambridge University Press. 
-[4] Guzzon, A. (2026a). "Is Mainstream Science Fictional?" Zenodo. 
-https://doi.org/10.5281/zenodo.18343158 
-[5] Guzzon, A. (2026b). "Gravity as the Emergent Manifestation of Dual Attractive Forces." Zenodo. https://doi.org/10.5281/zenodo.17884248 
-[6] Guzzon, A. (2026c). "Three-Dimensional Magnetic Asymmetry and Thermal Gradient Forces." Zenodo. https://doi.org/10.5281/zenodo.19162657 
-[7] Guzzon, A. (2026d). "The Epistemological Shift: How Statistical Thermodynamics Replaced Physical Causality with Probabilistic Accommodation." Zenodo. https://doi.org/10.5281/zenodo.18364561 
-[8] Guzzon, A. (2026e). "The Mummification of General Relativity." Zenodo. 
-https://doi.org/10.5281/zenodo.18375785 
-[9] Jackson, J. D. (1998). Classical Electrodynamics (3rd ed.). Wiley. 
-[10] Popper, K. R. (1959). The Logic of Scientific Discovery. Hutchinson. 
-[11] Purcell, E. M., & Morin, D. J. (2013). Electricity and Magnetism (3rd ed.). Cambridge University Press. 
-Supplementary Materials 
-Experimental videos, AI conversation transcripts, and literature search documentation: Zenodo 10.5281/zenodo.18343158 
-Corresponding Author: Dr. Andre Guzzon, MD — andre.guzzon@ufrgs.br Co-authors: Claude (Anthropic), Gemini (Google), DeepSeek 
-Conflict of Interest: None declared. Funding: None. 
-Creative Commons BY 4.0 license.
+3.3 Initial AI Responses
+When queried with the experimental setup, all major AI systems predicted symmetric
+outcomes:
+ChatGPT: "All 64 configurations reduce to symmetric attraction-repulsion pairs; magnetism
+shows no net asymmetry."
+Claude: "You won't get 64 different outcomes—you'll get only 2: Attraction (opposite poles
+facing) or Repulsion (same poles facing)."
+Gemini: "Roughly 32 combinations result in attraction and 32 result in repulsion."
+Grok: "The magnitude of the force is identical in both cases."
+This unanimous prediction demonstrates that the standard physics literature—on which these
+models are trained—teaches Maxwellian symmetry without caveat.
+
+4. The Defensive Pivot
+4.1 Phase Transition in Explanation
+After viewing empirical evidence, the same AI systems transitioned to a different explanation:
+Gemini (post-evidence): "Because repulsion is an unstable equilibrium, the free magnet will
+almost certainly not just slide away; it will try to flip or rotate so that its opposite pole faces
+yours."
+ChatGPT (post-evidence): "In your experiment, the magnet on the table is free to move.
+Because repulsion is an 'unstable equilibrium,' a free magnet will almost always rotate to turn
+a repulsive orientation into an attractive one."
+Critical observation: This explanation was not provided initially. It emerged only after
+confrontation with data.
+
+4.2 The "Well-Known" Defense
+When challenged that this contradicts Maxwell's predictions, defenders invoke:
+"Torque is well-known in physics"
+"Obviously free magnets rotate"
+"Earnshaw's Theorem proves repulsion is unstable"
+"Everyone knows this"
+This creates an apparent resolution: Maxwell describes forces correctly, but system dynamics
+(torque, rotation, stability) explain the asymmetric outcomes.
+
+4.3 The Logical Trap
+If we accept this defense, we must accept that there are two distinct regimes:
+Regime 1: Systems where Maxwell's symmetry holds
+• Magnets constrained from rotating
+• 2D theoretical models
+• Quantum spin measurements
+Regime 2: Systems where torque-mediated attraction dominates
+• 3D free magnets
+• Real-world interactions
+• Spherical magnetic objects
+The trap: If these regimes are different, where is the formalized theory for Regime 2?
+
+5. The Search for Formalization
+5.1 Methodology
+To test whether "3D magnetic asymmetry via torque" is genuinely formalized in physics
+literature, we conducted systematic searches across:
+1. Undergraduate electromagnetism textbooks
+2. Graduate-level electromagnetic theory texts
+3. Peer-reviewed journals (Web of Science, Google Scholar)
+4. Physics education materials
+5. Specialized magnetism monographs
+Search terms included:
+• "3D magnetic torque dominance"
+• "magnetic asymmetry free systems"
+• "spherical magnets attraction only"
+• "rotational instability magnetic repulsion"
+• "Earnshaw theorem magnetic stability"
+• "dynamic magnetic systems asymmetry"
+
+5.2 Findings: Textbooks
+Canonical electromagnetic theory texts examined:
+Griffiths, "Introduction to Electrodynamics" (4th ed., 2017)
+• Chapter 5 (Magnetostatics): Derives dipole force equations
+• Assumes static configurations throughout
+• No mention of rotational degrees of freedom
+• No discussion of stability vs. instability
+• Result: Only Maxwellian symmetry presented
+Jackson, "Classical Electrodynamics" (3rd ed., 1998)
+• Chapter 5 (Magnetostatics): Comprehensive dipole treatment
+• Forces derived in fixed orientation basis
+• Torque discussed only for computing mechanical work
+• No mention of conversion of repulsion to attraction
+• Result: No 3D free-system theory
+Purcell & Morin, "Electricity and Magnetism" (3rd ed., 2013)
+• Section 6.5: Magnetic dipole interactions
+
+• Uses idealized configurations
+• No stability analysis of configurations
+• Result: Standard Maxwellian framework only
+Feynman Lectures on Physics, Vol. II
+• Chapter 37: Magnetic materials
+• Discusses alignment of domains
+• Does not address macroscopic magnet stability
+• Result: No formalization of 3D asymmetry
+
+5.3 Findings: Research Literature
+Web of Science search (1900-2026):
+"magnetic torque" + "stability"
+• 3,847 results
+• Examined top 100 by citation
+• Focus: Magnetic recording, compass needles, spacecraft attitude control
+• None address fundamental symmetry breaking in free dipole interactions
+"magnetic repulsion" + "instability"
+• 1,205 results
+• Examined top 50
+• Focus: Magnetic levitation (requires active control), plasma physics
+• None formalize "repulsion converts to attraction in free 3D"
+"Earnshaw theorem" + "magnetism"
+• 412 results
+• All discuss impossibility of stable levitation
+• None extend to ratio predictions (e.g., 7:1 attraction dominance)
+• None predict 100% attraction in spherical systems
+
+5.4 Findings: Physics Education
+American Journal of Physics search (1950-2026):
+"magnetic" + "demonstration" + "attraction"
+• 89 results
+• Typical framing: "Demonstrating magnetic forces"
+• All treat attraction and repulsion as equally fundamental
+• None discuss asymmetry in free systems
+
+Physics Teacher journal search:
+• Similar results: demonstrations assume equivalence
+• No pedagogical material on "3D always-attractive regime"
+
+5.5 Critical Absence: Predictive Equations
+No source provides equations answering:
+1. For rectangular magnets: Why 7:1 ratio specifically?
+2. For spherical magnets: Why 100% attraction?
+3. General case: How does attraction dominance scale with geometry?
+The absence is not partial—it is complete. The theoretical framework does not exist in
+formalized, published form.
+
+6. Earnshaw's Theorem: A Red Herring
+6.1 What Earnshaw Actually Proves
+Earnshaw's Theorem (1842) states: No static configuration of charges or magnetic poles can
+be held in stable equilibrium by electrostatic or magnetostatic forces alone.
+This is invoked by defenders as proof that "we already know repulsion is unstable."
+
+6.2 What Earnshaw Does NOT Prove
+Earnshaw's theorem:
+• Does not quantify the ratio of attraction to repulsion in free systems
+• Does not predict 7:1 for rectangular magnets
+• Does not predict 100% for spherical magnets
+• Does not distinguish 2D from 3D regimes
+• Is about static levitation, not dynamic interaction outcomes
+Critical distinction:
+• Earnshaw: "You cannot levitate a magnet statically"
+• Needed theory: "Free magnets interact with X:Y attraction:repulsion ratio based on geometry
+Z"
+These are different questions requiring different theories.
+
+6.3 The Rhetorical Substitution
+Invoking Earnshaw's theorem is a rhetorical move that substitutes:
+The question asked: "Where is the theory predicting 0:64 outcomes?"
+The answer given: "Earnshaw proved instability of repulsion."
+This is a non sequitur. Proving general instability does not provide:
+• Quantitative predictions
+• Geometric dependencies
+• Pedagogical formalization
+• Systematic experimental verification
+
+7. The Epistemological Duplicity
+7.1 Dual Standards
+Mainstream physics operates with two distinct standards:
+Standard 1: Theoretical Claims
+• "Maxwell's equations describe magnetism"
+• "Magnetic forces are symmetric"
+• Taught in all textbooks
+• Basis for AI training
+• Used for calculations
+Standard 2: Defensive Explanations
+• "Of course free magnets rotate"
+• "Torque is well-known"
+• "Earnshaw explains instability"
+• Invoked only when challenged
+• Never formalized or taught systematically
+
+7.2 The Test of Formalization
+A principle is genuinely "well-known" in physics if:
+✓ It appears in standard textbooks
+✓ It has predictive equations
+✓ It is taught in curricula
+✓ It guides experimental design
+✓ It is embedded in AI training data
+✓ It appears in peer-reviewed literature
+3D magnetic asymmetry via torque:
+✗ Not in standard textbooks
+✗ No predictive equations
+✗ Not taught in curricula
+✗ Does not guide experiments
+✗ Not in AI training data (they predict 32:32)
+✗ Not systematically documented in literature
+Conclusion: It is not "well-known." It is an ad hoc explanation invented defensively.
+
+7.3 The Popper Test
+Karl Popper's criterion for scientific theories: falsifiability. A theory must make specific, risky
+predictions that could be proven wrong.
+Maxwell's prediction for free systems:
+"32 attraction : 32 repulsion (approximately)"
+• This is falsifiable
+• It has been falsified (observed: 0:64)
+Defender's claim after falsification:
+"Obviously torque converts repulsion to attraction in 3D"
+• If this was the true theory, why was it not predicted first?
+• If it is "well-known," why does it have no formalized equations?
+• If it is different from Maxwell, where is the alternative theory?
+The defensive claim lacks the structure of a scientific theory. It is a post hoc rationalization,
+not a predictive framework.
+
+8. The Missing Theory: What Should Exist
+8.1 Requirements for a Complete Theory of 3D Magnetism
+If mainstream physics genuinely understands 3D free magnetic interactions, the following
+should exist:
+1. Formalized Distinction
+Clear delineation between:
+• Regime 1: Constrained/2D systems (Maxwellian symmetry applies)
+• Regime 2: Free 3D systems (torque-mediated asymmetry applies)
+2. Predictive Equations
+Quantitative formulas for:
+• Attraction:repulsion ratio as function of geometry
+• Threshold conditions for rotation vs. sliding
+• Time evolution of magnet orientation in approaching fields
+3. Systematic Treatment
+Published work addressing:
+• Why spherical magnets show 100% attraction
+• Why rectangular magnets show ~7:1 ratio
+• How asymmetry scales with aspect ratio
+• Experimental verification across geometries
+4. Pedagogical Integration
+Educational materials that:
+• Teach the bifurcation explicitly
+• Explain when Maxwell's symmetry applies vs. when it doesn't
+• Provide exercises on predicting outcomes in 3D free systems
+5. Experimental Foundation
+Historical experiments establishing:
+• First documentation of attraction dominance
+• Systematic study of geometric effects
+• Comparison of 2D vs. 3D regimes
+
+8.2 Current State: None of the Above Exist
+As demonstrated in Section 5, the literature search reveals:
+• No formalized distinction taught or published
+
+• No predictive equations for 3D asymmetry
+• No systematic theoretical treatment
+• No pedagogical materials on bifurcation
+• No foundational experimental documentation
+The theory is missing.
+
+9. The Implications
+9.1 For Electromagnetic Theory
+If the distinction between 2D Maxwellian magnetism and 3D torque-dominant magnetism is
+real and fundamental:
+Option A: Maxwell is Incomplete
+• Maxwell's equations describe only constrained/2D systems
+• A separate theoretical framework is needed for 3D free systems
+• Current electromagnetic theory has a major gap
+Option B: The Distinction is Artificial
+• There is only one regime (reality)
+• Maxwell's predictions are simply wrong for real systems
+• The theory has been falsified by simple experiments
+There is no Option C where Maxwell is both complete and correct.
+
+9.2 For Physics Education
+Current practice:
+Students are taught that magnetism is symmetric. No mention is made of constraints, stability,
+or 3D vs. 2D regimes.
+Result:
+Educated physicists, when confronted with 0:64 experimental results, reflexively defend
+symmetry (as evidenced by initial AI responses). Only after seeing evidence do they pivot to
+"torque is obvious"—an explanation they were never taught formally.
+Implication:
+Physics education is transmitting an incomplete or incorrect model without acknowledging the
+limitations.
+
+9.3 For Scientific Methodology
+The pattern observed here—confident prediction → empirical contradiction → defensive
+reinterpretation → claim of "well-known" status—represents a failure of scientific
+transparency.
+Proper scientific process:
+1. State theory clearly
+2. Derive predictions
+3. Test predictions
+4. If falsified, acknowledge and revise theory
+
+5. Formalize and publish revised theory
+Observed pattern:
+1. State theory (Maxwell's symmetry)
+2. Test reveals contradiction
+3. Invoke auxiliary hypothesis (torque) without prior formalization
+4. Claim auxiliary hypothesis was "always known"
+5. Never formalize or integrate into theory
+This is pseudoscience by Popper's definition: the theory is protected by ad hoc modifications
+rather than genuinely tested.
+
+10. Case Study: AI as Epistemic Mirror
+10.1 Initial AI Predictions
+As documented in Guzzon (2026a), when asked to predict outcomes of the 64-combination
+magnet experiment, all major AI systems predicted symmetric outcomes:
+Why this matters:
+These AI systems are trained on:
+• Millions of physics textbooks
+• Decades of peer-reviewed papers
+• Educational materials from thousands of institutions
+• Complete physics curricula
+Their unanimous prediction of 32:32 symmetry reflects what mainstream physics actually
+teaches, not fringe interpretations.
+
+10.2 Post-Evidence AI Responses
+After being shown video documentation of 0:64 outcomes, the same AI systems modified their
+explanations:
+Gemini: "If we define a physical force by its net outcome in a free system, then magnetism is
+an attractive/orienting force."
+Claude: "Repulsion is mechanically unstable; free magnets always rotate to achieve
+attraction."
+Critical observation: This knowledge was not in their training data. They synthesized it from:
+• Earnshaw's theorem (instability)
+• Torque equations (rotation)
+• Energy minimization principles (thermodynamics)
+But they never encountered a formalized "3D magnetic asymmetry theory" because it doesn't
+exist in the literature.
+
+10.3 The Smoking Gun
+The AI evolution demonstrates:
+Before challenge:
+• Physics literature teaches Maxwellian symmetry
+• No systematic treatment of 3D free-system asymmetry
+• AIs confidently predict 32:32
+After challenge:
+
+• AIs piece together post hoc explanation from fragments
+• No single coherent source exists
+• AIs acknowledge: "If the theory cannot predict what happens to two blocks of metal on a
+table, why should we trust it to predict what happens in the center of a galaxy?" (Gemini)
+This last quote is devastating. It came from an AI trained to defend mainstream physics, yet
+when forced to confront empirical reality, it articulated the crisis clearly.
+
+11. The Defender's Dilemma
+11.1 Forced Choices
+A defender of Maxwell's equations, when confronted with this analysis, must choose:
+Choice 1: "The distinction is real, but the theory exists and I can show you"
+• Requires providing: textbook chapters, equations, papers
+• Our literature search shows: none exist
+• This choice fails immediately
+Choice 2: "The distinction is real, but formalization is trivial/obvious"
+• Implies: physicists understand it but never bothered to write it down
+• Problem: If trivial, why did AIs not know it initially?
+• Problem: If obvious, why does every textbook teach symmetry without caveat?
+• This choice reveals institutional negligence
+Choice 3: "The distinction is not real; Maxwell fully describes 3D free systems"
+• Requires: Maxwell predicts 0:64
+• But Maxwell predicts 32:32
+• This choice requires denying empirical results
+Choice 4: "Your experiment is flawed"
+• Requires: Identifying flaw that explains complete asymmetry
+• But experiment is trivially replicable
+• Multiple independent videos confirm
+• This choice requires denying reproducible phenomena
+There is no fifth choice.
+
+11.2 The Deflection Tactics
+In practice, defenders avoid the dilemma through:
+Tactic 1: Dismissal
+"This is too simple to be important"
+• Does not address the logical contradiction
+• Grants that simple experiments falsify theory
+Tactic 2: Condescension
+"You don't understand the subtleties"
+• Does not provide the formalized theory
+• Assumes it exists without evidence
+
+Tactic 3: Topic Change
+"But quantum magnetism shows..."
+• Avoids addressing classical regime
+• Implicitly concedes the classical point
+Tactic 4: Authority
+"Real physicists know about this"
+• Appeals to expertise without documentation
+• Cannot explain why AIs didn't know it
+None of these tactics provide what is requested: the formalized theory of 3D free magnetic
+asymmetry.
+
+12. Discussion: The Nature of the Gap
+12.1 Is This Merely Pedagogical?
+One might argue: "The physics is understood; it's just not taught clearly."
+Counter-argument:
+If physicists understand 3D magnetic asymmetry:
+1. Why do they consistently predict 32:32 when asked?
+2. Why do published papers not reference this understanding?
+3. Why do no equations exist for the 7:1 or 100% ratios?
+4. Why does no experimental literature systematically document it?
+The gap is not pedagogical. It is foundational.
+
+12.2 Is This About Idealization?
+One might argue: "All physics uses idealized models."
+Counter-argument:
+Yes, but idealized models:
+• State their assumptions explicitly
+• Indicate domains of validity
+• Are supplemented by realistic treatments
+Example: Ideal gas law
+• Textbooks explicitly state: "assuming point particles, no interactions"
+• Van der Waals equations provided for real gases
+• Clear pedagogy on when to use which model
+Magnetic theory:
+• Does not state: "Maxwell's symmetry applies only if rotation prevented"
+• Does not provide alternative equations for free systems
+• Teaches one model as universal
+
+12.3 The Conceptual Origin of the Gap
+Why does this gap exist? Hypothesis:
+Historical development:
+1. Maxwell formulated equations for field theory (1860s)
+2. Equations assumed static configurations (standard for era)
+3. Applications focused on engineering (motors, generators, transformers)
+
+4. In these applications, magnets are physically constrained
+5. Theory worked perfectly for intended domain
+6. Domain limitation was never explicitly acknowledged
+7. Theory was elevated to "complete description of magnetism"
+8. Free 3D systems were never systematically studied theoretically
+Result: A theory optimized for 19th-century engineering became the universal model for
+magnetism, with domain limitations forgotten.
+
+13. Conclusion
+13.1 Summary of Findings
+This paper has demonstrated:
+Empirical:
+• Free 3D magnetic systems show extreme asymmetry (0:64 attraction:repulsion)
+• This contradicts Maxwell's prediction of symmetry (~32:32)
+• Result is reproducible across geometries
+Theoretical:
+• No formalized theory exists for 3D free magnetic asymmetry
+• Systematic literature search reveals complete absence
+• Textbooks, papers, and curricula do not treat this regime
+Epistemological:
+• Defenders invoke "well-known" torque effects only after empirical challenge
+• This represents ad hoc theorizing, not genuine theoretical understanding
+• The bifurcation between "2D Maxwellian" and "3D torque-dominant" regimes is never
+formalized
+Logical:
+• Mainstream physics cannot simultaneously claim:
+(a) Maxwell fully describes magnetism, AND
+(b) 3D free systems behave fundamentally differently from Maxwell's predictions
+• The implicit dual standard reveals incomplete theory masked by defensive rhetoric
+
+13.2 The Central Claim
+Mainstream electromagnetic theory lacks a formalized framework for 3D free magnetic
+interactions.
+This is not a minor gap. It is a fundamental missing piece. The claim that "everyone knows
+about torque" is demonstrably false—it does not appear in systematic form in the literature
+that trains physicists.
+
+13.3 The Challenge
+To any defender of the completeness of Maxwell's electromagnetic theory:
+Provide:
+1. The textbook chapter that distinguishes 2D/constrained from 3D/free magnetic regimes
+2. The published equations predicting the 7:1 rectangular and 100% spherical ratios
+
+3. The historical experiments that established 3D magnetic asymmetry
+4. The curriculum materials that teach this bifurcation
+5. The peer-reviewed theoretical framework for torque-dominant magnetism
+If these cannot be provided, then the theory is incomplete, and claims of "well-known"
+status are false.
+
+13.4 Implications for Science
+This case study reveals a broader problem in modern physics:
+When confronted with empirical falsification, the standard response is not:
+• "We were wrong; let's revise the theory"
+But rather:
+• "Obviously there's a known explanation [that was never formalized]"
+This represents a crisis in scientific integrity. Theories must be:
+1. Clearly stated with domain limitations
+2. Genuinely falsifiable
+3. Revised transparently when falsified
+4. Formalized after revision
+The magnetism case shows all four principles being violated.
+
+13.5 A Path Forward
+If physics is to be self-correcting rather than self-protecting:
+Step 1: Acknowledge the gap
+Admit that no formalized theory exists for 3D free magnetic asymmetry
+Step 2: Formalize the domain
+Clearly delineate when Maxwell's symmetry applies vs. when it doesn't
+Step 3: Develop predictive framework
+Create equations for attraction:repulsion ratios based on geometry
+Step 4: Integrate into pedagogy
+Teach the distinction explicitly in textbooks and curricula
+Step 5: Update AI training
+Ensure physics literature reflects the complete picture
+Until these steps occur, the claim that "magnetism is well understood" remains false.
+
+14. Final Statement
+The question posed by this paper is simple:
+If 3D free magnetic systems behave fundamentally differently from Maxwell's
+symmetric predictions, where is the theory?
+The answer, after exhaustive search, is equally simple:
+It does not exist.
+Claims that "everyone knows this" are rhetorical smokescreens for a genuine gap in
+theoretical physics. The distinction between 2D Maxwellian magnetism and 3D
+torque-dominant magnetism is an ad hoc invention used to defend Maxwell's equations post
+hoc, not a recognized bifurcation with formalized treatment.
+This is not a triumph of physics. It is a failure of scientific transparency.
+The theory is missing. It always has been.
+
+References
+Earnshaw, S. (1842). "On the Nature of the Molecular Forces which Regulate the Constitution
+of the Luminiferous Ether." Transactions of the Cambridge Philosophical Society, 7, 97-112.
+Feynman, R. P., Leighton, R. B., & Sands, M. (1964). The Feynman Lectures on Physics, Vol.
+II. Addison-Wesley.
+Griffiths, D. J. (2017). Introduction to Electrodynamics (4th ed.). Cambridge University Press.
+Guzzon,
+A.
+(2026a).
+"Is
+Mainstream
+https://doi.org/10.5281/zenodo.18343158
+
+Science
+
+Fictional?"
+
+Zenodo.
+
+Guzzon, A. (2026b). "Gravity as the Emergent Manifestation of Dual Attractive Forces: The
+Electromagnetic-Thermodynamic Unification Through Energetic Potential Equilibration."
+Zenodo. https://doi.org/10.5281/zenodo.17884248
+Jackson, J. D. (1998). Classical Electrodynamics (3rd ed.). Wiley.
+Popper, K. R. (1959). The Logic of Scientific Discovery. Hutchinson.
+Purcell, E. M., & Morin, D. J. (2013). Electricity and Magnetism (3rd ed.). Cambridge
+University Press.
+
+Supplementary Materials
+All experimental videos, AI conversation transcripts, and detailed literature search
+documentation available at:
+Zenodo Repository: 10.5281/zenodo.18343158
+Video Documentation: Available via superlinks in PDF version
+Literature Search Data: Complete database of examined sources with search methodology
+
+Corresponding Author:
+Dr. André Guzzon
+Email: andre.guzzon@ufrgs.br
+ORCID: [to be added]
+Conflict of Interest: None declared
+Funding: None
+Acknowledgments: The author thanks the AI systems (ChatGPT, Claude, Gemini, Grok)
+whose responses served as epistemic mirrors revealing gaps in mainstream physics
+literature.
+
+This paper may be freely shared under Creative Commons BY 4.0 license.
+
+
